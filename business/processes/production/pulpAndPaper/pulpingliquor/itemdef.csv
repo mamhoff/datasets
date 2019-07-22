@@ -1,5 +1,3 @@
-name,Pulp and paper pulping liquor emissions
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of Pulping Liquor,type,TEXT,true,true,,,,
 Wood Furnish,woodFurnish,TEXT,true,true,,,,

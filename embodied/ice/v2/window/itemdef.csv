@@ -1,5 +1,3 @@
-name,ICE v2 window
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Frame type,type,TEXT,true,true,,,,
 Glazing type,glazing,TEXT,true,true,,,,

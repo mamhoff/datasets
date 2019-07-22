@@ -1,5 +1,3 @@
-name,DEFRA biomass fuel
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of fuel,fuel,TEXT,true,true,,,,
 Direct biogenic CO2 emissions per mass,massBiogenicCO2ePerMass,DECIMAL,true,false,kg,t,,

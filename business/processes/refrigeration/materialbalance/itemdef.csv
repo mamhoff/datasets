@@ -1,5 +1,3 @@
-name,Refrigerant Material Balance by DEFRA
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 Type of refrigerant,refrigerant,TEXT,false,false,,,,

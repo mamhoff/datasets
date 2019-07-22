@@ -1,5 +1,3 @@
-name,Aluminium Production: PFC Overvoltage Method
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of cell technology,cellType,TEXT,true,true,,,,
 Quantity of aluminium produced,alQuantity,DECIMAL,false,false,kg,,,

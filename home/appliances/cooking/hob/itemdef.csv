@@ -1,5 +1,3 @@
-name,Hob
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 Base kWh per year,baseKWhPerYear,DECIMAL,true,false,,,,

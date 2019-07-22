@@ -1,5 +1,3 @@
-name,DEFRA International electricity
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Country,country,TEXT,true,true,,,,
 Type of process,type,TEXT,true,true,,,,

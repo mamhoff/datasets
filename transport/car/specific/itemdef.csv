@@ -1,5 +1,3 @@
-name,Car Specific
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Manufacturer,manufacturer,TEXT,true,true,,,,
 Model,model,TEXT,true,true,,,,

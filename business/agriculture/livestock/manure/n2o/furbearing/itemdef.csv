@@ -1,5 +1,3 @@
-name,Manure N2O fur
-algFile,default.js
 name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Livestock type,livestockType,TEXT,true,true,,,,
 Management type,managementType,TEXT,true,true,,,,

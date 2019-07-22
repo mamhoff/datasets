@@ -1,5 +1,3 @@
-name,HCFC-22 production; HCFC-22 Gas Stream Methodology
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 HFC-23 Emissions Flow Rate,emissFlowRate,DECIMAL,false,false,m^3,min,,

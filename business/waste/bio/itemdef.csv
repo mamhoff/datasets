@@ -1,5 +1,3 @@
-name,Biological waste treatment
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Treatment type,type,TEXT,true,true,,,,
 CH4 emissions factor (dry weight basis),massCH4PerDryMass,DECIMAL,true,false,g,kg,,

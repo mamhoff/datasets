@@ -1,5 +1,3 @@
-name,GHGP international grid electricity
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Country,country,TEXT,true,true,,,,
 Mass CO2 per Energy,massCO2PerEnergy,DECIMAL,true,false,kg,kWh,,

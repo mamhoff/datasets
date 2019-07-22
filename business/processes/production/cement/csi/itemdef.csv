@@ -1,5 +1,3 @@
-name,Cement: Raw Materials
-algfile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Clinker Production,clinkerQuantity,DECIMAL,false,false,kg,year,,
 Calcination Emission Factor (corrected for CaO and MgO imports),EF,DECIMAL,false,false,kg,t,0.525,

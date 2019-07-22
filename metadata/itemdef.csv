@@ -1,5 +1,3 @@
-name,Metadata
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Adults in household,adultsInHousehold,INTEGER,false,false,,,,
 Building Type,buildingType,TEXT,false,false,,,,

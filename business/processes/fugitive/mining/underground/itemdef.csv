@@ -1,5 +1,3 @@
-name,fugitive underground mining
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Mine depth,mineDepth,TEXT,true,true,,,,
 Mining phase emissions per tonne,volumeCH4PerMassMining,DECIMAL,true,false,m^3,t,,

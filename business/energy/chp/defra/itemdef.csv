@@ -1,5 +1,3 @@
-name,DEFRA CHP Energy
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of service,type,TEXT,true,true,,,,
 Total plant emissions,plantEmissions,DECIMAL,false,false,kg,,,

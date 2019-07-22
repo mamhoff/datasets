@@ -1,5 +1,3 @@
-name,Generic lime production
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 Quantity of Lime produced,limeQuantity,DECIMAL,false,false,t,,,

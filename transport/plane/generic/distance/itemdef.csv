@@ -1,5 +1,3 @@
-name,planeDistance
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Cruising,cruising,DECIMAL,false,false,kg,km,0.10462818336163,
 Distance,distance,DECIMAL,false,false,km,,,

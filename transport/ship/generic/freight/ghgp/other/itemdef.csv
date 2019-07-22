@@ -1,5 +1,3 @@
-name,GHGP other regional ship freight
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of vessel,type,TEXT,true,true,,,,
 Vessel size,size,TEXT,true,true,,,,

@@ -1,5 +1,3 @@
-name,DEFRA fuel properties
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of fuel,fuel,TEXT,true,true,,,,
 Net calorific (lower heating) value,netEnergyPerMass,DECIMAL,true,false,GJ,t,,

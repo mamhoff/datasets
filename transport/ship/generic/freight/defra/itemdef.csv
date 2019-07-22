@@ -1,5 +1,3 @@
-name,Shipping Freight DEFRA
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 Typical Vessel Deadweight,typicalVesselDeadweight,TEXT,true,false,t,,,

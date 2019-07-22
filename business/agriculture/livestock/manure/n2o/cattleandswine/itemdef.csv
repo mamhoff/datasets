@@ -1,5 +1,3 @@
-name,Manure N2O cattle and swine
-algFile,default.js
 name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Region,region,TEXT,true,true,,,,
 Livestock type,livestockType,TEXT,true,true,,,,

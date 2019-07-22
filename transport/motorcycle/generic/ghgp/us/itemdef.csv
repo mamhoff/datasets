@@ -1,5 +1,3 @@
-name,Motorbike Generic GHGP US
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of HDV,vehicleType,TEXT,true,true,,,,
 CO2 per distance,kgCO2PerMile,DECIMAL,true,false,kg,mi,,

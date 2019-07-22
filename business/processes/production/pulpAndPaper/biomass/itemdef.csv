@@ -1,5 +1,3 @@
-name,Pulp and Paper biomass
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of Boiler,typeOfBoiler,TEXT,true,true,,,,
 Description of Boiler,description,TEXT,true,true,,,,

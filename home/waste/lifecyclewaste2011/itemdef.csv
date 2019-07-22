@@ -1,5 +1,3 @@
-name,Waste Disposal Life-Cycle 2011
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Waste type,wasteType,TEXT,true,true,,,,
 Waste sub-type,wasteSubType,TEXT,true,true,,,,

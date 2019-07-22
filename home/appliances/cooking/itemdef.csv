@@ -1,5 +1,3 @@
-name,Cooking
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Number Of People,numberOfPeople,DECIMAL,true,true,,,,
 Fuel,fuel,TEXT,true,true,,,,

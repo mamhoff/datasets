@@ -1,5 +1,3 @@
-name,Domestic water treatment
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Water treatment type,type,TEXT,true,true,,,,
 Discharge pathway,system,TEXT,true,true,,,,

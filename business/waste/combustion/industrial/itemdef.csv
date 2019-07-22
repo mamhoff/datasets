@@ -1,5 +1,3 @@
-name,Industrial waste combustion
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Industry sector,industry,TEXT,true,true,,,,
 Waste water content,waterContent,DECIMAL,true,false,,,,

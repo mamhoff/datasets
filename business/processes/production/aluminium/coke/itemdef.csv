@@ -1,5 +1,3 @@
-name,Coke calcination
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 Green coke feed,massGreenCoke,DECIMAL,false,false,t,,,

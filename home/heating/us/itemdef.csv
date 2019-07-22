@@ -1,5 +1,3 @@
-name,Heating US
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Fuel,fuel,TEXT,true,true,,,,
 is Air Con,isAirCon,TEXT,false,false,,,true,

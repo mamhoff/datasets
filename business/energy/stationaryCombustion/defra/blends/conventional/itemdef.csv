@@ -1,5 +1,3 @@
-name,DEFRA conventional fuels for biofuel blends
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of fuel,fuel,TEXT,true,true,,,,
 Direct CO2e per unit volume,massDirectCO2ePerVolume,DECIMAL,true,false,kg,L,,

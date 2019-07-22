@@ -1,5 +1,3 @@
-name,wasteRecovery
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Collected,collected,DECIMAL,false,false,m^3,year,,
 Collection Efficiency,collectionEfficiency,DECIMAL,false,false,,,0.75,

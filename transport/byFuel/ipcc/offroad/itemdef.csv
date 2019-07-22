@@ -1,5 +1,3 @@
-name,IPCC European off-road fuels
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Fuel type,fuel,TEXT,true,true,,,,
 Fuel use context,useContext,TEXT,true,true,,,,

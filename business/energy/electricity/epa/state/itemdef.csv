@@ -1,5 +1,3 @@
-name,EPA eGrid by state
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 State,state,TEXT,true,true,,,,
 Emission type,type,TEXT,true,true,,,,

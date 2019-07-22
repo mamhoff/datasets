@@ -1,5 +1,3 @@
-name,DEFRA stationary combustion by mass
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of fuel,fuel,TEXT,true,true,,,,
 Direct CO2 emissions factor,massCO2PerMass,DECIMAL,true,false,kg,t,,

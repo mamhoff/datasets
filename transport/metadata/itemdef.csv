@@ -1,5 +1,3 @@
-name,Transport metadata
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Air con usage,airConUsage,TEXT,false,false,,,,
 Car share,carShare,TEXT,false,false,,,,

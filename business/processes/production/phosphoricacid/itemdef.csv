@@ -1,5 +1,3 @@
-name,Phosphoric acid production
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Region of source phosphate rock,region,TEXT,true,true,,,,
 Total carbon content of phosphate,massTotalCarbonPerMass,DECIMAL,true,false,,,,

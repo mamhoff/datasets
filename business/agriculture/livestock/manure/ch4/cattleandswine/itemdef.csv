@@ -1,5 +1,3 @@
-name,Manure methane cattle and swine
-algFile,default.js
 name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Livestock type,livestockType,TEXT,true,true,,,,
 Geographic region,region,TEXT,true,true,,,,

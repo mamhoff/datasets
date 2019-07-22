@@ -1,5 +1,3 @@
-name,Waste
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 kg per month,kgPerMonth,DECIMAL,false,false,,,,
 Disposal method,savingType,TEXT,false,false,,,,

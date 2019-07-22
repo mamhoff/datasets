@@ -1,5 +1,3 @@
-name,GHGP CHP
-algfile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Country,country,TEXT,true,true,,,,
 GHG programme,ghgProgramme,TEXT,true,true,,,,

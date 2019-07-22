@@ -1,5 +1,3 @@
-name,Fuel DEFRA
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Fuel Type,fuel,TEXT,true,true,,,,
 Net or Gross CV Basis,netOrGross,TEXT,true,true,,,,

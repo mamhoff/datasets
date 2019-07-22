@@ -1,5 +1,3 @@
-name,fugitive abandoned mine generic
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Year of emissions inventory,inventoryYear,INTEGER,true,true,,,,
 Annual CH4 emissions from mines abandoned between 1901 and 1925,volumeCH4PerTime1901to1925,DECIMAL,true,false,m^3,year,,

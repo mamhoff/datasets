@@ -1,5 +1,3 @@
-name,busByOccupancy
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Accounted passengers,accountedPassengers,DECIMAL,false,false,,,,
 Context,context,TEXT,true,true,,,,

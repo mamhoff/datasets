@@ -1,5 +1,3 @@
-name,EPA eGrid regions
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Grid subregion,region,TEXT,true,true,,,,
 Emission type,type,TEXT,true,true,,,,

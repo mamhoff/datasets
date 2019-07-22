@@ -1,5 +1,3 @@
-name,Continuous emissions monitoring system
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of fuel,fuel,TEXT,true,true,,,,
 Subtype of fuel,subtype,TEXT,true,true,,,,

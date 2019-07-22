@@ -1,5 +1,3 @@
-name,Heat transfer fluids by consumption
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 Type of fluid,fluid,TEXT,false,false,,,,

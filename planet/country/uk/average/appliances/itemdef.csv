@@ -1,5 +1,3 @@
-name,UK Average - Appliances
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 Household or Individual UK Average,householdOrIndividual,TEXT,true,true,,,,

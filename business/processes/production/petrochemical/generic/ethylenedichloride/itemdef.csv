@@ -1,5 +1,3 @@
-name,Ethylene dichloride production
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of process,process,TEXT,true,true,,,,
 Type of emission,emission,TEXT,true,true,,,,

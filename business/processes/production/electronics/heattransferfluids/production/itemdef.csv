@@ -1,5 +1,3 @@
-name,Heat transfer fluids by production
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 C6F14 emissions per area substrate produced,massC6F14PerArea,DECIMAL,true,false,kg,m^2,,

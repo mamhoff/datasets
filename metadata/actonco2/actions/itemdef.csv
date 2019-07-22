@@ -1,5 +1,3 @@
-name,ActOnCO2 Action
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 Brief tip content,briefTipContent,TEXT,true,false,,,,

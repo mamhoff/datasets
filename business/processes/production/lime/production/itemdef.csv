@@ -1,5 +1,3 @@
-name,Lime Manufacture - Production Data
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Lime Type,limeType,TEXT,true,true,,,,
 Quantity of Lime,limeQuantity,DECIMAL,false,false,kg,,,

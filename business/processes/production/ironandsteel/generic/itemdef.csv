@@ -1,5 +1,3 @@
-name,Generic iron and steel processes
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Product,product,TEXT,true,true,,,,
 Process,process,TEXT,true,true,,,,

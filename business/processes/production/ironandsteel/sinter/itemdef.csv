@@ -1,5 +1,3 @@
-name,Iron and Steel: Sinter
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Material,material,TEXT,true,true,,,,
 Amount of Material,materialQuantity,DECIMAL,false,false,kg,,,

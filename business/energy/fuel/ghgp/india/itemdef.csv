@@ -1,5 +1,3 @@
-name,GHGP India Biomass
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 Net Calorific Value,netCalorificValue,DECIMAL,true,false,GJ,t,,

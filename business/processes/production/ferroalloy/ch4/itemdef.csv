@@ -1,5 +1,3 @@
-name,Ferroalloy methane emissions
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of Alloy,typeOfAlloy,TEXT,true,true,,,,
 Operation of Furnace,operationOfFurnace,TEXT,true,true,,,,

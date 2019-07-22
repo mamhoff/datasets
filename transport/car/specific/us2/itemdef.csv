@@ -1,5 +1,3 @@
-name,Car Specific US2
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Year,year,INTEGER,true,true,,,,
 Manufacturer,manufacturer,TEXT,true,true,,,,

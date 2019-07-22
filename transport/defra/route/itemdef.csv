@@ -1,5 +1,3 @@
-name,DEFRA Great Circle Route
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of route,type,TEXT,true,true,,,,
 IATA code 1,IATACode1,TEXT,false,false,,,,

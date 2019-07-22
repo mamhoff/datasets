@@ -1,5 +1,3 @@
-name,Lubricants
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Lubricant type,type,TEXT,true,true,,,,
 Carbon content,massCarbonPerEnergy,DECIMAL,true,false,kg,GJ,,

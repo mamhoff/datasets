@@ -1,5 +1,3 @@
-name,Light bulb by wattage
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 Time used per time period,timePerTimePeriod,DECIMAL,false,false,h,day,,

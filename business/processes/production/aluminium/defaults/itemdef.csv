@@ -1,5 +1,3 @@
-name,Aluminium Production: Defaults only
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of cell technology,processType,TEXT,true,true,,,,
 Quantity of aluminium produced,aluminiumQuantity,DECIMAL,false,false,kg,,,

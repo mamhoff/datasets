@@ -1,5 +1,3 @@
-name,GHG Electricity Oil
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Country,country,TEXT,true,true,,,,
 Energy Per Time,energyPerTime,DECIMAL,false,false,kWh,year,,

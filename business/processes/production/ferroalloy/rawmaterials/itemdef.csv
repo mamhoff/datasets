@@ -1,5 +1,3 @@
-name,Ferroalloy production raw materials methodology
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of Reducing Agent,typeOfReducingAgent,TEXT,true,true,,,,
 Mass CO2 Produced Per Mass Reducing Agent,massCO2PerMassReducingAgent,DECIMAL,both,false,t,t,,

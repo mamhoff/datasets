@@ -1,5 +1,3 @@
-name,Soil N2O from animal inputs
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 livestock type,type,TEXT,true,true,,,,
 Direct urine and dung-N to N2O-N conversion factor,massPerMass,DECIMAL,true,false,kg,kg,,

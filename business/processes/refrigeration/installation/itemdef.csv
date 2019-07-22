@@ -1,5 +1,3 @@
-name,Refrigeration Installation
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of Equipment,type,TEXT,true,true,,,,
 Installation Percentage Emission Factor,installationEmissionFactor,DECIMAL,true,false,,,,

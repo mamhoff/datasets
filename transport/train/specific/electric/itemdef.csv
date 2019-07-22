@@ -1,5 +1,3 @@
-name,Train specific electric
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Region,region,TEXT,true,true,,,,
 Train type,type,TEXT,true,true,,,,

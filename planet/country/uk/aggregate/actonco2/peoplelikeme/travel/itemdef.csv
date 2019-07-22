@@ -1,5 +1,3 @@
-name,People Like Me Travel
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown
 Rural or urban,ruralOrUrban,TEXT,true,true
 Profile type,profileType,TEXT,true,true

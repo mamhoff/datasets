@@ -1,5 +1,3 @@
-name,Electricity Disclosure - Nordic Domain
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Year,year,TEXT,true,true,,,,
 Country,country,TEXT,true,true,,,,

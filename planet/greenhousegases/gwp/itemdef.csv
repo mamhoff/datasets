@@ -1,5 +1,3 @@
-name,Global Warming Potentials
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Gas,gas,TEXT,true,true,,,,
 Name,name,TEXT,true,false,,,,

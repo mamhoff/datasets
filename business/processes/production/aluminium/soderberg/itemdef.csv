@@ -1,5 +1,3 @@
-name,Aluminium Production: Soderberg Process
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of Soderberg potline,soderbergType,TEXT,true,true,,,,
 Type of paste,pasteType,TEXT,true,true,,,,

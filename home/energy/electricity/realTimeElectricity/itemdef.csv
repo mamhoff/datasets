@@ -1,5 +1,3 @@
-name,Real Time Electricity Values
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Country,country,TEXT,true,true,,,,
 Close cycle gas turbine,ccgt,DECIMAL,true,false,kWh,,,

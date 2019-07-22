@@ -1,5 +1,3 @@
-name,IPCC US alternatively fuelled transport
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Vehicle type,type,TEXT,true,true,,,,
 Fuel type,fuel,TEXT,true,true,,,,

@@ -1,5 +1,3 @@
-name,GHGP freight transport
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Freighting type,type,TEXT,true,true,,,,
 Freighting subtype,subtype,TEXT,true,true,,,,

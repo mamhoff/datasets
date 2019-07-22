@@ -1,5 +1,3 @@
-name,Water treatment N2O
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of process,type,TEXT,true,true,,,,
 Total service population,totalPopulation,DECIMAL,false,false,,,,

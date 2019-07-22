@@ -1,5 +1,3 @@
-name,DEFRA UK electricity
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of activity,type,TEXT,true,true,,,,
 Type of emission,emission,TEXT,true,true,,,,

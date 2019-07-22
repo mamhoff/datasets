@@ -1,5 +1,3 @@
-name,Glass production by carbonate inputs
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Glass type,type,TEXT,true,true,,,,
 Quantity calcite/aragonite consumed,massCalcite,DECIMAL,false,false,t,,,

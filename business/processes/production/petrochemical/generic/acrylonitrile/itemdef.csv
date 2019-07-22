@@ -1,5 +1,3 @@
-name,Acrylonitrile production
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of process,process,TEXT,true,true,,,,
 Quantity of CO2 per unit of acrylonitrile produced,massCO2PerMass,DECIMAL,true,false,t,t,,

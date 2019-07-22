@@ -1,5 +1,3 @@
-name,Major airport codes
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 IATA code,IATACode,TEXT,true,true,,,,
 Airport name,airportName,TEXT,true,false,,,,

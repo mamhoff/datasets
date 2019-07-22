@@ -1,5 +1,3 @@
-name,ICE v2 window fills
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Fill type,type,TEXT,true,true,,,,
 Embodied energy per window,energyPerWindow,DECIMAL,true,false,MJ,,,

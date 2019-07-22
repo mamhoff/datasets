@@ -1,5 +1,3 @@
-name,methane flaring
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of flaring,type,TEXT,true,true,,,,
 Volume of methane flared,volumeCH4Flared,DECIMAL,false,false,m^3,year,,

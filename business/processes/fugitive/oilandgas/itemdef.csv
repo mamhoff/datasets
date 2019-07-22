@@ -1,5 +1,3 @@
-name,fugitive oil and gas
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Process type,type,TEXT,true,true,,,,
 Process subtype,subType,TEXT,true,true,,,,

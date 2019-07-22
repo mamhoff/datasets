@@ -1,5 +1,3 @@
-name,Water life-cycle
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 Quantity CO2 Equivalent Per Quantity Water,kgCO2ePerCubicMetre,DECIMAL,true,false,kg,m^3,,

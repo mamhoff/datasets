@@ -1,5 +1,3 @@
-name,IPCC US Car alternative fuel
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Fuel type,fuel,TEXT,true,true,,,,
 Emissions factor type,factorType,TEXT,true,true,,,,
