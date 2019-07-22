@@ -4,7 +4,7 @@ industry professionals to enable them to prepare inventories of
 greenhouse gas emissions from magnesium casting processes. This category
 should be used alongside the [primary
 production](Magnesium_primary_production) category. The emissions
-detailed here are SF,,6,, emissions from the magnesium casting process
+detailed here are SF<sub>6</sub> emissions from the magnesium casting process
 segment. As in the [primary production](Magnesium_primary_production)
 category, the methodology provided by this category represents the *Tier
 1* (default values) and *Tier 2* (facility- or country-specific values)
@@ -14,7 +14,7 @@ Inventories
 
 There are other compounds emitting during magnesium production. Both
 HFC-134a and FK 5-1-12 are less thermodynamically stable (and thus have
-much lower GWP) than SF,,6,,. Therefore, it is expected that these gases
+much lower GWP) than SF<sub>6</sub>. Therefore, it is expected that these gases
 will decompose/react extensively in the contact with liquid/gaseous
 magnesium, leading to the production of various fluorinated gases (e.g.,
 PFCs). Unfortunately there is little historic data upon which to base
@@ -57,8 +57,8 @@ The quantities returned represent the greenhouse gas emissions
 associated with the quantity of casting specified. The following
 quantities are returned:
 
-  - ***SF6***: absolute quantity of SF,,6,, emissions for the quantity
+  - ***SF6***: absolute quantity of SF<sub>6</sub> emissions for the quantity
     specified
-  - ***CO2e***: CO,,2,,e emissions (SF,,6,, emissions converted using
+  - ***CO2e***: CO<sub>2</sub>e emissions (SF<sub>6</sub> emissions converted using
     the appropriate [global warming
     potential](Greenhouse_gases_Global_warming_potentials))

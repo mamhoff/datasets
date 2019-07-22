@@ -1,20 +1,20 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - passenger
 - mobile
 - heavy_goods
 - ship
-provenance: 
+provenance:
 gallery: "nil"
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   distanceKmPerMonth: Distance travelled per month
   type: Ship type
-  kgCO2PerKmPassenger: Per passenger CO,,2,, emissions factor
-  source: 
+  kgCO2PerKmPassenger: Per passenger CO<sub>2</sub> emissions factor
+  source:
   distance: Distance travelled
 wikiname: Ship

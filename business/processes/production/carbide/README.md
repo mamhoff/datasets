@@ -44,15 +44,15 @@ although this defaults to 1 (i.e. 100% oxidation) if left unspecified.
 
 ### Results and calculation
 
-The returned amounts represent the CO,,2,, and - in case the case of
-silicon carbide - CH,,4,,, emissions associated with the quantities
+The returned amounts represent the CO<sub>2</sub> and - in case the case of
+silicon carbide - CH<sub>4</sub>, emissions associated with the quantities
 specified. Three quantities are returned, as follows:
 
-  - ***CO2***: CO,,2,, emissions
-  - ***CH4***: CH,,4,, (methane) emissions
-  - ***CO2e***: CO,,2,,e emissions (both gases, converted using
+  - ***CO2***: CO<sub>2</sub> emissions
+  - ***CH4***: CH<sub>4</sub> (methane) emissions
+  - ***CO2e***: CO<sub>2</sub>e emissions (both gases, converted using
     [these](Greenhouse_gases_Global_warming_potentials) global warming
     potential)
 
-The individual quantity for CH,,4,, represents an *absolute quantity*
-rather than a CO,,2,,e quantity.
+The individual quantity for CH<sub>4</sub> represents an *absolute quantity*
+rather than a CO<sub>2</sub>e quantity.

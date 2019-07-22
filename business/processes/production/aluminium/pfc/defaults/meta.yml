@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - PFC
 - GHGP
 - GHGP_aluminum_sector
@@ -19,19 +19,18 @@ tags:
 - emission_factor
 - global
 provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html|IPCC]] - [[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
-  c2f6EmisFact: Quantity of C,,2,,F,,6,, emitted per unit of aluminium produced
-  defCf4EmisFact: Default quantity of CF,,4,, emitted per unit of aluminium produced. Used if no facility-specific CF,,4,, emission factor is available
+ivds:
+  c2f6EmisFact: Quantity of C<sub>2</sub>F<sub>6</sub> emitted per unit of aluminium produced
+  defCf4EmisFact: Default quantity of CF<sub>4</sub> emitted per unit of aluminium produced. Used if no facility-specific CF<sub>4</sub> emission factor is available
   alQuantity: The quantity of aluminium produced
-  defC2f6EmisFact: Default quantity of C,,2,,F,,6,, emitted per unit of aluminium produced. Used if no facility-specific CF,,4,, emission factor is available
+  defC2f6EmisFact: Default quantity of C<sub>2</sub>F<sub>6</sub> emitted per unit of aluminium produced. Used if no facility-specific CF<sub>4</sub> emission factor is available
   cellType: Type of cell technology employed
-  cf4EmisFact: Quantity of CF,,4,, emitted per unit of aluminium produced
-  source: 
+  cf4EmisFact: Quantity of CF<sub>4</sub> emitted per unit of aluminium produced
+  source:
 wikiname: Aluminium_PFC_Defaults
 name: "IPCC methodology for aluminium production PFC emissions - general approach"
 usages:
   default: { c2f6EmisFact : optional, cf4EmisFact : optional }
-

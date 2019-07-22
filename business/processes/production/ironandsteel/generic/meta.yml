@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - iron
 - steel
 - coke
@@ -20,18 +20,17 @@ tags:
 - emission_factor
 - global
 provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf|IPCC-NGGIP]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
-  massCH4PerMass: Quantity of CH,,4,, per quantity of product
-  massCO2PerMass: Quantity of CO,,2,, per quantity of product
+ivds:
+  massCH4PerMass: Quantity of CH<sub>4</sub> per quantity of product
+  massCO2PerMass: Quantity of CO<sub>2</sub> per quantity of product
   mass: Quantity produced
   process: Process used
   product: Type of material produced
-  source: 
+  source:
 wikiname: Iron_and_steel_generic_processes
 name: "IPCC methodology for iron and steel associated processes - tier 1"
 usages:
   default : { mass : compulsory }
-

@@ -52,28 +52,28 @@ The returned values representsgreenhouse gas emissions associated with
 the the life-cycle of the chosen waste type, including disposal. The
 following discrete **amounts** are returned:
 
-  - ***closedLoopDisposalCO2e***: CO,,2,,e emissions attributable closed
+  - ***closedLoopDisposalCO2e***: CO<sub>2</sub>e emissions attributable closed
     loop recycling
-  - ***openLoopDisposalCO2e***: CO,,2,,e emissions attributable open
+  - ***openLoopDisposalCO2e***: CO<sub>2</sub>e emissions attributable open
     loop recycling
-  - ***combustionDisposalCO2e***: CO,,2,,e emissions attributable
+  - ***combustionDisposalCO2e***: CO<sub>2</sub>e emissions attributable
     combustion
-  - ***anaerobicDigestionDisposalCO2e***: CO,,2,,e emissions
+  - ***anaerobicDigestionDisposalCO2e***: CO<sub>2</sub>e emissions
     attributable to anaerobic digestion
-  - ***compostDisposalCO2e***: CO,,2,,e emissions attributable to
+  - ***compostDisposalCO2e***: CO<sub>2</sub>e emissions attributable to
     composting
-  - ***landfillDisposalCO2e***: CO,,2,,e emissions attributable to
+  - ***landfillDisposalCO2e***: CO<sub>2</sub>e emissions attributable to
     landfill disposal
-  - ***totalDisposalCO2e***: CO,,2,,e emissions attributable all waste
+  - ***totalDisposalCO2e***: CO<sub>2</sub>e emissions attributable all waste
     disposal methods used
-  - ***reUseEmissions***: CO,,2,,e emissions atrributable to preparation
+  - ***reUseEmissions***: CO<sub>2</sub>e emissions atrributable to preparation
     for re-use
-  - ***totalCO2e***: net CO,,2,,e emissions attributable to entire
+  - ***totalCO2e***: net CO<sub>2</sub>e emissions attributable to entire
     material life cycle
 
 Users should note that **all quantities** are expressed in terms of
-**[CO,,2,,e](Greenhouse_gases_Global_warming_potentials)** - the
-quantity of CO,,2,, which would exert the same atmospheric warming
+**[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials)** - the
+quantity of CO<sub>2</sub> which would exert the same atmospheric warming
 effect and the emissions quantity.
 
 -----

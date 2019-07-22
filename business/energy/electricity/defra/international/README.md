@@ -63,7 +63,7 @@ vary depending on how the user attributes the various portions of the
 life cycle emissions to the various agents involved (e.g. supplier,
 producer, consumer). It is most common to use *direct* emissions only
 when considering electricity consumption. Indirect and life cycle
-emissions are expressed in terms of CO,,2,,e.
+emissions are expressed in terms of CO<sub>2</sub>e.
 
 **Historical values**: The greenhouse gas emissions produced *per unit*
 of electricity generated/consumed varies through time as the mix of
@@ -99,7 +99,7 @@ For most cases - i.e. considering everyday electricity usage -
 The quantity of electricity under consideration is specified by setting
 the ***energyConsumed*** profile item value.
 
-DEFRA publishes historical annual data for direct CO,,2,, emissions for
+DEFRA publishes historical annual data for direct CO<sub>2</sub> emissions for
 each country/region within this category. If calculating using the
 *direct* and *annual* options, users can specify *start-* and
 *end-dates* in association with their electricity consumption and AMEE
@@ -113,12 +113,12 @@ The returned quantity represents the emissions associated with the
 energy quantity (and dates) specified. The following discrete
 **amounts** are returned:
 
-  - ***directCO2AnnualBasis***: Direct CO,,2,, emissions calculated on
+  - ***directCO2AnnualBasis***: Direct CO<sub>2</sub> emissions calculated on
     the basis of annual emissions factors
-  - ***directCO2RollingBasis***: Direct CO,,2,, emissions calculated on
+  - ***directCO2RollingBasis***: Direct CO<sub>2</sub> emissions calculated on
     the basis of rolling average emissions factors
-  - ***indirectCO2e***: Indirect CO,,2,, emissions
-  - ***lifeCycleCO2e***: total life cycle CO,,2,,e emissions
+  - ***indirectCO2e***: Indirect CO<sub>2</sub> emissions
+  - ***lifeCycleCO2e***: total life cycle CO<sub>2</sub>e emissions
 
 Indirect and life cycle emissions are calculated using rolling average
 data only.

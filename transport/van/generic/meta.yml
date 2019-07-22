@@ -1,36 +1,36 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - light_goods
 - mobile
 - distance
 provenance: "[[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   airconFull: Set "true", for maximum aircon usage
   airconTypical: Set "true", for typical aircon usage
   occupants: Number of van occupants
   kmPerLitreOwn: User-determined fuel consumption value
-  kgCO2PerKmUS: CO,,2,, emissions factor in US
+  kgCO2PerKmUS: CO<sub>2</sub> emissions factor in US
   size: Van size
   ecoDriving: Set "true", for eco-conscious driving
   country: Country in which travel occurred
-  kgCO2PerKm: CO,,2,, emissions factor
+  kgCO2PerKm: CO<sub>2</sub> emissions factor
   regularlyServiced: Set "true", for a regularly serviced vehicle
   fuel: Van fuel type
   tyresUnderinflated: Set "true", for underinflated tyres
   distanceKmPerMonth: Distance travelled per month
   typicalDistance: Typical distance travelled
-  fuelConsumed: 
+  fuelConsumed:
   useTypicalDistance: Set "true", to use the typical distance for van type
   kmPerLitre: Manufacturer fuel consumption value
   ownFuelConsumption: User-determined fuel consumption value
   fuelConsumption: Manufacturer fuel consumption value
-  source: 
+  source:
   distance: Distance travelled
 wikiname: Generic_van_transport
 usages:

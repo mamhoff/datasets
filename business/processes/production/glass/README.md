@@ -12,4 +12,4 @@ The [Glass production carbonate
 methodology](Glass_production_carbonate_methodology) category uses
 specific quantities of various carbonate species - used as feedstock in
 the glass industry and the primary source of carbon - for calculating
-CO,,2,, emissions.
+CO<sub>2</sub> emissions.

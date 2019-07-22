@@ -9,8 +9,8 @@ Gas Inventories](http://www.ipcc-nggip.iges.or.jp/).
 The IPCC methodology for greenhouse gas emissions associated with
 ['mobile
 combustion'](http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf)
-recommend calculating CO,,2,, emissions on the basis of fuel consumed,
-whereas those of CH,,4,, and N,,2,,O vary more directly with other
+recommend calculating CO<sub>2</sub> emissions on the basis of fuel consumed,
+whereas those of CH<sub>4</sub> and N<sub>2</sub>O vary more directly with other
 factors such as vehicle type, emissions control standards, and distance
 travelled. Therefore, this category provide a number of options for
 calculating bus-associated greenhouse gas emissions, depending on which
@@ -32,16 +32,16 @@ the ***totalOccupancy*** profile item value and the number of passengers
 under consideration specified using the ***accountedPassengers***
 profile item value. If neither of these values is specified, AMEE
 returned a value for emissions attributable to the entire vehicle.
-Otherwise the returned amount represents CO,,2,, emissions associated
+Otherwise the returned amount represents CO<sub>2</sub> emissions associated
 with that volume of fuel shared amongst all accountable passengers.
 
 ## Specifying fuel used and distance travelled
 
 If both fuel consumed and distance travelled are specified, AMEE can use
-the IPCC methodology to calculate both CO,,2,, and non-CO,,2,, (i.e.
-CH,,4,, and N,,2,,O) emissions, and therefore the returned value
-represents CO,,2,,e emissions (i.e. total greenhouse gas emissions
-expressed as the quantity of CO,,2,, which would produce the same global
+the IPCC methodology to calculate both CO<sub>2</sub> and non-CO<sub>2</sub> (i.e.
+CH<sub>4</sub> and N<sub>2</sub>O) emissions, and therefore the returned value
+represents CO<sub>2</sub>e emissions (i.e. total greenhouse gas emissions
+expressed as the quantity of CO<sub>2</sub> which would produce the same global
 warming effect).
 
 If specifying values for distance and fuel consumption, both the
@@ -58,8 +58,8 @@ To set the fuel consumed, users can specify the volume using the
 the rate at which their vehicle consumes fuel using the
 ***fuelEfficiency*** profile item value. In this case, AMEE calcuates
 the total fuel used from this 'efficiency' value together with the value
-for distance travelled (see below). CO,,2,, emissions are based on this
-fuel consumption, while non-CO,,2,, emissions are calculated directly
+for distance travelled (see below). CO<sub>2</sub> emissions are based on this
+fuel consumption, while non-CO<sub>2</sub> emissions are calculated directly
 from the distance travelled.
 
 ### Setting the distance travelled

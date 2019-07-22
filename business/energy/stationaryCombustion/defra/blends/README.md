@@ -30,13 +30,13 @@ derived from recently grown biomass, the direct emissions they produce
 on combustion are mostly benign from the point of view of atmospheric
 warming: the carbon released from the biofuel has only recently been
 sequestered from the atmosphere (during plant growth) and therefore does
-not represent a net contributor to atmospheric CO,,2,, concentrations.
+not represent a net contributor to atmospheric CO<sub>2</sub> concentrations.
 As such, emissions according to this methodology are differentiated into
 several types:
 
   - '**direct**' emissions represent those greenhouse gases emitted
     during combustion which **do** cause a net contribution to
-    atmospheric CO,,2,, concentrations.
+    atmospheric CO<sub>2</sub> concentrations.
 
 <!-- end list -->
 
@@ -48,13 +48,13 @@ several types:
 <!-- end list -->
 
   - '**life cycle**' emissions are to sum of direct and indirect
-    emissions which contribute to atmospheric CO,,2,, concentrations.
+    emissions which contribute to atmospheric CO<sub>2</sub> concentrations.
 
 <!-- end list -->
 
   - **Emissions which are 'outside of scopes'** are equivalent to the
-    CO,,2,, absorbed from the atmosphere during growth of the biomass.
-    These do not cause a net contribution to atmospheric CO,,2,,
+    CO<sub>2</sub> absorbed from the atmosphere during growth of the biomass.
+    These do not cause a net contribution to atmospheric CO<sub>2</sub>
     concentrations
 
 ### Model data
@@ -64,29 +64,29 @@ methodologies for biofuels and conventional fuels assocaited with
 biofuel blends. All bio- and conventional fuel components are
 represented by the following types of emissions factor:
 
-  - *direct emissions by mass*: direct CO,,2,,e emissions per unit fuel
+  - *direct emissions by mass*: direct CO<sub>2</sub>e emissions per unit fuel
     mass
-  - *indirect emissions by mass*: indirect CO,,2,,e emissions per unit
+  - *indirect emissions by mass*: indirect CO<sub>2</sub>e emissions per unit
     fuel mass
-  - *life-cycle emissions by mass*: total/life-cycle CO,,2,,e emissions
+  - *life-cycle emissions by mass*: total/life-cycle CO<sub>2</sub>e emissions
     per unit fuel mass
-  - *non-scope / biogenic emissions by mass*: biogenic CO,,2,, emissions
+  - *non-scope / biogenic emissions by mass*: biogenic CO<sub>2</sub> emissions
     per unit fuel mass
-  - *direct emissions by volume*: direct CO,,2,,e emissions per unit
+  - *direct emissions by volume*: direct CO<sub>2</sub>e emissions per unit
     fuel volume
-  - *indirect emissions by volume*: indirect CO,,2,,e emissions per unit
+  - *indirect emissions by volume*: indirect CO<sub>2</sub>e emissions per unit
     fuel volume
-  - *life-cycle emissions by volume*: total/life-cycle CO,,2,,e
+  - *life-cycle emissions by volume*: total/life-cycle CO<sub>2</sub>e
     emissions per unit fuel volume
-  - *non-scope / biogenic emissions by volume*: biogenic CO,,2,,
+  - *non-scope / biogenic emissions by volume*: biogenic CO<sub>2</sub>
     emissions per unit fuel volume
-  - *direct emissions by energy*: direct CO,,2,,e emissions per unit
+  - *direct emissions by energy*: direct CO<sub>2</sub>e emissions per unit
     fuel energy
-  - *indirect emissions by energy*: indirect CO,,2,,e emissions per unit
+  - *indirect emissions by energy*: indirect CO<sub>2</sub>e emissions per unit
     fuel energy
-  - *life-cycle emissions by energy*: total/life-cycle CO,,2,,e
+  - *life-cycle emissions by energy*: total/life-cycle CO<sub>2</sub>e
     emissions per unit fuel energy
-  - *non-scope / biogenic emissions by energy*: biogenic CO,,2,,
+  - *non-scope / biogenic emissions by energy*: biogenic CO<sub>2</sub>
     emissions per unit fuel energy
 
 ### Similar methodologies
@@ -121,14 +121,14 @@ AMEE returns the quantity of greenhouse gas emissions associated with
 the quantity of blended fuel specified. The following discrete
 **amounts** are returned:
 
-  - ***directCO2e***: direct CO,,2,,e emissions
-  - ***indirectCO2e***: indirect CO,,2,, emissions
-  - ***lifeCycleCO2e***: life-cycle CO,,2,,e emissions
-  - ***bioCO2***: biogenic CO,,2,, emissions
+  - ***directCO2e***: direct CO<sub>2</sub>e emissions
+  - ***indirectCO2e***: indirect CO<sub>2</sub> emissions
+  - ***lifeCycleCO2e***: life-cycle CO<sub>2</sub>e emissions
+  - ***bioCO2***: biogenic CO<sub>2</sub> emissions
 
 Users should note that **all quantities** are expressed in terms of
-**[CO,,2,,e](Greenhouse_gases_Global_warming_potentials)** - the
-quantity of CO,,2,, which would exert the same atmospheric warming
+**[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials)** - the
+quantity of CO<sub>2</sub> which would exert the same atmospheric warming
 effect and the emissions quantity.
 
 -----

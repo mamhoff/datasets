@@ -1,16 +1,16 @@
 **Grid electricity emissions methodology. Calculates carbon dioxide
-(CO,,2,,), methane (CH,,4,,), nitrous oxide (N,,2,,O), carbon
-dioxide-equivalent (CO,,2,,e), other nitrogen oxides (NO,,x,,), sulphur
-dioxide (SO,,2,,) and mercury (Hg) emissions based on the quantity of
+(CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O), carbon
+dioxide-equivalent (CO<sub>2</sub>e), other nitrogen oxides (NO,,x,,), sulphur
+dioxide (SO<sub>2</sub>) and mercury (Hg) emissions based on the quantity of
 electricity generated or consumed. Scenarios include total and
 non-baseload emissions intensities, for individual Power Control
 Areas.**
 
 ## Summary
 
-This methodology represents **carbon dioxide** (CO,,2,,), **methane**
-(CH,,4,,), **nitrous oxide** (N,,2,,O), **CO,,2,,e**, other **nitrogen
-oxide** (NO,,x,,), **sulphur dioxide** (SO,,2,,) and **mercury** (Hg)
+This methodology represents **carbon dioxide** (CO<sub>2</sub>), **methane**
+(CH<sub>4</sub>), **nitrous oxide** (N<sub>2</sub>O), **CO<sub>2</sub>e**, other **nitrogen
+oxide** (NO,,x,,), **sulphur dioxide** (SO<sub>2</sub>) and **mercury** (Hg)
 emissions associated with the generation and consumption of grid
 electricity in the United States. The data and calculation methodology
 is sourced from the *[Emissions & Generation Resource Integrated
@@ -78,8 +78,8 @@ emission rates associated with electricity supplied for calendar year of
 
 Emissions are provided representing the following cases:
 
-  - Greenhouse gases and pollutants: *CO,,2,,*, *CH,,4,,*, *N,,2,,O*,
-    *CO,,2,,e*, *NO,,x,,*, *ozone season NO,,x,,*, *SO,,2,,* and *Hg*
+  - Greenhouse gases and pollutants: *CO<sub>2</sub>*, *CH<sub>4</sub>*, *N<sub>2</sub>O*,
+    *CO<sub>2</sub>e*, *NO,,x,,*, *ozone season NO,,x,,*, *SO<sub>2</sub>* and *Hg*
   - *Total* and *non-baseload* generation
 
 In addition, [data on transmission
@@ -97,8 +97,8 @@ of electricity consumed.
 
 ### Calculation and results
 
-**CO,,2,,**, **CH,,4,,**, **N,,2,,O**, **CO,,2,,e**, **NO,,x,,**,
-**ozone season NO,,x,,**, **SO,,2,,** and **Hg** emissions are
+**CO<sub>2</sub>**, **CH<sub>4</sub>**, **N<sub>2</sub>O**, **CO<sub>2</sub>e**, **NO,,x,,**,
+**ozone season NO,,x,,**, **SO<sub>2</sub>** and **Hg** emissions are
 calculated by multiplying the specified quantity of electricity supplied
 or consumed by the appropriate emissions factor. These emissions
 represent those attributable to the specified quantity of electricity.

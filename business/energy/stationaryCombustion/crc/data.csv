@@ -25,7 +25,7 @@
 "solid smokeless fuel",,2810.0000,,"mass",,"http://www.decc.gov.uk/en/content/cms/what_we_do/lc_uk/crc/user_guidance/user_guidance.aspx : Table of Conversion Factors"
 "sour gas",0.2397,,,"energy",,"http://www.decc.gov.uk/en/content/cms/what_we_do/lc_uk/crc/user_guidance/user_guidance.aspx : Table of Conversion Factors"
 "waste",,275.0000,,"mass",,"http://www.decc.gov.uk/en/content/cms/what_we_do/lc_uk/crc/user_guidance/user_guidance.aspx : Table of Conversion Factors"
-"waste oils",,3026,,"mass",,"http://www.decc.gov.uk/en/content/cms/what_we_do/lc_uk/crc/user_guidance/user_guidance.aspx : Table of Conversion Factors"
+"waste oils"<sub>3026</sub>"mass",,"http://www.decc.gov.uk/en/content/cms/what_we_do/lc_uk/crc/user_guidance/user_guidance.aspx : Table of Conversion Factors"
 "waste solvents",,1613.0000,,"mass",,"http://www.decc.gov.uk/en/content/cms/what_we_do/lc_uk/crc/user_guidance/user_guidance.aspx : Table of Conversion Factors"
 "refinery miscellaneous",0.2450,,,"energy",,"http://www.decc.gov.uk/en/content/cms/consultations/crc/crc.aspx : Consultation on Draft Order to Implement the Carbon Reduction Commitment"
 "electricity",0.5410,,,"energy",,"http://www.decc.gov.uk/en/content/cms/what_we_do/lc_uk/crc/user_guidance/user_guidance.aspx : Table of Conversion Factors"

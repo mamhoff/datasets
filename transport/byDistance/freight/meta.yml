@@ -1,17 +1,17 @@
---- 
+---
 data_items: []
 
 tags:
 - deprecated
 provenance: http://www.ghgprotocol.org/calculation-tools/all-tools
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   mass: Mass of freight transported
   type: Type of freight transport
   subtype: Transport subtype
-  massCO2perDistanceMassFreight: CO,,2,, emissions factor
-  source: 
+  massCO2perDistanceMassFreight: CO<sub>2</sub> emissions factor
+  source:
   distance: "Distance freight transported "
 wikiname: Freight

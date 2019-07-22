@@ -19,11 +19,11 @@ type of biofuel to be included in the calculation from the following
 options.
 
   - Wood Pellets - used in domestic biomass heating systems. The
-    emission factor is based on the factor of 0.025 kgCO,,2,,/kWh from
+    emission factor is based on the factor of 0.025 kgCO<sub>2</sub>/kWh from
     SAP2005 Table 12.
 
 The ***quantity*** of biomass must then be set as a profile item value.
 The default units for this value are tonnes. The algorithm multiplies
 this quantity by the appropriate emission factor and returns a value of
-kgCO,,2,e, which includes contributions from CO,,2,,, N,,2,,O and
-CH,,4,, emissions.
+kgCO,,2,e, which includes contributions from CO<sub>2</sub>, N<sub>2</sub>O and
+CH<sub>4</sub> emissions.

@@ -1,11 +1,11 @@
 **Mineral industry methodology, general carbonate calcination.
-Calculates carbon dioxide (CO,,2,,) emissions based on the quantity of
+Calculates carbon dioxide (CO<sub>2</sub>) emissions based on the quantity of
 carbonate minerals calcined. Scenarios include pure, rock and clay forms
 of limestone and dolomite. Globally applicable.**
 
 ## Summary
 
-This methodology represents **carbon dioxide** (CO,,2,,) emissions
+This methodology represents **carbon dioxide** (CO<sub>2</sub>) emissions
 associated with the **calcination of carbonate minerals**. The data and
 calculation methodology is sourced from the [IPCC](IPCC), as published
 in *[Volume 3, Chapter 2 - Mineral Industry
@@ -21,24 +21,24 @@ methodology.
 
 ### Emissions model
 
-Limestone (CaCO,,3,,) and dolomite (CaMg(CO,,3,,),,2,,) are basic raw
+Limestone (CaCO<sub>3</sub>) and dolomite (CaMg(CO<sub>3</sub>)<sub>2</sub>) are basic raw
 materials having commercial applications in a number of industries. The
 heating of carbonate minerals to high temperatures ('calcining')
-produces metallic oxides as well as CO,,2,, emissions. This methodology
-calculates CO,,2,, emissions from the general consumption (through
+produces metallic oxides as well as CO<sub>2</sub> emissions. This methodology
+calculates CO<sub>2</sub> emissions from the general consumption (through
 calcination) of carbonate minerals.
 
 The methodology represents a simplified *mass-balance* approach,
 assuming (1) that all carbon (C) which enters the calcination process as
-a component of carbonate minerals is eventually emitted as CO,,2,,; and
+a component of carbonate minerals is eventually emitted as CO<sub>2</sub>; and
 (2) that carbonate consumption is based entirely on mixtures of
 limestone and dolomite (more varied composition can be handled using the
 *tier 3* approach - see below).
 
-Quantities of CO,,2,, are calculated by using conversion factors which
+Quantities of CO<sub>2</sub> are calculated by using conversion factors which
 represent the *stoichiometry* of the chemical processes, i.e. the known
 molecular mass ratio of the reactant carbonate material and the product
-CO,,2,,.
+CO<sub>2</sub>.
 
 A **default composition** of 85% limestone and 15% dolomite is provided
 for cases where specific quantities are not known. In this case this
@@ -48,11 +48,11 @@ data, the calculation represents the *tier 2* approach.
 
 ### Model data
 
-CO,,2,, conversion factors (**stoichiometric ratios**) for limestone and
+CO<sub>2</sub> conversion factors (**stoichiometric ratios**) for limestone and
 dolomite are sourced from the IPCC and can be found
 [here](Stoichiometries_ratios).
 
-As well as stoichiometric considerations, CO,,2,, emissions associated
+As well as stoichiometric considerations, CO<sub>2</sub> emissions associated
 with the calcining of carbonate minerals are also related to the purity
 of the carbonate. Four calculation scenarios are provided with this
 methodology representing different levels of **carbonate purity** for
@@ -77,12 +77,12 @@ specified optionally, if data are available.
 
 ### Calculation and results
 
-CO,,2,, emissions are calculated by converting the bulk quantity into a
+CO<sub>2</sub> emissions are calculated by converting the bulk quantity into a
 quantity for pure carbonate (via the *purity* value), from which the
 respective quantities of limestone and dolomite are calculated (via
 their fractional concentrations). These quantities are finally converted
-into a quantity of **CO,,2,,** emissions on the basis of their
-respective CO,,2,, conversion factors
+into a quantity of **CO<sub>2</sub>** emissions on the basis of their
+respective CO<sub>2</sub> conversion factors
 
 This emissions calculated by this methodology represent those
 attributable to the specified quantity of carbonate calcined.

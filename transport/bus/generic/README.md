@@ -1,9 +1,9 @@
 The category /transport/bus/generic contains passenger-based emissions
 data relating to bus travel in the UK and the Republic of Ireland. This
-category provides CO,,2,, emissions only and should be considered to
+category provides CO<sub>2</sub> emissions only and should be considered to
 represent a useful first point of entry to bus-related emissions. If
 users are interested in more specific and comprehensive datasets (which
-include CO,,2,, as well as CH,,4,, and N,,2,,O emissions) they should
+include CO<sub>2</sub> as well as CH<sub>4</sub> and N<sub>2</sub>O emissions) they should
 see the following categories:
 
   - [DEFRA](Bus_generic_Defra)

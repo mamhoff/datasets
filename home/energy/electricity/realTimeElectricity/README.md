@@ -1,6 +1,6 @@
 The carbon intensity of electricity is related to the specific method of
 generation used (e.g. coal, gas, nuclear, wind), and therefore the
-CO,,2,, emissions associated with national or regional grid electricity
+CO<sub>2</sub> emissions associated with national or regional grid electricity
 depend on the specific combination of generation methods (the *fuel
 mix*) which supply the grid. The fuel mix will change due to variations
 in demand and supply.
@@ -10,7 +10,7 @@ generation methods can be adapted to meet the demand. For example,
 fossil fuel generation involving gas and coal can be adjusted relatively
 quickly to meet demand whereas most existing nuclear and renewable
 generation methods cannot. This means that times of peak demand tend to
-be more CO,,2,, intensive (i.e. the kgCO,,2,, per kWh is greater) than
+be more CO<sub>2</sub> intensive (i.e. the kgCO<sub>2</sub> per kWh is greater) than
 trough times. For this reason, in the UK, electricity is most carbon
 intensive during the day and in the winter and least so during the night
 and in the summer. Another factor that may affect the fuel mix will be
@@ -23,11 +23,11 @@ misleading estimates of CO2 savings.*
 
 This emission factor must be used with great care. In particular, it
 will almost always give a misleadingly high "face-value" estimate of
-potential CO,,2,, savings. For example, let's suppose that the day EF is
-0.6 tCO,,2,,/MWh and night EF is 0.4 tCO,,2,,/MWh and that a factory
+potential CO<sub>2</sub> savings. For example, let's suppose that the day EF is
+0.6 tCO<sub>2</sub>/MWh and night EF is 0.4 tCO<sub>2</sub>/MWh and that a factory
 switches from day to night production so that 1000 MWh of energy
 consumption now occurs during the night. The CO2 saving will not be 0.6
-x 1000 - 0.4 x 1000 = 200 tCO,,2,, (33%). The reason is that the
+x 1000 - 0.4 x 1000 = 200 tCO<sub>2</sub> (33%). The reason is that the
 appearance of 1000 MWh demand at night will have to be met by increasing
 energy generation and this will involve increased gas and coal
 generation. The size of the real saving will typically be \<1% and can
@@ -36,7 +36,7 @@ in fact be negative.
 ## Fuel mix
 
 The AMEE category home/energy/electricity/realTimeElectricity contains
-*instantaneous* CO,,2,, emissions data for electricity consumption based
+*instantaneous* CO<sub>2</sub> emissions data for electricity consumption based
 on data describing the current grid fuel mix which are updated every
 five minutes. At present, AMEE contains such data for the UK national
 grid only. AMEE receives data on the instantaneous supply of grid
@@ -85,15 +85,15 @@ electricity for the following types of electricity generation:
   - International import: Ireland (*INTIRL*)
 
 AMEE uses this instantaneous fuel mix data, together with specific
-CO,,2,, emissions factors associated with each type of generation (by
+CO<sub>2</sub> emissions factors associated with each type of generation (by
 reference to the category
 home/energy/electricity/realTimeElectricity/fuelEmissionFactors), to
-calculate a weighted average CO,,2,, emissions factor for each 5 minute
+calculate a weighted average CO<sub>2</sub> emissions factor for each 5 minute
 period.
 
 To use this category, create a profile item and set the quantity of
 electricity used in the ***energyUsed*** profile item value. The
-returned value represents the associated quantity of CO,,2,, emitted
+returned value represents the associated quantity of CO<sub>2</sub> emitted
 based on the most recent grid fuel mix data.
 
 ## UK National Grid Data and RealtimeCarbon.org

@@ -1,11 +1,11 @@
 **Metal industry methodology, sinter production. Calculates carbon
-dioxide (CO,,2,,), methane (CH,,4,,) and CO,,2,,e emissions based on the
+dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>) and CO<sub>2</sub>e emissions based on the
 quantities of materials consumed and produced. Globally applicable.**
 
 ## Summary
 
-This methodology represents **carbon dioxide** (CO,,2,,) and **methane**
-(CH,,4,,) emissions associated with the production of **sinter**. The
+This methodology represents **carbon dioxide** (CO<sub>2</sub>) and **methane**
+(CH<sub>4</sub>) emissions associated with the production of **sinter**. The
 data and calculation methodology is sourced from the [Greenhouse Gas
 Protocol](Greenhouse_Gas_Protocol) (GHGP) worksheet tool *[CO2 emissions
 from the production of iron and steel,
@@ -25,19 +25,19 @@ Inventories](http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html)*.
 Sinter is an agglomeration of iron ore and other iron-containing
 minerals, and is used as a blast furnace feedstock in the production of
 iron and steel. The process of sintering may consume carbon-bearing
-feedstock, thus producing emissions of CO,,2,, and CH,,4,, as well as
+feedstock, thus producing emissions of CO<sub>2</sub> and CH<sub>4</sub> as well as
 by-product gases ('sinter off gas').
 
-This methodology enables the calculation of sinter-associated CO,,2,,
+This methodology enables the calculation of sinter-associated CO<sub>2</sub>
 emissions based upon a mass balance approach that accounts for the
 carbon inputs and outputs to coke ovens. By considering the carbon
 entering the process via the carbon-bearing feedstocks (typically coke
 breeze and other materials), and the carbon leaving the process within
 sinter off gases, the discrepancy can be assumed to have been emitted as
-CO,,2,,.
+CO<sub>2</sub>.
 
-CH,,4,, emissions are based on an emissions factor which describes the
-rate at which CH,,4,, is emitted per unit quantity of sinter produced.
+CH<sub>4</sub> emissions are based on an emissions factor which describes the
+rate at which CH<sub>4</sub> is emitted per unit quantity of sinter produced.
 
 This methodology represents the IPCC *Tier 2* approach where default
 carbon content data is used for carbon-bearing feedstocks and products,
@@ -53,19 +53,19 @@ available.
 
 ### Activity data required
 
-CO,,2,, emissions require the quantity of feedstock in order to
+CO<sub>2</sub> emissions require the quantity of feedstock in order to
 calculate. In addition, the methodology enables the specification of
 facility-specific data carbon content data where this is available.
-CH,,4,, emissions also require the quantity of sinter produced to be
-specified. A default emissions factor for CH,,4,, is available but can
+CH<sub>4</sub> emissions also require the quantity of sinter produced to be
+specified. A default emissions factor for CH<sub>4</sub> is available but can
 be specified if facility- or country-specific data is available.
 
 ### Calculation and results
 
-**CO,,2,,** emissions are calculated by the mass-balance of the
-specified input/output activity data. **CH,,4,,** emissions are
+**CO<sub>2</sub>** emissions are calculated by the mass-balance of the
+specified input/output activity data. **CH<sub>4</sub>** emissions are
 calculated by multiplying the quantity of sinter specified by the
-appropriate emissions factor. **CO,,2,,e** emissions are also calculated
+appropriate emissions factor. **CO<sub>2</sub>e** emissions are also calculated
 by converting absolute emissions using the appropriate [global warming
 potentials](Greenhouse_gases_Global_warming_potentials).
 

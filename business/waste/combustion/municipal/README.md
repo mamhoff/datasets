@@ -5,15 +5,15 @@ Inventories](http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_C
 for calculating greenhouse gas emissions associated with the burning of
 municipal waste. Users can choose between many kinds of waste, including
 paper, textiles, food, wood, nappies and plastics. AMEE calculates
-CO,,2,, emissions based on the typical carbon content of each waste type
+CO<sub>2</sub> emissions based on the typical carbon content of each waste type
 (sourced from
 [Chapter 2](http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_2_Ch2_Waste_Data.pdf%20)
-of the same volume), as well as typical CH,,4,, and N,,2,,O emissions
+of the same volume), as well as typical CH<sub>4</sub> and N<sub>2</sub>O emissions
 associated with the specific combustion methods used.
 
-CO,,2,, which derives from recently sequestered carbon sources and
+CO<sub>2</sub> which derives from recently sequestered carbon sources and
 fossil sources are differentiated, since their net impact on atmospheric
-CO,,2,, concentrations in distinct.
+CO<sub>2</sub> concentrations in distinct.
 
 -----
 
@@ -40,19 +40,19 @@ fraction data for each waste type.
 
 ### Results and calculation
 
-The values returned represent CO,,2,, emissions associated with the
+The values returned represent CO<sub>2</sub> emissions associated with the
 waste quantity specified. The following discrete values are returned:
 
-  - ***fossilCO2***: CO,,2,, emissions which derived from fossil carbon
-  - ***biogenicCO2***: CO,,2,, emissions which derived from recently
+  - ***fossilCO2***: CO<sub>2</sub> emissions which derived from fossil carbon
+  - ***biogenicCO2***: CO<sub>2</sub> emissions which derived from recently
     sequestered, biogenic carbon
   - ***totalCO2***: fossil *and* biogenic carbon
-  - ***CH4***: CH,,4,, emissions associated with the waste quantity
+  - ***CH4***: CH<sub>4</sub> emissions associated with the waste quantity
     specified
-  - ***N2O***: N,,2,,O emissions associated with the waste quantity
+  - ***N2O***: N<sub>2</sub>O emissions associated with the waste quantity
     specified
-  - ***CO2e***: fossil CO,,2,,, CH,,4,, and N,,2,,O combined and
-    expressed in terms of CO,,2,,e
+  - ***CO2e***: fossil CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O combined and
+    expressed in terms of CO<sub>2</sub>e
 
 -----
 

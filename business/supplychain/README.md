@@ -3,8 +3,8 @@ a variety of Products. The data is based on the most recent [Defra
 conversion
 factors](http://www.defra.gov.uk/environment/economy/business-efficiency/reporting).
 The emission factors used in this category cover *indirect* emissions
-from the supply chain only and include contributions from CO,,2,,,
-CH,,4,,, N,,2,,, HFCs, PFCs and SF,,6,,. Therefore, these factors are
+from the supply chain only and include contributions from CO<sub>2</sub>,
+CH<sub>4</sub>, N<sub>2</sub>, HFCs, PFCs and SF<sub>6</sub>. Therefore, these factors are
 unlike most emission factors, which deal with *direct* emissions.
 
 ## Emission Factor Origin
@@ -54,25 +54,25 @@ The quantities returned represent the greenhouse gas emissions
 associated with the quantities and refrigerant type specified. The
 following quantities are returned:
 
-  - ***CO2***: quantity of CO,,2,, emissions
-  - ***ch4CO2e***: quantity of CH,,4,, emissions expressed in terms of
-    CO,,2,,e
-  - ***n2oCO2e***: quantity of N,,2,,O emissions expressed in terms of
-    CO,,2,,e
+  - ***CO2***: quantity of CO<sub>2</sub> emissions
+  - ***ch4CO2e***: quantity of CH<sub>4</sub> emissions expressed in terms of
+    CO<sub>2</sub>e
+  - ***n2oCO2e***: quantity of N<sub>2</sub>O emissions expressed in terms of
+    CO<sub>2</sub>e
   - ***hfcCO2e***: quantity of HFC emissions expressed in terms of
-    CO,,2,,e
+    CO<sub>2</sub>e
   - ***pfcCO2e***: quantity of PFC emissions expressed in terms of
-    CO,,2,,e
-  - ***sf6CO2e***: quantity of SF,,6,, emissions expressed in terms of
-    CO,,2,,e
-  - ***totalCO2e***: total, combined CO,,2,,e emissions
+    CO<sub>2</sub>e
+  - ***sf6CO2e***: quantity of SF<sub>6</sub> emissions expressed in terms of
+    CO<sub>2</sub>e
+  - ***totalCO2e***: total, combined CO<sub>2</sub>e emissions
 
 -----
 
 ## Notes
 
-### CO,,2,,e quantities
+### CO<sub>2</sub>e quantities
 
 Emissions in this methodology are pre-converted into
-[CO,,2,,e](Greenhouse_gases_Global_warming_potentials). These
+[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials). These
 conversions are not made by AMEE.

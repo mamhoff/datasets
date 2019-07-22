@@ -8,14 +8,14 @@ in the US, sourced from the IPCC [Guidelines for National Greenhouse Gas
 Inventories](http://www.ipcc-nggip.iges.or.jp/).
 
 The data is organised in to fuel types ('conventional', 'alternative'),
-with emissions estimates for CO,,2,, and CO,,2,,e (i.e. CO,,2,,, CH,,4,,
-and N,,2,,O) available.
+with emissions estimates for CO<sub>2</sub> and CO<sub>2</sub>e (i.e. CO<sub>2</sub>, CH<sub>4</sub>
+and N<sub>2</sub>O) available.
 
 It should be noted that the US-specific categories are similar to those
 within the /transport/lgv/generic/ghgp subcategories, in that both are
 ultimately derived from similar EPA datasets. The main difference is
-that the IPCC methodology maintains the calculation of CO,,2,, by *fuel
-quantity* and CH,,4,, and N,,2,,O by *distance* - as presented in the
+that the IPCC methodology maintains the calculation of CO<sub>2</sub> by *fuel
+quantity* and CH<sub>4</sub> and N<sub>2</sub>O by *distance* - as presented in the
 original EPA dataset. In contrast, the GHG Protocol methodology uses
 *typical mileage* data for each vehicle type in order to express
 emissions for all gases on the basis of distance. In addition, the IPCC

@@ -1,11 +1,11 @@
 **Managed soils methodology, drained/managed organic soils. Calculates
-nitrous oxide emissions (N,,2,,O and CO,,2,,e) based on land area
+nitrous oxide emissions (N<sub>2</sub>O and CO<sub>2</sub>e) based on land area
 managed. Scenarios include boreal, temperate and tropical contexts with
 cropland, grassland and forest land uses. Globally applicable.**
 
 ## Summary
 
-This methodology represents **nitrous oxide** (N,,2,,O) emissions
+This methodology represents **nitrous oxide** (N<sub>2</sub>O) emissions
 associated with **organically managed soils**. The data and calculation
 methodology is sourced from the [IPCC](IPCC), as published in
 *[Volume 4, Chapter 11 - N2O Emissions from Managed Soils, and CO2
@@ -20,27 +20,27 @@ Inventories](http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html)*.
 
 ### Emissions model
 
-Nitrous oxide (N,,2,,O) is produced naturally in soils through the
+Nitrous oxide (N<sub>2</sub>O) is produced naturally in soils through the
 processes of nitrification and denitrification. Nitrification is the
 aerobic (microbially-mediated) oxidation of ammonia to nitrate, and
 denitrification is the anaerobic microbial reduction of nitrate to
-nitrogen gas (N,,2,,). N,,2,,O is a gaseous intermediate in the reaction
+nitrogen gas (N<sub>2</sub>). N<sub>2</sub>O is a gaseous intermediate in the reaction
 sequence of denitrification and a by-product of nitrification. Aside
 from the direct application of N to soils (which is otherwise a
-rate-limiting factor), human-attributable N,,2,,O emissions arise from
+rate-limiting factor), human-attributable N<sub>2</sub>O emissions arise from
 the mineralization of soil N following the drainage and management of
-organic soils. This methodology describes N,,2,,O emissions associated
+organic soils. This methodology describes N<sub>2</sub>O emissions associated
 with such organic soil management.
 
-The methodology calculates N,,2,,O emissions based on conversion factors
+The methodology calculates N<sub>2</sub>O emissions based on conversion factors
 which describe the rate at which quantities of soil-N (i.e.
-soil-assocaited nitrogen) are converted into quantities of N,,2,,O-N
+soil-assocaited nitrogen) are converted into quantities of N<sub>2</sub>O-N
 (nitrous oxide-assocaited nitrogen) per unit of land area managed (i.e.
 kg / ha). Multiplying the area of land managed (e.g. ha) by this
 conversion factor, produces an estimate for the total production of
-N,,2,,O-N attributable to that area of managed soil. This quantity is
-then converted to a quantity of N,,2,,O emissions on the basis of the
-relative molecular masses of N,,2,,O and N.
+N<sub>2</sub>O-N attributable to that area of managed soil. This quantity is
+then converted to a quantity of N<sub>2</sub>O emissions on the basis of the
+relative molecular masses of N<sub>2</sub>O and N.
 
 This methodology represents the IPCC *Tier 1* approach.
 
@@ -50,24 +50,24 @@ Conversion factors for 9 organic soil management scenarios are provided
 within this methodology, differentiated by their **climatic context**
 (e.g., *temperate*, *tropical*, *boreal*) and **land use** (e.g.
 *cropland*, *forest*). Each scenario is represented by a **direct
-N,,2,,O-N conversion rate** (kg / ha). In addition, this methodology
+N<sub>2</sub>O-N conversion rate** (kg / ha). In addition, this methodology
 uses two general constants for deriving emissions quantities from
-N,,2,,O-N:
+N<sub>2</sub>O-N:
 
-  - *molecular mass ratio of N,,2,,O and N*: the factor for converting a
-    N,,2,,O-N quantity into N,,2,,O (44/28)
+  - *molecular mass ratio of N<sub>2</sub>O and N*: the factor for converting a
+    N<sub>2</sub>O-N quantity into N<sub>2</sub>O (44/28)
 
 <!-- end list -->
 
-  - *global warming potential of N,,2,,O*: the factor for converting a
-    N,,2,,O emissions quantity into
-    **[CO,,2,,e](Greenhouse_gases_Global_warming_potentials)** - the
-    quantity of CO,,2,, which would exert the same atmospheric warming
+  - *global warming potential of N<sub>2</sub>O*: the factor for converting a
+    N<sub>2</sub>O emissions quantity into
+    **[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials)** - the
+    quantity of CO<sub>2</sub> which would exert the same atmospheric warming
     effect.
 
 ### Activity data required
 
-N,,2,,O emissions are directly proportionate to the **area of land
+N<sub>2</sub>O emissions are directly proportionate to the **area of land
 managed**, which therefore needs to be specified in order to make an
 emissions calculation.
 
@@ -78,8 +78,8 @@ attributable to the specified area of land on which organic soils are
 managed.
 
 The methodology calculates two emissions quantities: (1) the
-**absolute** quantity of N,,2,,O; and (2) N,,2,,O emissions expressed in
-terms of **[CO,,2,,e](Greenhouse_gases_Global_warming_potentials)**.
+**absolute** quantity of N<sub>2</sub>O; and (2) N<sub>2</sub>O emissions expressed in
+terms of **[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials)**.
 
 -----
 

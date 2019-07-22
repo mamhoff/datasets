@@ -14,7 +14,7 @@ specifying the duration for which lighting was in use.
 
 To specify a single, absolute quantity of time, set this duration using
 the ***totalTimeInUse*** parameter. The returned value represents
-CO,,2,, emissions associated with the specified duration of lighting
+CO<sub>2</sub> emissions associated with the specified duration of lighting
 use, based on the emissions factors for electricity generation and
 consumption in the United Kingdom (this location can be overriden - see
 below).

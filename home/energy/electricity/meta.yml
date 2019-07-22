@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - home
 - business
 - energy
@@ -13,19 +13,19 @@ tags:
 - global
 - international
 provenance: WBCSD 2006
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   lastReading: Previous meter reading - this is used to derive an energy consumption estimate
-  kWhReadingCurrent: 
+  kWhReadingCurrent:
   country: Country/region
   energyConsumption: Energy consumption estimate
-  kWhPerMonth: 
-  source: 
-  kgCO2PerKWh: CO,,2,, emissions factor
+  kWhPerMonth:
+  source:
+  kgCO2PerKWh: CO<sub>2</sub> emissions factor
   currentReading: Current meter reading - this is used to derive an energy consumption estimate
-  kWhReadingLast: 
+  kWhReadingLast:
 wikiname: Electricity
 usages:
   byAbsoluteEnergyConsumption: { currentReading : forbidden, lastReading : forbidden }

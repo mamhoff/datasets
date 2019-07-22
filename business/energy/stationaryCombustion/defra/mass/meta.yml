@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - fuel
 - defra
 - stationary
@@ -14,16 +14,16 @@ tags:
 - UK
 - defra_annex1
 provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   fuel: Type of fuel
-  massCO2PerMass: Quantity of direct CO,,2,, emitted per unit of fuel consumed
-  massCH4PerMass: Quantity of direct CH,,4,, emitted per unit of fuel consumed (as CO,,2,,e)
-  massN2OPerMass: Quantity of direct N,,2,,O emitted per unit of fuel consumed (as CO,,2,,e)
-  massDirectCO2ePerMass: Total quantity of direct emissions emitted per unit of fuel consumed (as CO,,2,,e)
-  massIndirectCO2ePerMass: Quantity of indirect emissions per unit of fuel consumed (as CO,,2,,e)
-  massTotalCO2ePerMass: Total quantity of ALL emissions emitted per unit of fuel consumed (as CO,,2,,e)
+  massCO2PerMass: Quantity of direct CO<sub>2</sub> emitted per unit of fuel consumed
+  massCH4PerMass: Quantity of direct CH<sub>4</sub> emitted per unit of fuel consumed (as CO<sub>2</sub>e)
+  massN2OPerMass: Quantity of direct N<sub>2</sub>O emitted per unit of fuel consumed (as CO<sub>2</sub>e)
+  massDirectCO2ePerMass: Total quantity of direct emissions emitted per unit of fuel consumed (as CO<sub>2</sub>e)
+  massIndirectCO2ePerMass: Quantity of indirect emissions per unit of fuel consumed (as CO<sub>2</sub>e)
+  massTotalCO2ePerMass: Total quantity of ALL emissions emitted per unit of fuel consumed (as CO<sub>2</sub>e)
   mass: Quantity of fuel consumed
 wikiname: Mass_based_fuel_combustion_by_DEFRA

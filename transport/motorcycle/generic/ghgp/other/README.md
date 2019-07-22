@@ -12,7 +12,7 @@ To use this category, the type of vehicle is selected, using the
 ***vehicleType*** drill-down. The ***distance*** is then set as a
 profile item value.
 
-The algorithm returns kg CO,,2,, emitted from the selected journey.
+The algorithm returns kg CO<sub>2</sub> emitted from the selected journey.
 
 Users can opt to share emissions amongst passengers by setting the
 number of passengers using the ***occupancy*** profile item value.

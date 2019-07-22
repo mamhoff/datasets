@@ -1,6 +1,6 @@
 **Transport fuel emissions methodology. Calculates direct fossil and/or
-biogenic carbon dioxide (CO,,2,,), methane (CH,,4,,), nitrous oxide
-(N,,2,,O) and carbon dioxide equivalent (CO,,2,,e) emissions associated
+biogenic carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide
+(N<sub>2</sub>O) and carbon dioxide equivalent (CO<sub>2</sub>e) emissions associated
 with fuel consumed for a variety of common transport fuels. Choices
 include fuel type and combustion context. Global.**
 
@@ -27,22 +27,22 @@ calculating transport related greenhouse gas emissions since it involves
 a more direct measure of fuel consumption without the requirement for
 assumptions about vehicle fuel efficiencies.
 
-According to this methodology, CO,,2,, emissions are [directly
+According to this methodology, CO<sub>2</sub> emissions are [directly
 related](Custom_emissions_factors) to the quantity of carbon which is
 oxidised during combustion and therefore directly proportionate to the
 quantity of fuel burned and the concentration of carbon within the
 particular fuel type (e.g. gasoline/petrol, diesel). Emissions of
-CH,,4,, and N,,2,,O, however, are considered to vary with the specific
+CH<sub>4</sub> and N<sub>2</sub>O, however, are considered to vary with the specific
 use context. This category, then, provides fuel-based emissions factors
-for CH,,4,, and N,,2,,O differentiated by fuel type and specific use
-contexts. For a complete greenhouse gas calculation, CO,,2,, emissions
+for CH<sub>4</sub> and N<sub>2</sub>O differentiated by fuel type and specific use
+contexts. For a complete greenhouse gas calculation, CO<sub>2</sub> emissions
 factors referenced for each fuel type from this related
 [methodology](Transport_fuels_by_Greenhouse_Gas_Protocol), sourced from
 the same Greenhouse Gas Protocol worksheet.
 
 Emissions - conventionally expressed in terms of mass (e.g. *kg*) - are
 calculated by multiplying these rates (*mass emitted per volume*; e.g.
-*kg CO,,2,, per US gallon*) by a volume of fuel (e.g *gallons*)
+*kg CO<sub>2</sub> per US gallon*) by a volume of fuel (e.g *gallons*)
 consumed.
 
 ### Model data
@@ -78,13 +78,13 @@ of appropriate [units](Units).
 
 ### Calculation and result
 
-The returned quantities for this methodology represent CO,,2,,, CH,,4,,
-and N,,2,,O and CO,,2,,e emissions associated with the type, quantity
-and context of fuel specified. CO,,2,,e emissions represent all three
+The returned quantities for this methodology represent CO<sub>2</sub>, CH<sub>4</sub>
+and N<sub>2</sub>O and CO<sub>2</sub>e emissions associated with the type, quantity
+and context of fuel specified. CO<sub>2</sub>e emissions represent all three
 gases, converted using
 [these](Greenhouse_gases_Global_warming_potentials) global warming
-potential). The individual quantities for CH,,4,, and N,,2,,O represent
-*absolute quantities* rather than CO,,2,,e quantities.
+potential). The individual quantities for CH<sub>4</sub> and N<sub>2</sub>O represent
+*absolute quantities* rather than CO<sub>2</sub>e quantities.
 
 -----
 

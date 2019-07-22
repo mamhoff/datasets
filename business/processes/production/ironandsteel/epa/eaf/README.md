@@ -1,7 +1,7 @@
 The AMEE category at business/processes/production/ironandsteel/epa/eaf
 provides a methodology for calculating greenhouse gas emissions
 associated with Electron Arc Furnace (EAF) steel facilities. This
-methodology accounts for the CO,,2,, emissions due to carbonate flux and
+methodology accounts for the CO<sub>2</sub> emissions due to carbonate flux and
 the use of carbon electrodes. Any emissions from coke and/or coal
 consumption should be calculated using a methodology for [stationary
 combustion](EPA_stationary_combustion). The methodology is sourced from
@@ -22,7 +22,7 @@ each.
 To set the quantity of the carbonate flux used, set the
 ***fluxQuantity*** profile item value. The calculation of emissions
 assumes that the quantity specified represents 100% calcium carbonate
-(limestone). The calculation uses a default value for CO,,2,, emissions
+(limestone). The calculation uses a default value for CO<sub>2</sub> emissions
 per unit of calcium carbonate, based on the known stoichiometric
 relationship between the two.
 
@@ -58,6 +58,6 @@ methodology.
 
 Each of the aforementioned steps establish the absolute quantity of
 carbon oxidised during the EAF steel manufacturing process. The final
-step is to convert this quantity into a quantity of CO,,2,, emitted.
+step is to convert this quantity into a quantity of CO<sub>2</sub> emitted.
 This is done by multiplying by the stoichiometric ratio of atomic C to
-CO,,2,,.
+CO<sub>2</sub>.

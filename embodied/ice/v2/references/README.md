@@ -38,4 +38,4 @@ on the basis of [mass](ICE_v2_by_mass) or [area](ICE_v2_by_area).
 In addition, there exist several methodologies which provide data and
 calculations specific to particular types of materials:
 [concrete](ICE_v2_concrete), [timber](ICE_v2_timber) (including biogenic
-CO,,2,, emissions) and [windows](ICE_v2_windows).
+CO<sub>2</sub> emissions) and [windows](ICE_v2_windows).

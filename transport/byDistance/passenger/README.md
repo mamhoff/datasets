@@ -4,7 +4,7 @@ Protocol](Greenhouse_Gas_Protocol) worksheets.
 
 The worksheets included are:
 
-  - CO,,2,, emissions from transport or mobile sources (v1.3)
+  - CO<sub>2</sub> emissions from transport or mobile sources (v1.3)
 
 <!-- end list -->
 
@@ -12,7 +12,7 @@ The worksheets included are:
 
 <!-- end list -->
 
-  - CO,,2,, emissions from business travel (v2.0)
+  - CO<sub>2</sub> emissions from business travel (v2.0)
 
 <!-- end list -->
 

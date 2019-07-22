@@ -7,7 +7,7 @@ subcategories for further details.
 
 The AMEE category at
 [/business/processes/production/lime/production/titaniumdioxide/production](Generic_titanium_dioxide_production)
-provides a methodology based upon generic emissions factors for CO,,2,,
+provides a methodology based upon generic emissions factors for CO<sub>2</sub>
 emissions per quantity of titanium oxide produced. This methodology
 represents the *Tier 1* approach described by the IPCC Guidelines for
 National Greenhouse Gas Inventories

@@ -1,5 +1,5 @@
 This methodology provides data and a calculation methodology for
-calculating CO,,2,, emissions associated with the consumption of
+calculating CO<sub>2</sub> emissions associated with the consumption of
 transport fuels (e.g. motor gasoline, diesel, kerosene, compressed
 natural gas (CNG), liquefied natural gas (LNG), liquid petroleum gas
 (LPG)). The methodology is sourced from the 2006 IPCC [Guidelines for
@@ -12,7 +12,7 @@ National Greenhouse Gas Inventories](http://www.ipcc-nggip.iges.or.jp/).
 ### Emissions model
 
 Greenhouse gas emissions associated with transport arise from the
-combustion of fuels. According to this methodology, CO,,2,, emissions
+combustion of fuels. According to this methodology, CO<sub>2</sub> emissions
 are [directly related](Custom_emissions_factors) to the quantity of
 carbon which is oxidised during combustion and therefore directly
 proportionate to the quantity of fuel burned and the concentration of
@@ -23,14 +23,14 @@ carbon within the particular fuel type.
 The IPCC provides the following fuel property data for several types of
 transport fuel:
 
-  - **CO,,2,, emissions factor**: emissions factors expressed in terms
-    of quantities of CO,,2,, emitted *per unit of energy* (*kg per TJ*)
+  - **CO<sub>2</sub> emissions factor**: emissions factors expressed in terms
+    of quantities of CO<sub>2</sub> emitted *per unit of energy* (*kg per TJ*)
   - **Heating value**: 'heating' or 'calorific' values (net) describing
     the energy content of the fuel (*TJ per Gg*)
 
-Thus, CO,,2,, emissions can be calculated in two ways using these data:
+Thus, CO<sub>2</sub> emissions can be calculated in two ways using these data:
 (1) on the basis of *energy consumption* by simply multiplying a
-quantity of energy by the *mass CO,,2,, per energy* emission factor; or
+quantity of energy by the *mass CO<sub>2</sub> per energy* emission factor; or
 (2) according to a *mass* of fuel by converting a mass-based fuel
 quantity (e.g. kg, tonnes) into its corresponding energy quantity using
 the heating value, and multiplying by the energy-based emission factor.
@@ -40,7 +40,7 @@ of fuel (e.g. litres, barrels), which can be achieved by specifying a
 volumetric quantity together with value for fuel *density* (i.e. mass
 per unit volume) which enables the conversion of volumetric quantities
 into their corresponding mass-based quantity and, in-turn, into energy
-and CO,,2,, quantities.
+and CO<sub>2</sub> quantities.
 
 ### Related methodologies
 
@@ -80,5 +80,5 @@ also be specified using the ***density*** profile item value.
 
 ### Calculation and result
 
-The returned quantity for this methodology represents the CO,,2,,
+The returned quantity for this methodology represents the CO<sub>2</sub>
 emissions associated with the fuel consumption specified.

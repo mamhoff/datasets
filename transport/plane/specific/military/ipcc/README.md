@@ -1,5 +1,5 @@
 The AMEE category at /transport/plane/specific/military/ipcc contains
-data on fuel consumption on CO,,2,, emissions for military aircraft,
+data on fuel consumption on CO<sub>2</sub> emissions for military aircraft,
 sourced from the IPCC [Guidelines for National Greenhouse Gas
 Inventories](http://www.ipcc-nggip.iges.or.jp/).
 
@@ -10,7 +10,7 @@ size, number of engines, and its military use.
 To use this category select the aircraft *type* and *subtype* using
 drill downs and set the flying duration by using the
 ***flightDuration*** profile item value. The returned value represents
-CO,,2,, emissions for the total flight time.
+CO<sub>2</sub> emissions for the total flight time.
 
 ## Radiative Forcing Index
 

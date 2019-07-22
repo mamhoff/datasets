@@ -47,7 +47,7 @@ specified, AMEE assumes an absense of sludge removal.
 can be deducted from the emissions calculation. To specify methane
 recovery, set the mass of recovered methane in the
 ***recoveredMethane*** profile item value. The value returned in this
-case represents methane/N,,2,,O emissions associated with the waste
+case represents methane/N<sub>2</sub>O emissions associated with the waste
 quantity specified minus the methane recovered. If a quantity of
 recovered methane is specified which is greater than the emitted
 quantity, AMEE returns a value of 0, and posts an error message into the
@@ -67,8 +67,8 @@ The quantities returned represent the methane emissions associated with
 waste water discharge into the treatment system specified. The following
 quantities are returned:
 
-  - ***CH4***: absolute quantity of CH,,4,, emitted
-  - ***CO2e***: emitted CH,,4,, to CO,,2,,e converted using the
+  - ***CH4***: absolute quantity of CH<sub>4</sub> emitted
+  - ***CO2e***: emitted CH<sub>4</sub> to CO<sub>2</sub>e converted using the
     appropriate [global warming
     potential](Greenhouse_gases_Global_warming_potentials)) ---
 

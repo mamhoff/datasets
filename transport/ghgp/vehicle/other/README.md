@@ -1,6 +1,6 @@
 **Road vehicle emissions methodology. Calculates direct fossil and/or
-biogenic carbon dioxide (CO,,2,,), methane (CH,,4,,), nitrous oxide
-(N,,2,,O) and carbon dioxide equivalent (CO,,2,,e) emissions associated
+biogenic carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide
+(N<sub>2</sub>O) and carbon dioxide equivalent (CO<sub>2</sub>e) emissions associated
 with distance travelled or fuel consumed. Choices include vehicle type,
 fuel type and emissions standard. Regions other than the United Kingdom
 and United States.**
@@ -29,10 +29,10 @@ freight. Emissions for individual passengers can nevertheless be derived
 by 'sharing' vehicular emissions across all vehicle occupants, if the
 occupancy of the vehicle is known.
 
-Since the CO,,2,, produced during the burning of biofuels in not a net
+Since the CO<sub>2</sub> produced during the burning of biofuels in not a net
 contributor to atmospheric warming (see
 [here](Carbon_dioxide_emissions)), fossil- and biofuel-associated
-CO,,2,, are explicitly defined.
+CO<sub>2</sub> are explicitly defined.
 
 Emissions - expressed in terms of mass (e.g. kg) - are calculated by
 multiplying these rates (mass emitted per distance; e.g. kg CO2 per
@@ -56,7 +56,7 @@ heavy goods vehicles, the emissions standard is represented by the year
 of production. For motorcycles, the emissions standard depends on the
 explicit type of technology employed (e.g. non-catalyst control).
 
-Both fossil- and biogenic-CO,,2,, emissions factors are provided
+Both fossil- and biogenic-CO<sub>2</sub> emissions factors are provided
 although the latter is applicable only to those scenarios using
 representing the use of ethanol as fuel.
 
@@ -72,10 +72,10 @@ passengers.
 
 ### Calculation and result
 
-The returned quantities for this methodology represent CO,,2,,, and
-biogenic CO,,2,, emissions associated with the activity data (distance)
-specified. In most cases CO,,2,, emissions are entirely represented by
-fossil CO,,2,, as only biofuels (in this case, ethanol) or biofuel
+The returned quantities for this methodology represent CO<sub>2</sub>, and
+biogenic CO<sub>2</sub> emissions associated with the activity data (distance)
+specified. In most cases CO<sub>2</sub> emissions are entirely represented by
+fossil CO<sub>2</sub> as only biofuels (in this case, ethanol) or biofuel
 blends contain biogenic carbon.
 
 -----

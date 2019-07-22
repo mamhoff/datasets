@@ -1,5 +1,5 @@
 **Life cycle methodology, concrete. Calculates embodied energy and
-carbon dioxide (CO,,2,,) and CO,,2,,e emissions based on the quantity of
+carbon dioxide (CO<sub>2</sub>) and CO<sub>2</sub>e emissions based on the quantity of
 concrete used. Scenarios include standard mixes, blocks, nominal
 proportions, reinforcing steel and precasting. Mixed geographical
 scopes.**
@@ -7,7 +7,7 @@ scopes.**
 ## Summary
 
 This methodology represents **embodied energy, carbon dioxide**
-(CO,,2,,) and **CO,,2,,e emissions** associated with the use of
+(CO<sub>2</sub>) and **CO<sub>2</sub>e emissions** associated with the use of
 **concrete**. The data and calculation methodology is sourced from the
 [Inventory of Carbon & Energy (ICE),
 version 2.0](http://people.bath.ac.uk/cj219/) life cycle dataset,
@@ -20,13 +20,13 @@ produced in conjunction with the University of Bath.
 ### Emissions model
 
 The methodology is based on factors which describe the quantities of
-energy and CO,,2,, which are 'embodied' within unit quantities of
+energy and CO<sub>2</sub> which are 'embodied' within unit quantities of
 concrete. By multiplying a quantity of concrete by these factors, an
 estimate of the embodied energy and emissions associated with that
 quantity can be calculated.
 
 In addition, the methodology enables the calculation of energy and
-CO,,2,, emissions embodied in **reinforcing steel** or the
+CO<sub>2</sub> emissions embodied in **reinforcing steel** or the
 **precasting** process where appropriate. These are enabled by
 additional factors which are combined with the baseline concrete factors
 in order to derive new *per unit concrete* factors for scenarios which
@@ -48,10 +48,10 @@ Each specific type of concrete is represented by up to three data
 values, representing:
 
   - *embodied energy per unit mass* (MJ/kg)
-  - *embodied CO,,2,, per unit mass* (kg/kg)
-  - *embodied CO,,2,,e per unit mass* (kg/kg)
+  - *embodied CO<sub>2</sub> per unit mass* (kg/kg)
+  - *embodied CO<sub>2</sub>e per unit mass* (kg/kg)
 
-For some types, unit CO,,2,,e emissions are not explicitly defined. In
+For some types, unit CO<sub>2</sub>e emissions are not explicitly defined. In
 addition, each material is described by a **life cycle analysis
 boundary**, indicating the stages in the material life cycle which are
 represented by the energy and CO2 factors, and in most cases **author
@@ -62,10 +62,10 @@ energy associated with reinforcing steel and precasting of any concrete
 type:
 
   - *embodied energy per unit mass for precasting* (MJ/kg)
-  - *embodied CO,,2,, per unit mass for precasting* (kg/kg)
+  - *embodied CO<sub>2</sub> per unit mass for precasting* (kg/kg)
   - *embodied energy per unit mass per unit density of steel* ((MJ/kg) /
     (kg/m^^3^^))
-  - *embodied CO,,2,, per unit mass per unit density of steel* ((kg/kg)
+  - *embodied CO<sub>2</sub> per unit mass per unit density of steel* ((kg/kg)
     / (kg/m^^3^^))
 
 ### Activity data required
@@ -83,7 +83,7 @@ Embodied energy and emissions are calculated by multiplying the
 specified quantity of concrete used by the available factors. Any
 additional effect of reinforcing steel or precasting are also
 incorporated. Up to three values are returned representing the embodied
-**energy**, and **CO,,2,,** or **CO,,2,,e** emissions attributable to
+**energy**, and **CO<sub>2</sub>** or **CO<sub>2</sub>e** emissions attributable to
 the specified quantity of concrete (and steel).
 
 -----
@@ -93,14 +93,14 @@ the specified quantity of concrete (and steel).
 ### Autoclaved aerated blocks
 
 In the case of *Autoclaved aerated* concrete blocks, the published data
-for embodied energy and/or CO,,2,,(e) is provided in terms of a range of
+for embodied energy and/or CO<sub>2</sub>(e) is provided in terms of a range of
 values. As such, the data is represented here in terms of three
 scenarios: the *upper* and *lower* estimates, and the average (*mean*)
 of these.
 
 ### Reinforcing steel associated factors
 
-The additional factors for embodied energy and CO,,2,, emissions
+The additional factors for embodied energy and CO<sub>2</sub> emissions
 associated with reinforcing steel are quoted in the ICE source
 documentation in relation to a unit of *100 kg \[steel\] per m^^3^^
 \[concrete\]*. These factors are represented here on a simpler kg/m^^3^^
@@ -117,7 +117,7 @@ of [mass](ICE_v2_by_mass) or [area](ICE_v2_by_area).
 
 In addition, there exist several methodologies which provide data and
 calculations specific to particular types of materials:
-[timber](ICE_v2_timber) (including biogenic CO,,2,, emissions) and
+[timber](ICE_v2_timber) (including biogenic CO<sub>2</sub> emissions) and
 [windows](ICE_v2_windows).
 
 Details of the [sources of data](ICE_v2_references) for the ICE database

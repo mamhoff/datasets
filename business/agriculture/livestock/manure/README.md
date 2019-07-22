@@ -5,7 +5,7 @@ Programme](http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_10_Ch
 These categories represent *Tier 1* approaches.
 
 The data is organised into the following subcategories which relate to
-CH,,4,, and N,,2,,O emissions respectively:
+CH<sub>4</sub> and N<sub>2</sub>O emissions respectively:
 
   - [Manure\_associated\_methane\_emissions](Manure_associated_methane_emissions)
 

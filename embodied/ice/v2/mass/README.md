@@ -1,5 +1,5 @@
 **Life cycle methodology, materials. Calculates embodied energy and
-carbon dioxide (CO,,2,,) and CO,,2,,e emissions based on the quantity of
+carbon dioxide (CO<sub>2</sub>) and CO<sub>2</sub>e emissions based on the quantity of
 materials used (by mass). Scenarios include specific metals,
 construction materials, ceramics, plastics and timber. Mixed
 geographical scopes.**
@@ -7,7 +7,7 @@ geographical scopes.**
 ## Summary
 
 This methodology represents **embodied energy, carbon dioxide**
-(CO,,2,,) and **CO,,2,,e emissions** associated with the use of various
+(CO<sub>2</sub>) and **CO<sub>2</sub>e emissions** associated with the use of various
 **materials** as specified on the basis of **mass** quantities. The data
 and calculation methodology is sourced from the [Inventory of Carbon &
 Energy (ICE), version 2.0](http://people.bath.ac.uk/cj219/) life cycle
@@ -20,7 +20,7 @@ dataset, produced in conjunction with the University of Bath.
 ### Emissions model
 
 The methodology is based on factors which describe the quantities of
-energy and CO,,2,, which are 'embodied' within unit quantities of
+energy and CO<sub>2</sub> which are 'embodied' within unit quantities of
 various materials. By multiplying a quantity of material - in this case,
 a **mass** quantity - by these factors, an estimate of the embodied
 energy and emissions associated with that quantity can be calculated.
@@ -38,10 +38,10 @@ Each specific type of material is represented by up to three data
 values, representing:
 
   - *embodied energy per unit mass* (MJ/kg)
-  - *embodied CO,,2,, per unit mass* (kg/kg)
-  - *embodied CO,,2,,e per unit mass* (kg/kg)
+  - *embodied CO<sub>2</sub> per unit mass* (kg/kg)
+  - *embodied CO<sub>2</sub>e per unit mass* (kg/kg)
 
-For some materials, unit CO,,2,,e emissions are not explicitly defined.
+For some materials, unit CO<sub>2</sub>e emissions are not explicitly defined.
 In a few cases (e.g. *asbestos*, *carpet grout*, *mastic sealants*) only
 embodied energy is defined.
 
@@ -61,7 +61,7 @@ calculate.
 Embodied energy and emissions are calculated by multiplying the
 specified quantity of material used by the available factors. Up to
 three values are returned representing the embodied **energy**, and
-**CO,,2,,** or **CO,,2,,e** emissions attributable to the specified
+**CO<sub>2</sub>** or **CO<sub>2</sub>e** emissions attributable to the specified
 quantity.
 
 -----
@@ -70,7 +70,7 @@ quantity.
 
 ### Data specified as a range of values
 
-In some cases, the published data for embodied energy and/or CO,,2,,(e)
+In some cases, the published data for embodied energy and/or CO<sub>2</sub>(e)
 for a particular material is provided in terms of a range of values
 (e.g. *bitumen*, *slate*). This arises where the range of values in the
 sample data is large, and/or the sample size is small. In these cases
@@ -87,10 +87,10 @@ terms of upper, lower and mean values for each percentage range.
 ### Nylon carpets
 
 The data for *nylon* carpet and carpet tiles is provided in the source
-documentation on the basis of area quantities (i.e. kg \[CO,,2,,\] per
+documentation on the basis of area quantities (i.e. kg \[CO<sub>2</sub>\] per
 **m^^2^^**). This data and calculation basis is available
 [here](ICE_v2_by_area). The *per kg* data for these materials (i.e. kg
-\[CO,,2,,\] per **kg**) were derived from the *per m^^2^^* data using
+\[CO<sub>2</sub>\] per **kg**) were derived from the *per m^^2^^* data using
 the area density values (i.e. kg per m^^2^^) which are provided for each
 of the carpet types in the original source documentation.
 
@@ -109,7 +109,7 @@ methodology).
 In addition, there exist several methodologies which provide data and
 calculations specific to particular types of materials, for example
 [concrete](ICE_v2_concrete), [timber](ICE_v2_timber) (including biogenic
-CO,,2,, emissions) and [windows](ICE_v2_windows).
+CO<sub>2</sub> emissions) and [windows](ICE_v2_windows).
 
 Details of the [sources of data](ICE_v2_references) for the ICE database
 are also available.

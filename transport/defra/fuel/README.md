@@ -22,7 +22,7 @@ assumptions about vehicle fuel efficiencies.
 
 Emissions - conventionally expressed in terms of mass (e.g. *kg*) - are
 calculated by multiplying these rates (*mass emitted per volume*; e.g.
-*kg CO,,2,, per litre*) by a volume of fuel (e.g *litres*) consumed.
+*kg CO<sub>2</sub> per litre*) by a volume of fuel (e.g *litres*) consumed.
 DEFRA also publish data on [fuel densities](Fuel_properties_by_DEFRA)
 which can be used to convert volumetric quantities of fuel into their
 equivalent masses (or vice versa). As such, emissions can additionally
@@ -39,21 +39,21 @@ distinct transport fuels are provided.
 Each fuel is represented by six distinct emissions factors which
 differentiate greenhouse gas emissions into the following types:
 
-  - *direct CO,,2,, emissions*: carbon dioxide emissions produced
+  - *direct CO<sub>2</sub> emissions*: carbon dioxide emissions produced
     *during* combustion
-  - *direct CH,,4,, emissions*: methane emissions produced *during*
+  - *direct CH<sub>4</sub> emissions*: methane emissions produced *during*
     combustion
-  - *direct N,,2,,O emissions*: nitrous oxide emissions produced
+  - *direct N<sub>2</sub>O emissions*: nitrous oxide emissions produced
     *during* combustion
-  - *total direct emissions*: all direct emissions, i.e. CO,,2,, +
-    CH,,4,, + N,,2,,O
+  - *total direct emissions*: all direct emissions, i.e. CO<sub>2</sub> +
+    CH<sub>4</sub> + N<sub>2</sub>O
   - *indirect emissions*: emissions associated with stages in the fuel
     production chain such as raw material extraction and fuel delivery
   - *total* or '*life cycle*': the total of direct and indirect
     emissions
 
 Each of these emissions factors are expressed in terms of kg
-[CO,,2,,e](Greenhouse_gases_Global_warming_potentials) per tonne km.
+[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials) per tonne km.
 
 ### Similar methodologies
 
@@ -95,17 +95,17 @@ this quantity into a volumetric quantity by using the fuel-specific
 [density](Fuel_properties_by_DEFRA) values provided in the DEFRA source
 documentation. The following discrete **amounts** are returned:
 
-  - ***CO2***: CO,,2,, emissions
-  - ***methaneCO2e***: CH,,4,, (methane) emissions
-  - ***nitrousOxideCO2e***: N,,2,,O (nitrous oxide) emissions
+  - ***CO2***: CO<sub>2</sub> emissions
+  - ***methaneCO2e***: CH<sub>4</sub> (methane) emissions
+  - ***nitrousOxideCO2e***: N<sub>2</sub>O (nitrous oxide) emissions
   - ***totalDirectCO2e***: total direct emissions
   - ***indirectCO2e***: Indirect emissions
   - ***lifeCycleCO2e***: Full life cycle emissions
 
 Users should note that **all quantities** (including the separated
-CH,,4,, and N,,2,,O emissions) are expressed in terms of
-**[CO,,2,,e](Greenhouse_gases_Global_warming_potentials)** - the
-quantity of CO,,2,, which would exert the same atmospheric warming
+CH<sub>4</sub> and N<sub>2</sub>O emissions) are expressed in terms of
+**[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials)** - the
+quantity of CO<sub>2</sub> which would exert the same atmospheric warming
 effect and the emissions quantity.
 
 These emissions reflect the emissions type specified (i.e. direct,

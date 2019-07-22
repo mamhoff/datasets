@@ -1,12 +1,12 @@
 **Metal industry methodology, general iron and steel processes.
-Calculates carbon dioxide (CO,,2,,), methane (CH,,4,,) and CO,,2,,e
+Calculates carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>) and CO<sub>2</sub>e
 emissions based on the quantities of materials produced. Choices include
 coke, iron, steel, sinter. Globally applicable.**
 
 ## Summary
 
-This methodology represents **carbon dioxide** (CO,,2,,) and **methane**
-(CH,,4,,) emissions associated with the a number of processes employed
+This methodology represents **carbon dioxide** (CO<sub>2</sub>) and **methane**
+(CH<sub>4</sub>) emissions associated with the a number of processes employed
 in the iron and steel industry. The data and calculation methodology is
 sourced from *[Volume 3, Chapter 4 - Metal Industry
 Emissions](http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf)*
@@ -19,7 +19,7 @@ Inventories](http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html)*.
 
 ### Emissions model
 
-This methodology enables the calculation of CO,,2,, and CH,,4,,
+This methodology enables the calculation of CO<sub>2</sub> and CH<sub>4</sub>
 emissions associated with a selection of production processes associated
 with the iron and steel industry (coke, iron, steel, sinter production).
 The methodology is based upon emissions factors which describe the
@@ -32,19 +32,19 @@ This methodology represents the IPCC *Tier 1* approach.
 ### Model data
 
 The rate at which emissions occur varies according to the specfic
-process under consideration. This methodology provides CO,,2,, and
-CH,,4,, emissions factors for 9 distinct processes commonly employed in
+process under consideration. This methodology provides CO<sub>2</sub> and
+CH<sub>4</sub> emissions factors for 9 distinct processes commonly employed in
 the iron and steel industry.
 
 ### Activity data required
 
-CO,,2,, and CH,,4,, emissions are directly proportionate to the quantity
+CO<sub>2</sub> and CH<sub>4</sub> emissions are directly proportionate to the quantity
 of material produced, which is therefore required in order to calculate.
 
 ### Calculation and results
 
 Emissions are calculated by multiplying the quantity produced by the
-appropriate emissions factors. **CO,,2,,e** emissions are also
+appropriate emissions factors. **CO<sub>2</sub>e** emissions are also
 calculated by converting absolute emissions using the appropriate
 [global warming potentials](Greenhouse_gases_Global_warming_potentials).
 

@@ -11,7 +11,7 @@ profile item value. Users can set freight distance in one of three ways:
 (1) directly, by specifying an actual distance flown; (2) indirectly, by
 specifying departure and destination locations; or (3) approximately, by
 using generic distance categories. In all cases, the returned value
-represents CO,,2,, emissions attributable to the transported freight
+represents CO<sub>2</sub> emissions attributable to the transported freight
 over the distance specified.
 
 ## Specifying departure and destination locations

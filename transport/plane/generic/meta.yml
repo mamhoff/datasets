@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - deprecated
 - transport
 - mobile
@@ -13,28 +13,28 @@ tags:
 - emission_factor
 - direct
 provenance: "[[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   IATACode1: Departure airport IATA code
   long2: Destination location longitude
   lat1: Departure location latitude
-  kgCO2PerPassengerKm: Per distance CO,,2,, emissions factor
+  kgCO2PerPassengerKm: Per distance CO<sub>2</sub> emissions factor
   journeysPerYear: Number of journeys per year
   journeys: Number of journeys undertaken
   passengerClass: Journey Passenger class category
   lat2: Destination location latitude
   size: Journey size (one-way, return, -)
   IATACode2: Destination airport IATA code
-  useRFI: 
+  useRFI:
   numberOfPassengers: Number of passengers under consideration
-  kgCO2PerPassengerJourney: Per journey CO,,2,, emissions factor
+  kgCO2PerPassengerJourney: Per journey CO<sub>2</sub> emissions factor
   distanceKmPerYear: Total distance travelled per year
   type: Journey type
-  radiativeForcingIndex: 
-  calculatedDistance: 
-  source: 
+  radiativeForcingIndex:
+  calculatedDistance:
+  source:
   distance: Total distance travelled
   long1: Departure location longitude
 wikiname: Generic_plane_transport

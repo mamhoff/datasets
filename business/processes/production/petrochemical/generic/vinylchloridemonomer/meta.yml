@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - petrochemical
 - vinyl_chloride_monomer
 - IPCC
@@ -18,18 +18,18 @@ tags:
 - EDC
 - VCM
 provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf|IPCC-NGGIP]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
-  massCH4PerMass: Quantity of CH,,4,, emissions per unit produced
-  massCO2PerMass: Quantity of CO,,2,, emissions per unit produced
+ivds:
+  massCH4PerMass: Quantity of CH<sub>4</sub> emissions per unit produced
+  massCO2PerMass: Quantity of CO<sub>2</sub> emissions per unit produced
   mass: Quantity of vinyl chloride monomer produced
   massFeedstockPerMass: " Quantity of feedstock required per unit production"
   process: Type of process
   emission: Type of emission
   massFeedstock: Quantity of feedstock consumed
-  source: 
+  source:
 wikiname: Vinyl_chloride_monomer_production
 usages:
   byProduction: {  massFeedstock : ignored }

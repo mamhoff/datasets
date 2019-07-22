@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - deprecated
 - mobile
 - fuel
@@ -14,18 +14,18 @@ tags:
 - direct
 - global
 provenance: http://www.ghgprotocol.org/calculation-tools/all-tools
-gallery: 
+gallery:
 show: "0"
 authority: enterprise
-ivds: 
+ivds:
   mass: Mass of fuel used
   HVMass: Mass-based heatng value of fuel
   NRG: Energy produced in combustions
   fuel: Fuel type
-  EFNRGCO2: CO,,2,, per energy emissions factor
+  EFNRGCO2: CO<sub>2</sub> per energy emissions factor
   volume: Volume of fuel used
   version: Emissions factor version
-  source: 
+  source:
   HVVolume: Volume-based heating value of fuel
 wikiname: Transport_fuel
 usages:

@@ -13,13 +13,13 @@ the *product* drill choice.
 
 Next, specify the quantity of feedstock and petrochemical product using
 the ***primaryFeedstockMass*** and ***productMass*** profile item
-values. The returned value represents CO,,2,, emissions based on these
+values. The returned value represents CO<sub>2</sub> emissions based on these
 quantities, using default information regarding the type of feedstock
 used and the carbon contents of both the feedstock and product. The
 default type of feedstock follows IPCC guidelines and is represented by
 the *primaryFeedstock* data item value. The calculation assumes that all
 feedstock carbon unaccounted for in the process products is emitted as
-CO,,2,,.
+CO<sub>2</sub>.
 
 Users can override the default carbon content value for both feedstock
 and product by using the ***primaryFeedstockCarbon*** and

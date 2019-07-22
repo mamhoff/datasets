@@ -24,18 +24,18 @@ This drill is not required for ethanol, CNG or LPG fuels.
 
 The ***distance*** is then set as a profile item value.
 
-The algorithm returns kg CO,,2,,e value, which is a sum of CO,,2,,,
-N,,2,,O and CH,,4,, emissions for each fuel type.
+The algorithm returns kg CO<sub>2</sub>e value, which is a sum of CO<sub>2</sub>,
+N<sub>2</sub>O and CH<sub>4</sub> emissions for each fuel type.
 
 ## Biomass fuel
 
-The GHG protocol requires CO,,2,, emissions from biomass fuels to be
-reported on differently, due to the fact that the CO,,2,, released from
+The GHG protocol requires CO<sub>2</sub> emissions from biomass fuels to be
+reported on differently, due to the fact that the CO<sub>2</sub> released from
 biomass fuels has only recently been sequestered from the atmosphere and
-so does not constitute a net increase in CO,,2,,, unlike fossil fuel
-emissions or those of CH,,4,, and N,,2,,. Therefore, the CO,,2,,
+so does not constitute a net increase in CO<sub>2</sub>, unlike fossil fuel
+emissions or those of CH<sub>4</sub> and N<sub>2</sub>. Therefore, the CO<sub>2</sub>
 emissions for ethanol are not included here, but can be found in the
 [biofuel](US_light_goods_biofuel_truck) subcategory. If the user wishes
 to calculate their total GHG emissions from ethanol-powered light goods
-travel (i.e. including the biomass CO,,2,, component), they should use
+travel (i.e. including the biomass CO<sub>2</sub> component), they should use
 both categories in combination.

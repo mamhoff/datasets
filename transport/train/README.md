@@ -13,7 +13,7 @@ Board](http://www.rssb.co.uk/index.asp). Two subcategories are
 available, representing [electric](Specific_electric_trains) and
 [diesel](Specific_diesel_trains) trains respectively. The methodology
 uses distance-based energy consumption factors, expressed on a
-per-passenger basis, together with CO,,2,, emissions factors for diesel
+per-passenger basis, together with CO<sub>2</sub> emissions factors for diesel
 combustion and electricity consumption. The user is required to specify
 the distance travelled as well as other optional parameters.
 
@@ -27,10 +27,10 @@ government agency
 The methodology uses distance-based, *per passenger* emissions factors,
 requiring the user to specify the distance travelled. Users may
 calculate according to single 'one-off' journeys, or by repeated
-journeys. This category measures CO,,2,, emissions only, and should be
+journeys. This category measures CO<sub>2</sub> emissions only, and should be
 considered to represent a useful first point of entry to train-related
 emissions. The category is used by the UK Goverment [Act On
-CO,,2,,](http://actonco2.direct.gov.uk/actonco2/home.html) website.
+CO<sub>2</sub>](http://actonco2.direct.gov.uk/actonco2/home.html) website.
 
 ## Generic train transport - DEFRA
 
@@ -40,7 +40,7 @@ contains the most recently published
 data on greenhouse gas emissions associated with representative
 passenger train types in UK. The methodology uses distance-based, *per
 passenger* emissions factors, requiring the user to specify the distance
-travelled. This category includes CO,,2,,, CH,,4,, and N,,2,,O emissions
+travelled. This category includes CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O emissions
 as part of each calculation.
 
 ## Generic train transport - GHG Protocol
@@ -55,7 +55,7 @@ methodology uses distance-based, *per passenger* emissions factors,
 requiring the user to specify the distance travelled and number of
 passenger. The returned value representing greenhouse gas emissions
 attributable to all passengers, inclusive of the greenhouse gases
-CO,,2,,, CH,,4,, and N,,2,,O (expressed as CO,,2,, equivalent).
+CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O (expressed as CO<sub>2</sub> equivalent).
 
 ## Train freight
 
@@ -66,13 +66,13 @@ Protocol](http://www.ghgprotocol.org/calculation-tools/all-tools) in a
 number of subcategories. Users are required to specify a distance and
 mass for the freight transported, with the returned value representing
 greenhouse gas emissions attributable to that quantity, inclusive of the
-greenhouse gases CO,,2,,, CH,,4,, and N,,2,,O (expressed as CO,,2,,
+greenhouse gases CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O (expressed as CO<sub>2</sub>
 equivalent).
 
 ## Train route
 
 The AMEE category [Train route](Train_Route) contains a methodology for
-calculating CO,,2,, emissions for travel between any two UK train
+calculating CO<sub>2</sub> emissions for travel between any two UK train
 stations. Users must specify travel departure and destination locations,
 as well as a train type which can include a number of specific options.
 Emissions are returned on a per-passenger basis, with the distance

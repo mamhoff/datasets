@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - bus
 - occupancy
@@ -15,12 +15,12 @@ provenance: GHG based on DEFRA and USDOT/NAEI vehicle speed emission factors
 gallery: "nil"
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   occupancy: Total number of passengers occupying bus
   distancePerFuelVolume: Fuel consumption rate
-  massCO2perFuelVolume: CO,,2,, emitted per volume of fuel used
+  massCO2perFuelVolume: CO<sub>2</sub> emitted per volume of fuel used
   accountedPassengers: Number of passengers to be considered in calculation
   context: Type of bus travel
-  source: 
+  source:
   distance: Distance travelled
 wikiname: Bus_by_occupancy

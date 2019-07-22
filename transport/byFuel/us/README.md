@@ -21,28 +21,28 @@ from the following options.
   - b20 biodiesel/diesel
 
 Secondly the drill-down *CO2eOrCO2* allows the user to specify whether
-they wish the result to give CO,,2,,e emissions, including N,,2,,O and
-CH,,4,, emissions, or CO,,2,, emissions only. The next two drill-downs
+they wish the result to give CO<sub>2</sub>e emissions, including N<sub>2</sub>O and
+CH<sub>4</sub> emissions, or CO<sub>2</sub> emissions only. The next two drill-downs
 allow the specification of the *transportType* and *transportSubType*.
 Finally the drill-down '''yearOfManufacture''' specifies the age for
 certain vehicles. The ***fuelQuantity*** used during the journey is then
 entered as a profile item value.
 
-The algorithm returns either CO,,2,, or CO,,2,,e emissions depending on
+The algorithm returns either CO<sub>2</sub> or CO<sub>2</sub>e emissions depending on
 the choice made in the *CO2eOrCO2* drill-down.
 
 ### Biomass fuel
 
-The GHG protocol requires CO,,2,, emissions from biomass fuels to be
-reported on differently, due to the fact that the CO,,2,, released from
+The GHG protocol requires CO<sub>2</sub> emissions from biomass fuels to be
+reported on differently, due to the fact that the CO<sub>2</sub> released from
 biomass fuels has only recently been sequestered from the atmosphere and
-so does not constitute a net increase in CO,,2,,, unlike fossil fuel
-emissions or those of CH,,4,, and N,,2,,O. Therefore, the CO,,2,,
+so does not constitute a net increase in CO<sub>2</sub>, unlike fossil fuel
+emissions or those of CH<sub>4</sub> and N<sub>2</sub>O. Therefore, the CO<sub>2</sub>
 emissions for pure ethanol and biodiesel are not included here, but can
 be found in the [biomass](US_transport_biofuel) subcategory. There are
 two mixed fuel entries in this category - E85 and B20. These are a
 mixture of biofuel and fossil fuel. Therefore, this category contains
-the CO,,2,, emitted from the fossil fuel constituent, with the biomass
+the CO<sub>2</sub> emitted from the fossil fuel constituent, with the biomass
 fuel emissions given in the [biomass](US_transport_biofuel) subcategory.
 If the user wishes to calculate their total emissions, including biomass
-CO,,2,, they should use both categories in combination.
+CO<sub>2</sub> they should use both categories in combination.

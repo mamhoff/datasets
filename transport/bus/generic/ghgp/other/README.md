@@ -18,15 +18,15 @@ depending on the fuel powering the bus. The user selects the drill-down
 
 The ***distance*** is then set as a profile item value.
 
-The algorithm returns the kg CO,,2,, emitted from a journey of the given
+The algorithm returns the kg CO<sub>2</sub> emitted from a journey of the given
 distance.
 
 ## Biomass fuels
 
-The GHG protocol requires CO,,2,, emissions from biomass fuels to be
-reported on differently, due to the fact that the CO,,2,, released from
+The GHG protocol requires CO<sub>2</sub> emissions from biomass fuels to be
+reported on differently, due to the fact that the CO<sub>2</sub> released from
 biomass fuels has only recently been sequestered from the atmosphere so
-does not constitute a net increase in CO,,2,,, unlike fossil fuel
-CO,,2,, emissions. Therefore, the CO,,2,, emissions for ethanol are not
+does not constitute a net increase in CO<sub>2</sub>, unlike fossil fuel
+CO<sub>2</sub> emissions. Therefore, the CO<sub>2</sub> emissions for ethanol are not
 included here, but can be found in the
 [biomass](Other_regional_biofuel_bus_transport) subcategory.

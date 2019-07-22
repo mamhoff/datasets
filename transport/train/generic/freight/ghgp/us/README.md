@@ -11,6 +11,6 @@ To use these categories, select the train type using the *type* drill
 down option. Then, specify the distance and mass of the freight
 transported by setting the ***distance*** and ***mass*** profile item
 values. The value returned represents the total greenhouse gas emissions
-(CO,,2,,, CH,,4,,, N,,2,,O) associated with the specified freighting,
-expressed in terms of the mass of CO,,2,, which would produce an
+(CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O) associated with the specified freighting,
+expressed in terms of the mass of CO<sub>2</sub> which would produce an
 equivalent global warming effect.

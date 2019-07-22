@@ -1,11 +1,11 @@
 **Metal industry methodology, coke production. Calculates carbon dioxide
-(CO,,2,,), methane (CH,,4,,) and CO,,2,,e emissions based on the
+(CO<sub>2</sub>), methane (CH<sub>4</sub>) and CO<sub>2</sub>e emissions based on the
 quantities of materials consumed and produced. Globally applicable.**
 
 ## Summary
 
-This methodology represents **carbon dioxide** (CO,,2,,) and **methane**
-(CH,,4,,) emissions associated with the production of **coke**. The data
+This methodology represents **carbon dioxide** (CO<sub>2</sub>) and **methane**
+(CH<sub>4</sub>) emissions associated with the production of **coke**. The data
 and calculation methodology is sourced from the [Greenhouse Gas
 Protocol](Greenhouse_Gas_Protocol) (GHGP) worksheet tool *[CO2 emissions
 from the production of iron and steel,
@@ -25,19 +25,19 @@ Inventories](http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html)*.
 Metallurgical coke is the solid product obtained from the carbonisation
 of coal (predominantly 'coking coal' ) at high temperature, and is used
 as a blast furnace feedstock in the production of iron and steel. As
-well as producing coke, this process produces coke oven gas, CO,,2,,,
-CH,,4,, and other by-products.
+well as producing coke, this process produces coke oven gas, CO<sub>2</sub>,
+CH<sub>4</sub> and other by-products.
 
-This methodology enables the calculation of coke-associated CO,,2,,
+This methodology enables the calculation of coke-associated CO<sub>2</sub>
 emissions based upon a mass balance approach that accounts for the
 carbon inputs and outputs to coke ovens. By considering the carbon
 entering the process via the carbon-bearing feedstocks (typically coking
 coal, blast furnace gas and other materials), and the carbon leaving the
 process within coke, oven gases and other by-products, the discrepancy
-can be assumed to have been emitted as CO,,2,,.
+can be assumed to have been emitted as CO<sub>2</sub>.
 
-CH,,4,, emissions are based on an emissions factor which describes the
-rate at which CH,,4,, is emitted per unit quantity of coke produced.
+CH<sub>4</sub> emissions are based on an emissions factor which describes the
+rate at which CH<sub>4</sub> is emitted per unit quantity of coke produced.
 This includes iron converted, and not converted, into steel.
 
 This methodology represents the IPCC *Tier 2* approach where default
@@ -55,21 +55,21 @@ data is not available.
 
 ### Activity data required
 
-CO,,2,, emissions require quantities of feedstocks (including blast
+CO<sub>2</sub> emissions require quantities of feedstocks (including blast
 furnace gas specifically) and of coke, coke oven gas and other
 (by-)products in order to calculate. In addition, the methodology
 enables the specification of facility-specific data carbon content data
-where this is available. CH,,4,, emissions also require the quantity of
-coke produced to be specified. A default emissions factor for CH,,4,, is
+where this is available. CH<sub>4</sub> emissions also require the quantity of
+coke produced to be specified. A default emissions factor for CH<sub>4</sub> is
 available but can be specified if facility- or country-specific data is
 available.
 
 ### Calculation and results
 
-**CO,,2,,** emissions are calculated by the mass-balance of the
-specified input/output activity data. **CH,,4,,** emissions are
+**CO<sub>2</sub>** emissions are calculated by the mass-balance of the
+specified input/output activity data. **CH<sub>4</sub>** emissions are
 calculated by multiplying the quantity of coke specified by the
-appropriate emissions factor. **CO,,2,,e** emissions are also calculated
+appropriate emissions factor. **CO<sub>2</sub>e** emissions are also calculated
 by converting absolute emissions using the appropriate [global warming
 potentials](Greenhouse_gases_Global_warming_potentials).
 

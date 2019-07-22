@@ -17,9 +17,9 @@ following options.
 The ***fuelQuantity*** for the journey is then specified as a profile
 item value.
 
-The algorithm returns a CO,,2,, value based on the users specifications
-and certain fuel emission factors. This CO,,2,, value covers biomass
+The algorithm returns a CO<sub>2</sub> value based on the users specifications
+and certain fuel emission factors. This CO<sub>2</sub> value covers biomass
 emissions only. Therefore, the fossil fuel components of E85 and B20 are
 not included here, but are in the [parent category](US_transport_fuel).
 If the user wishes to calculate complete emissions, including biomass
-CO,,2,, emissions, both categories must be used.
+CO<sub>2</sub> emissions, both categories must be used.

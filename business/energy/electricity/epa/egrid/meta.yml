@@ -1,7 +1,7 @@
 ---
 data_items: []
 
-tags: 
+tags:
 - EPA
 - US
 - egrid
@@ -13,7 +13,7 @@ tags:
 provenance: "[[http://www.epa.gov/cleanenergy/energy-resources/egrid/index.html|EPA-eGRID]]"
 gallery: |-
   <img src="http://www.energystar.gov/istar/pmpam/help/EGRID_subregion_map.gif"/>
-  <%= chart :dependent => 'massCO2ePerEnergy' %> 
+  <%= chart :dependent => 'massCO2ePerEnergy' %>
 show: "1"
 authority: enterprise
 ivds:
@@ -25,7 +25,7 @@ ivds:
   massCO2PerEnergy: Mass of carbon dioxide emitted per unit quantity of electricity
   massCH4PerEnergy: Mass of methane emitted per unit quantity of electricity
   massN2OPerEnergy: Mass of nitrous oxide emitted per unit quantity of electricity
-  massCO2ePerEnergy: Mass of CO,,2,,e emitted per unit quantity of electricity
+  massCO2ePerEnergy: Mass of CO<sub>2</sub>e emitted per unit quantity of electricity
   massHgPerEnergy: Mass of mercury oxides emitted per unit quantity of electricity
   regionName: Name of eGRID region, with reference to parent NERC region
   gridRegion: Parent grid of region

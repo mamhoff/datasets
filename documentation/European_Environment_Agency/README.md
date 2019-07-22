@@ -24,8 +24,8 @@ emissions.
 Aircraft fuel consumption dynamics are differentiated by into associated
 with landing and take off (LTO) phases (taxiing, take off, climb out,
 landing) and cruising at altitude. This fuel consumption is converted
-into CO,,2,, emissions by using a CO,,2,, emissions factor of 3.15 (kg
-CO,,2,, per kg fuel). This value corresponds to the CO,,2,, emissions
+into CO<sub>2</sub> emissions by using a CO<sub>2</sub> emissions factor of 3.15 (kg
+CO<sub>2</sub> per kg fuel). This value corresponds to the CO<sub>2</sub> emissions
 factor for 'jet fuel' specified by the IPCC (1999).
 
 ### Categories in AMEE

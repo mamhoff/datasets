@@ -1,11 +1,11 @@
 **Domestic livestock methodology, manure management and storage.
-Calculates methane emissions (CH,,4,, and CO,,2,,e) based on livestock
+Calculates methane emissions (CH<sub>4</sub> and CO<sub>2</sub>e) based on livestock
 population. Scenarios represent various types of poultry. Globally
 applicable.**
 
 ## Summary
 
-This methodology represents **methane** (CH,,4,,) emissions associated
+This methodology represents **methane** (CH<sub>4</sub>) emissions associated
 with the **management and storage of poultry manure**. The data and
 calculation methodology is sourced from the [IPCC](IPCC), as published
 in *[Volume 4, Chapter 10 - Emissions from Livestock and Manure
@@ -20,14 +20,14 @@ Inventories](http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html)*.
 ### Emissions model
 
 The decomposition of manure under *anaerobic* conditions (i.e., in the
-absence of oxygen), during storage and treatment, produces CH,,4,,.
+absence of oxygen), during storage and treatment, produces CH<sub>4</sub>.
 These conditions occur most readily when large numbers of animals are
 managed in a confined area (e.g., dairy farms, beef feedlots, and swine
 and poultry farms), and where manure is disposed of in liquid-based
 systems.
 
 This emissions methodology is based upon emissions factors which
-describe the typical rate at which manure-associated CH,,4,, is produced
+describe the typical rate at which manure-associated CH<sub>4</sub> is produced
 by *single 'heads' of livestock* (i.e. individual animals) and are
 expressed on an **annual** basis. These data are based on typical
 volatile solid excretion rates and maximum methane production capacities
@@ -43,16 +43,16 @@ This methodology represents the IPCC *Tier 1* approach.
 
 ### Model data
 
-The rate at which CH,,4,, is emitted ultimately depends on the quantity
+The rate at which CH<sub>4</sub> is emitted ultimately depends on the quantity
 of manure decomposing anaerobically, which, in turn, depends on the
 number of animals, the rate of waste production per animal, and how the
 manure is managed. When manure is stored or treated as a liquid (e.g.,
 in lagoons, ponds, tanks, or pits), it decomposes anaerobically and can
-produce a significant quantity of CH,,4,,. In these cases, the
-temperature and duration of storage greatly affect the amount of CH,,4,,
+produce a significant quantity of CH<sub>4</sub>. In these cases, the
+temperature and duration of storage greatly affect the amount of CH<sub>4</sub>
 produced. Where manure is handled as a solid (e.g., in stacks or piles)
 or deposited on pastures and rangelands, it tends to decompose under
-more aerobic conditions and less CH,,4,, is produced (biogenic CO,,2,,
+more aerobic conditions and less CH<sub>4</sub> is produced (biogenic CO<sub>2</sub>
 is produced instead). The typical mix of management practices employed
 varies with geographic location and/or developmental context.
 
@@ -70,10 +70,10 @@ distinct poultry type.
 
 Each scenario is represented by an annual manure-associated methane
 emissions rate per individual animal (kg / yr). In addition, the
-methodology uses the *global warming potential* of CH,,4,, to convert
+methodology uses the *global warming potential* of CH<sub>4</sub> to convert
 absolute emissions quantities into
-**[CO,,2,,e](Greenhouse_gases_Global_warming_potentials)** - the
-quantity of CO,,2,, which would exert the same atmospheric warming
+**[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials)** - the
+quantity of CO<sub>2</sub> which would exert the same atmospheric warming
 effect.
 
 ### Activity data required
@@ -91,8 +91,8 @@ year.
 The methodology calculates two emissions quantities: (1) the
 **absolute** quantity of methane associated with the livestock
 population; and (2) methane emissions expressed in terms of
-**[CO,,2,,e](Greenhouse_gases_Global_warming_potentials)** - the
-quantity of CO,,2,, which would exert the same atmospheric warming
+**[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials)** - the
+quantity of CO<sub>2</sub> which would exert the same atmospheric warming
 effect.
 
 -----
@@ -111,5 +111,5 @@ by livestock.
 
 Analogous methodologies are also available focussing on [cattle and
 swine](Cattle_and_swine_manure_methane_emissions) and
-[other](Other_manure_methane_emissions) livestock CH,,4,, emissions
+[other](Other_manure_methane_emissions) livestock CH<sub>4</sub> emissions
 associated with manure management.

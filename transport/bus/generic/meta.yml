@@ -1,17 +1,17 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - bus
 - passenger
 - actonco2
 - transport
 provenance: http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   country: Country in which journey was taken
   numberOfPassengers: Number of passengers to be included in calculation
   distancePerJourney: Distance travelled per journey
@@ -19,12 +19,12 @@ ivds:
   distanceKmPerMonth: Distance travelled per month
   type: Type of bus travel
   typicalJourneyDistance: Typical distance for each bus journey type
-  kgCO2PerPassengerKmIE: CO,,2,, emitted per passenger per km in Ireland
-  kgCO2PerKmPassenger: CO,,2,, emitted per passenger per km
+  kgCO2PerPassengerKmIE: CO<sub>2</sub> emitted per passenger per km in Ireland
+  kgCO2PerKmPassenger: CO<sub>2</sub> emitted per passenger per km
   useTypicalDistance: Set "true", to use the typical distance
   journeyFrequency: Set frequency as "daily","weekly", "monthly"
   numberOfJourneys: Number of journeys made
-  source: 
+  source:
   distance: Distance travelled
 wikiname: Generic_bus_transport
 usages:

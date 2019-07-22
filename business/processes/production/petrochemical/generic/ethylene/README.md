@@ -4,7 +4,7 @@ methodology for calculating greenhouse gas emissions associated with the
 steam cracking process. This category covers the production of several
 types of hydrocarbon (e.g. ethylene, propylene, butadiene), aggregated
 and expressed in terms of ethylene production. The methodology is based
-on default emissions factors for CO,,2,, and CH,,4,, emissions per unit
+on default emissions factors for CO<sub>2</sub> and CH<sub>4</sub> emissions per unit
 production together with an adjustment factor to account for differences
 in the energy efficiency of steam cracking units across different
 geographic locations. This methodology represents the *Tier 1* approach
@@ -35,10 +35,10 @@ associated with the specified quantity of steam cracking production
 (represented by ethylene production). The following quantities are
 returned:
 
-  - ***CO2***: absolute quantity of CO,,2,, emissions for the quantity
+  - ***CO2***: absolute quantity of CO<sub>2</sub> emissions for the quantity
     specified
-  - ***CH4***: absolute quantity of CH,,4,, emissions for the quantity
+  - ***CH4***: absolute quantity of CH<sub>4</sub> emissions for the quantity
     specified
-  - ***CO2e***: CO,,2,,e emissions (absolute emissions converted using
+  - ***CO2e***: CO<sub>2</sub>e emissions (absolute emissions converted using
     the appropriate [global warming
     potential](Greenhouse_gases_Global_warming_potentials))

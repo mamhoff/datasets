@@ -51,16 +51,16 @@ example a flat or a house (detached or terraced).
 The SAP rating is expressed on a scale of 1 to 100, the higher the
 number the lower the running costs.
 
-3\. An Environmental Impact rating based on CO,,2,, emissions (the EI
+3\. An Environmental Impact rating based on CO<sub>2</sub> emissions (the EI
 rating)
 
-This rating is based on the annual CO,,2,, emissions associated with
+This rating is based on the annual CO<sub>2</sub> emissions associated with
 space heating, water heating, ventilation and lighting, less the
 emissions saved by energy generation technologies.
 
-4\. A dwelling CO,,2,, Emission Rate (DER) in kg/m²/year.
+4\. A dwelling CO<sub>2</sub> Emission Rate (DER) in kg/m²/year.
 
-It is equal to the annual CO,,2,, emissions per unit floor area for
+It is equal to the annual CO<sub>2</sub> emissions per unit floor area for
 space heating, water heating, ventilation and lighting, less the
 emissions saved by energy generation technologies. The DER is a similar
 indicator to the EI rating.

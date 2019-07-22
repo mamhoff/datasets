@@ -2,10 +2,10 @@ The AMEE category
 business/processes/production/magnesium/primaryproduction/ is aimed
 towards industry professionals to enable them to prepare inventories of
 greenhouse gas emissions from primary magnesium production. The
-magnesium-containing ores which release CO,,2,, during calcination are
-dolomite (MgCa(CO,,3,,),,2,,) and magnesite (MgCO,,3,,). AMEE provides
+magnesium-containing ores which release CO<sub>2</sub> during calcination are
+dolomite (MgCa(CO<sub>3</sub>)<sub>2</sub>) and magnesite (MgCO<sub>3</sub>). AMEE provides
 theoretical emission factors for use in situations where facility or
-site-specific data is not available. The actual CO,,2,, emissions per
+site-specific data is not available. The actual CO<sub>2</sub> emissions per
 kilogram magnesium produced will be higher than the theoretical
 emissions due to losses of magnesium in the process chain. The
 methodology provided by AMEE in this category represents the *Tier 1*

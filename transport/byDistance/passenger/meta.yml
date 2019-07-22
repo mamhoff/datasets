@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - deprecated
 - transport
 - passenger
@@ -9,14 +9,14 @@ tags:
 - mobile
 - GHGP
 provenance: http://www.ghgprotocol.org/calculation-tools/all-tools
-gallery: 
+gallery:
 show: "0"
 authority: enterprise
-ivds: 
+ivds:
   vehicle: Transportation type
-  massCO2perPassengerDistance: CO,,2,, emissions factor
+  massCO2perPassengerDistance: CO<sub>2</sub> emissions factor
   passengers: Number of passengers under consideration
   typeAndContext: Transport context
-  source: 
+  source:
   distance: Distance travelled
 wikiname: Passenger_transport

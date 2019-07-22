@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - GHGP
 - GHGP_pulp_and_paper_sector
 - pulp
@@ -20,13 +20,13 @@ gallery: |-
         <%= chart :x => "description" %>
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   energy: Quantity of energy consumed
-  massCH4PerEnergy: "CH,,4,, emission factor for specified boiler type"
-  massN2OPerEnergy: "N,,2,,O emission factor for specified boiler type"
+  massCH4PerEnergy: "CH<sub>4</sub> emission factor for specified boiler type"
+  massN2OPerEnergy: "N<sub>2</sub>O emission factor for specified boiler type"
   typeOfBoiler: Type of boiler
   description: Specific characteristics of combustion scenario
-  source: 
+  source:
 wikiname: Pulp_and_paper_biomass_emissions
 name: "ICFPA methodology for biomass combustion"
 usages:

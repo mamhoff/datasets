@@ -17,7 +17,7 @@ Data for the mobile burning of fuels within this category is taken from
 parts of several of the [Greenhouse Gas
 Protocol](Greenhouse_Gas_Protocol) worksheets, inclduing.
 
-  - CO,,2,, emissions from transport or mobile sources (v1.3)
+  - CO<sub>2</sub> emissions from transport or mobile sources (v1.3)
 
 <!-- end list -->
 
@@ -25,7 +25,7 @@ Protocol](Greenhouse_Gas_Protocol) worksheets, inclduing.
 
 <!-- end list -->
 
-  - CO,,2,, emissions from business travel (v2.0)
+  - CO<sub>2</sub> emissions from business travel (v2.0)
 
 <!-- end list -->
 
@@ -49,7 +49,7 @@ based on a number of sources:
 
 <!-- end list -->
 
-  - ***IPCC 06, CO,,2,,e***, ***ibid***, including nitrous oxide and
+  - ***IPCC 06, CO<sub>2</sub>e***, ***ibid***, including nitrous oxide and
     methane emissions.
 
 <!-- end list -->

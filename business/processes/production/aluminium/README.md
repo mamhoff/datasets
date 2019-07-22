@@ -14,18 +14,18 @@ by the International Aluminium Institute.
 The most significant process emissions covered by these methodologies
 relate to:
 
-  - **CO,,2,,** emissions from the consumption of carbon anodes in the
+  - **CO<sub>2</sub>** emissions from the consumption of carbon anodes in the
     reaction to convert aluminium oxide to aluminium metal;
-  - **Perfluorocarbons** (PFC) emissions (specifically CF,,4,, and
-    C,,2,,F,,6,,) during anode effects.
+  - **Perfluorocarbons** (PFC) emissions (specifically CF<sub>4</sub> and
+    C<sub>2</sub>F<sub>6</sub>) during anode effects.
 
-## CO,,2,, emissions
+## CO<sub>2</sub> emissions
 
 The following AMEE categories provide functionality and data for
-calculating CO,,2,, emissions from aluminium manufacture:
+calculating CO<sub>2</sub> emissions from aluminium manufacture:
 
   - [Default](Aluminium_defaults): this category provides data and a
-    calculation methodology for CO,,2,, emissions for anode/paste
+    calculation methodology for CO<sub>2</sub> emissions for anode/paste
     consumption using **default** emissions factors. This methodology
     can be used where no process data is available on use rates of
     carbon containing materials, and represents the IPCC *Tier 1*
@@ -34,7 +34,7 @@ calculating CO,,2,, emissions from aluminium manufacture:
 <!-- end list -->
 
   - [Prebake (electrolysis)](Aluminium_prebake_electrolysis) - this
-    category provides data and two calculation methodologies for CO,,2,,
+    category provides data and two calculation methodologies for CO<sub>2</sub>
     emissions from prebake cells (Centre-Worked Prebake (CWPB),
     Side-Worked Prebake (SWPB)). This category represents *Tiers 2 and
     3* approach under the IPCC guidelines.
@@ -42,7 +42,7 @@ calculating CO,,2,, emissions from aluminium manufacture:
 <!-- end list -->
 
   - [Prebake (pitch cooking)](Aluminium_prebake_pitchcooking) - this
-    category provides data and two calculation methodologies for CO,,2,,
+    category provides data and two calculation methodologies for CO<sub>2</sub>
     emissions relating to *pitch volatiles combustion* and *bake furnace
     paking material*. This category represents *Tiers 2 and 3* under the
     IPCC guidelines.
@@ -50,14 +50,14 @@ calculating CO,,2,, emissions from aluminium manufacture:
 <!-- end list -->
 
   - [Søderberg](Aluminium_soderberg) - this category provides data and
-    calculation methodologies for CO,,2,, emissions related to Søderberg
+    calculation methodologies for CO<sub>2</sub> emissions related to Søderberg
     electrolysis processes, and represent *Tier 2 and 3* approaches for
     paste consumption under IPCC guidelines.
 
 <!-- end list -->
 
   - [Alternative method](Aluminium_alternative) - an 'alternative
-    method' for calculating electrolysis process related CO,,2,,
+    method' for calculating electrolysis process related CO<sub>2</sub>
     emissions is available in AMEE. This methodology is based on the
     carbon content of materials consumed, and is sourced ultimately from
     International Aluminium Institute guidelines.
@@ -68,22 +68,22 @@ Methodologies relating to perfluorocarbon (PFC) emissions from
 electrolysis are available at the following AMEE categories:
 
   - [Default PFC methodology](Aluminium_PFC_Defaults) - this category
-    provides a calculation methodology for CF,,4,, and C,,2,,F,,6,,
+    provides a calculation methodology for CF<sub>4</sub> and C<sub>2</sub>F<sub>6</sub>
     emissions using default emissions factors. This category represents
     the *Tier 1* approach under the IPCC guidelines.
 
 <!-- end list -->
 
   - [Overvoltage PFC methodology](Aluminium_PFC_Overvoltage) - this
-    category provides a calculation methodology for CF,,4,, and
-    C,,2,,F,,6,, emissions based on data describing aluminium production
+    category provides a calculation methodology for CF<sub>4</sub> and
+    C<sub>2</sub>F<sub>6</sub> emissions based on data describing aluminium production
     and anode effect minutes per cell day. This methodology represents
     *Tier 2 and 3* approaches for PFC emissions under IPCC guidelines.
 
 <!-- end list -->
 
   - [Slope PFC methodology](Aluminium_PFC_Slope) - this category
-    provides a calculation methodology for CF,,4,, and C,,2,,F,,6,,
+    provides a calculation methodology for CF<sub>4</sub> and C<sub>2</sub>F<sub>6</sub>
     emissions based on anode effect overvoltage data. This methodology
     represents *Tier 2 and 3* approaches for PFC emissions under IPCC
     guidelines.
@@ -103,14 +103,14 @@ categories:
 <!-- end list -->
 
   - [Soda ash](Aluminium_soda_ash) - this category provides a
-    calculation methodology for CO,,2,, emissions related to the use of
+    calculation methodology for CO<sub>2</sub> emissions related to the use of
     soda ash in aluminium production. This methodology is sourced
     originally from International Aluminium Institute guidelines.
 
 <!-- end list -->
 
   - [Lime](Lime) - this category provides data and calculation
-    methodologies for CO,,2,, emissions related to the production of
+    methodologies for CO<sub>2</sub> emissions related to the production of
     lime, and represent *Tier 2 and 3* approaches recommended under IPCC
     guidelines.
 

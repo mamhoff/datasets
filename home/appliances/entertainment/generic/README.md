@@ -9,7 +9,7 @@ Calculations assume a typical usage so you are not required to set any
 consumption data but you can provide the ***numberOwned*** parameter
 which otherwise defaults to 1.
 
-The conversion from kWh to kgCO,,2,, uses the kgCO,,2,, per kWh figure
+The conversion from kWh to kgCO<sub>2</sub> uses the kgCO<sub>2</sub> per kWh figure
 for UK grid electricity. If calculations are stored using profiles, an
 alternative country can be specified within the profile
 [metadata](metadata).
@@ -21,7 +21,7 @@ contribution due to standby can be calculated by creating a profile item
 with drill down ***device***=*standby* and setting the ***onStandby***
 parameter to one of never,sometimes,mostly,always.
 
-The standby calculation works by summing the kgCO,,2,, values for all
+The standby calculation works by summing the kgCO<sub>2</sub> values for all
 other profile items in the category and then multiplying it by a factor
 determined by the value of the ***onStandby*** parameter:
 
@@ -53,7 +53,7 @@ determined by the value of the ***onStandby*** parameter:
 </table>
 
 The standby amount is added to the returned total for that category. The
-kgCO,,2,, values for the individual profile items are not altered.
+kgCO<sub>2</sub> values for the individual profile items are not altered.
 
 **Note:** Standby calculations are only valid when storing calculations
 within profiles.

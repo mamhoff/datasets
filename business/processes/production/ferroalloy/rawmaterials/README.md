@@ -31,7 +31,7 @@ the reducing agent type being used from the following options:
 8.  *petroleum coke*
 
 The following profile item values are required in order to accurately
-calculate CO,,2,, emissions:
+calculate CO<sub>2</sub> emissions:
 
 1.  ***reducingAgentQuantity***
 2.  ***oreQuantity***
@@ -43,7 +43,7 @@ calculate CO,,2,, emissions:
 8.  ***nonProductOutgoingStreamQuantity***
 9.  ***nonProductOutgoingStreamCarbonContent***
 
-The CO,,2,, emission factor for the reducing agent has a default value
+The CO<sub>2</sub> emission factor for the reducing agent has a default value
 provided by the AMEE engine, but this can be over-ridden, using the
 ***massCO2PerMassReducingAgent*** profile item value, by the user if
 more precise site or country-specific values are known.
@@ -63,7 +63,7 @@ Or:
 3.  ***carbonContentInVolatiles***: within reducing agent (decimal
     fraction, 0-1)
 
-AMEE converts the carbon content of each source and product into CO,,2,,
+AMEE converts the carbon content of each source and product into CO<sub>2</sub>
 emissions using molecular mass ratios, seen in
 [Stoichiometries\_ratios](Stoichiometries_ratios). This assumes complete
-combustion of carbon into CO,,2,,.
+combustion of carbon into CO<sub>2</sub>.

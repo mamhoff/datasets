@@ -25,5 +25,5 @@ life-cycle emissions to be calculated from the following options.
 
 The ***quantity*** of water is then entered as a profile item value. The
 default units for this value are m³. The algorithm then multiplies this
-quantity by the relevant emission factor to give a result of kgCO,,2,,e,
-which includes CO,,2,,, N,,2,,O and CH,,4,, emissions.
+quantity by the relevant emission factor to give a result of kgCO<sub>2</sub>e,
+which includes CO<sub>2</sub>, N<sub>2</sub>O and CH<sub>4</sub> emissions.

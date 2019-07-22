@@ -16,7 +16,7 @@ factors in [/home/energy/quantity](Energy_by_Quantity).
 
 ## UK heating
 
-This category contains items that give the kgCO,,2,, emitted for a
+This category contains items that give the kgCO<sub>2</sub> emitted for a
 variety of home types, sizes and heating systems in the UK. The values
 account for both space and water heating using data and methods adapted
 from the BREDEM, SAP and RDSAP systems - see [BRE](http://www.bre.co.uk)

@@ -1,4 +1,4 @@
-This category contains typical data for travel-based CO,,2,, emissions
+This category contains typical data for travel-based CO<sub>2</sub> emissions
 according to household size and context, obtained by averaging across
 over a million profiles collected in ActOnCO2 v1.
 

@@ -73,6 +73,6 @@ CO2eEmissionFactor from business/energy/fuel
 
 CO2e = CO2eEmissionFactor \* totalFuelConsumed
 
-The algorithm returns a value of kgCO,,2,,e for the particular journey,
+The algorithm returns a value of kgCO<sub>2</sub>e for the particular journey,
 per occupant. This value includes contributions from carbon dioxide,
 nitrous oxide and methane.

@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - titanium_dioxide
 - IPCC
 - IPCC_tier1
@@ -14,12 +14,12 @@ tags:
 - emission_factor
 - global
 provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf|IPCC-NGGIP]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
-  massCO2PerMass: Quantity of CO,,2,, emissions per quantity of production
+ivds:
+  massCO2PerMass: Quantity of CO<sub>2</sub> emissions per quantity of production
   mass: Quantity of titanium dioxide produced
   product: Type of titanium dioxide produced
-  source: 
+  source:
 wikiname: Generic_titanium_dioxide_production

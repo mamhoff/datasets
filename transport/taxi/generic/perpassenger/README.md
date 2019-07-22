@@ -27,7 +27,7 @@ To calculate emissions based on single journey distance, simply set the
 distance using the ***distance*** profile item value. Users can
 additionally set a multiple number of passengers by setting the
 ***numberOfPassengers*** profile item value. The value returned
-represents CO,,2,, emissions attributable to all nominated passengers
+represents CO<sub>2</sub> emissions attributable to all nominated passengers
 for the distance travelled.
 
 ## Calculating by multiple journeys
@@ -58,5 +58,5 @@ Users can optionally declare the stated journey frequency to represent
 '*true*', in which case the total number of journeys are doubled. A
 multiple number of passengers can also be included by setting the
 ***numberOfPassengers*** profile item value. The value returned
-represents CO,,2,, emissions attributable to all nominated passengers
+represents CO<sub>2</sub> emissions attributable to all nominated passengers
 per year.

@@ -17,7 +17,7 @@ To use this category, the user selects the fuel type using the
 
 The ***distance*** is then set as a profile item value.
 
-The algorithm returns a kg CO,,2,, value for the selected distance and
+The algorithm returns a kg CO<sub>2</sub> value for the selected distance and
 vehicle type.
 
 Users can opt to share emissions amongst passengers by setting the

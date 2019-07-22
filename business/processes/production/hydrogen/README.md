@@ -21,7 +21,7 @@ The AMEE category at
 [business/processes/production/hydrogen/consumption](Hydrogen_production_by_feedstock)
 provides a methodology based on a mass-balance approach taking into
 consideration the carbon content of process feedstocks and and carbon or
-CO,,2,, recovered for use in other processes. This methodology is
+CO<sub>2</sub> recovered for use in other processes. This methodology is
 sourced from the guidelines published in conjunction with the EPA's
 mandatory greenhouse gas reporting requirements, and follows approaches
 described by the IPCC Guidelines for National Greenhouse Gas Inventories

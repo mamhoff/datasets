@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - GHGP
 - UK
@@ -30,11 +30,11 @@ gallery: |-
         <%= chart :dependent => 'massCO2PerDistance' %>
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   type: Type of road vehicle
   fuel: Type of fuel used
   size: Vehicle size (engine capacity or gross weight)
-  massCO2PerDistance: Quantity of CO,,2,, per unit distance
+  massCO2PerDistance: Quantity of CO<sub>2</sub> per unit distance
   distance: Distance travelled
   occupancy: Occupancy of vehicle
 wikiname: UK_road_transport_by_Greenhouse_Gas_Protocol

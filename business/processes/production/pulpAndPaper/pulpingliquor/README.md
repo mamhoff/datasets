@@ -1,10 +1,10 @@
 **Paper industry methodology, pulping liquors. Calculates carbon dioxide
-(CO,,2,,) emissions associated with the combustion of pulping liquors.
+(CO<sub>2</sub>) emissions associated with the combustion of pulping liquors.
 Globally applicable.**
 
 ## Summary
 
-This methodology represents **carbon dioxide** (CO,,2,,) emissions
+This methodology represents **carbon dioxide** (CO<sub>2</sub>) emissions
 associated with the combustion of spent pulping liquors. The data and
 calculation methodology is sourced from the sourced from the guidelines
 published by the International Council of Forest and Paper Associations
@@ -22,7 +22,7 @@ of pulping liquors. This quantity is derived from a simple
 multiplication of the quantity of pulping liquor (mass), its carbon
 content (fraction by mass) and the fraction undergoing complete
 oxidation (decimal fraction). This quantity of carbon is then converted
-into its corresponding quantity of CO,,2,, using the known ratio of
+into its corresponding quantity of CO<sub>2</sub> using the known ratio of
 their respective atomic/molecular masses.
 
 The methodology also provides 'heating' or 'calorific' values for
@@ -44,7 +44,7 @@ A default oxidation factor of 0.99 (99%) is provided.
 
 ### Activity data required
 
-CO,,2,, emissions are directly proportionate to the **quantity of
+CO<sub>2</sub> emissions are directly proportionate to the **quantity of
 pulping liquor consumed**, which therefore must be provided in order to
 calculate. Quantities can be expressed in terms of mass or energy. When
 calculating using energetic quantities, the basis of the energy quantity
@@ -52,7 +52,7 @@ calculating using energetic quantities, the basis of the energy quantity
 
 ### Calculation and results
 
-**CO,,2,,** emissions are calculated by simply multiplying the specified
+**CO<sub>2</sub>** emissions are calculated by simply multiplying the specified
 quantity of pulping liquor consumed by the carbon content, oxidation and
 stoichiometric factors. By default, energy-based activity data is
 considered to represent the *net* calorific basis. These emissions
@@ -71,8 +71,8 @@ carbonates](Pulp_and_Paper_Direct_Emissions).
 
 ## Notes
 
-This methodology represents emissions of biogenic CO,,2,,. This means
-that the CO,,2,, released was only removed from the atmosphere
+This methodology represents emissions of biogenic CO<sub>2</sub>. This means
+that the CO<sub>2</sub> released was only removed from the atmosphere
 relatively recently, during the growth of the biomass. In some contexts
 this may mean that the emissions can be considered neutral with respect
 to its effects on atmoshperic carbon concentrations and warming.

@@ -49,5 +49,5 @@ mass, rather than volume so the ***mass*** profile item value should be
 used in this case. If the wrong profile item value is used then the
 algorithm will return a value of '0'. The algorithm multiplies this
 quantity by the appropriate emission factor and returns a value of
-kgCO,,2,,e, which includes contributions from CO,,2,,, N,,2,,O and
-CH,,4,, emissions.
+kgCO<sub>2</sub>e, which includes contributions from CO<sub>2</sub>, N<sub>2</sub>O and
+CH<sub>4</sub> emissions.

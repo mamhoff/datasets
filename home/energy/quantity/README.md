@@ -1,5 +1,5 @@
 This category handles conversions from a given quantity of fuel or
-electricity to kg of CO,,2,,.
+electricity to kg of CO<sub>2</sub>.
 
 ## Mass, volume or energy
 

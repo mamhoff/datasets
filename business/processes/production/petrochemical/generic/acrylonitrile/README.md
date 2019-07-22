@@ -32,10 +32,10 @@ The quantities returned represent the greenhouse gas emissions
 associated with the quantities specified. The following quantities are
 returned:
 
-  - ***CO2***: absolute quantity of CO,,2,, emissions for the quantities
+  - ***CO2***: absolute quantity of CO<sub>2</sub> emissions for the quantities
     specified
-  - ***CH4***: absolute quantity of CH,,4,, emissions for the quantities
+  - ***CH4***: absolute quantity of CH<sub>4</sub> emissions for the quantities
     specified
-  - ***CO2e***: CO,,2,,e emissions (absolute emissions converted using
+  - ***CO2e***: CO<sub>2</sub>e emissions (absolute emissions converted using
     the appropriate [global warming
     potential](Greenhouse_gases_Global_warming_potentials))

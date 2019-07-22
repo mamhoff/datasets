@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - home
 - business
 - energy
@@ -14,14 +14,14 @@ tags:
 - direct
 - emission_factor
 provenance: defra/est/amee average calendar year 2007
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   greenTariff: Set "true", to specify usage of a green tariff
   paymentFrequency: Frequency of payment for energy costs ("monthly","quarterly",)
   season: Season on which consumption is based ("spring","summer","autumn","winter")
-  kgCO2PerPound: CO,,2,, emissions factor
+  kgCO2PerPound: CO<sub>2</sub> emissions factor
   payment: Payment method
   type: Type of energy/fuel
   deliveries: Number of fuel deliveries
@@ -29,7 +29,7 @@ ivds:
   numberOfDeliveries: Number of fuel deliveries
   includesHeating: Set "true", to specify that energy consumption includes heating
   currencyGBPPerMonth: Amount spent on energy per month
-  source: 
+  source:
 wikiname: UK_energy_by_price
 usages:
   default: { deliveries : ignored, greenTariff : ignored, includesHeating : optional, season : optional, paymentFrequency : ignored }

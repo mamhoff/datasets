@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - ice
 - construction
 - materials
@@ -11,14 +11,14 @@ tags:
 - energy
 - lca
 provenance: "[[http://people.bath.ac.uk/cj219/|Inventory of Carbon & Energy]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   type: Type of window air space fill
   energyPerWindow: Embodied energy per 1.2 m x 1.2 m window unit
-  massCO2PerWindow: Embodied CO,,2,, per 1.2 m x 1.2 m window unit
-  boundary: Life cycle analysis boundary, i.e. the stages in the window life cycle which are represented by the energy and CO,,2,, factors
+  massCO2PerWindow: Embodied CO<sub>2</sub> per 1.2 m x 1.2 m window unit
+  boundary: Life cycle analysis boundary, i.e. the stages in the window life cycle which are represented by the energy and CO<sub>2</sub> factors
   note: Author notes on the sourcing of data
   number: Number of windows
 wikiname: ICE_v2_window_fills

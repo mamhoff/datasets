@@ -1,5 +1,5 @@
 **Life cycle methodology, windows. Calculates embodied energy, and
-carbon dioxide (CO,,2,,) emissions based on the number of window units.
+carbon dioxide (CO<sub>2</sub>) emissions based on the number of window units.
 Scenarios include single and double glazings, timber, aluminium and PVC
 frames and various types of glazing air space fills. Applicable for
 UK.**
@@ -7,7 +7,7 @@ UK.**
 ## Summary
 
 This methodology represents **embodied energy, and carbon dioxide
-(CO,,2,,) emissions** associated with **window units**. The data and
+(CO<sub>2</sub>) emissions** associated with **window units**. The data and
 calculation methodology is sourced from the [Inventory of Carbon &
 Energy (ICE), version 2.0](http://people.bath.ac.uk/cj219/) life cycle
 dataset, produced in conjunction with the University of Bath.
@@ -19,7 +19,7 @@ dataset, produced in conjunction with the University of Bath.
 ### Emissions model
 
 The methodology is based on factors which describe the quantities of
-energy and CO,,2,, which are 'embodied' within typical window units. By
+energy and CO<sub>2</sub> which are 'embodied' within typical window units. By
 multiplying the number of windows under consideration by these factors,
 an estimate of the embodied energy and emissions associated with that
 quantity can be calculated.
@@ -33,7 +33,7 @@ of 1.2 m by 1.2 m.
 
 ### Model data
 
-Embodied energy and CO,,2,, emissions vary between different frame and
+Embodied energy and CO<sub>2</sub> emissions vary between different frame and
 glazing types. This methodology therefore represents 11 different
 scenarios, differentiated by their **frame** (e.g. *aluminium*,
 *aluminium-clad timber*, *PVC*) and **glazing** (*single*, *double*)
@@ -44,7 +44,7 @@ of the range of values provided in the ICE source documentation.
 Each scenario is represented by two data values:
 
   - *embodied energy per window unit* (MJ/window)
-  - *embodied CO,,2,, per window unit* (kg/window)
+  - *embodied CO<sub>2</sub> per window unit* (kg/window)
 
 In addition, each scenario is described by a **life cycle analysis
 boundary**, indicating the stages in the window life cycle which are
@@ -68,7 +68,7 @@ emissions associated with air space fills are referenced from the
 base window unit calculations.
 
 Two values are calculated, representing the embodied **energy** and
-**CO,,2,,** emissions attributable to the specified number of windows.
+**CO<sub>2</sub>** emissions attributable to the specified number of windows.
 
 -----
 
@@ -86,7 +86,7 @@ of [mass](ICE_v2_by_mass) or [area](ICE_v2_by_area).
 In addition, there exist several methodologies which provide data and
 calculations specific to particular types of materials:
 [concrete](ICE_v2_concrete) and [timber](ICE_v2_timber) (including
-biogenic CO,,2,, emissions).
+biogenic CO<sub>2</sub> emissions).
 
 Details of the [sources of data](ICE_v2_references) for the ICE database
 are also available.

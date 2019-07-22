@@ -18,9 +18,9 @@ greenhouse gas emissions in a standardised and comparable way - see the
     guidance for companies and other organizations preparing a GHG
     emissions inventory. The reporting guidelines cover the six
     greenhouse gases covered by the Kyoto Protocol - carbon dioxide
-    (CO,,2,,), methane (CH,,4,,), nitrous oxide (N,,2,,O),
+    (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O),
     hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulphur
-    hexafluoride (SF,,6,,). The majority of information is aimed at US
+    hexafluoride (SF<sub>6</sub>). The majority of information is aimed at US
     and UK interests, but there is also a significant amount of
     international information.
 

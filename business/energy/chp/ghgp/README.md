@@ -37,13 +37,13 @@ production. The latter can be used by consumers of CHP steam or
 electricity for calculating the emissions attributable to specific
 consumed quantities.
 
-Although CO,,2,, is the primary greenhouse gas emitted during the
-combustion of fossil fuels, CH,,4,,, and N,,2,,O emissions also occur
+Although CO<sub>2</sub> is the primary greenhouse gas emitted during the
+combustion of fossil fuels, CH<sub>4</sub>, and N<sub>2</sub>O emissions also occur
 during the combustion process. The approaches described here can be
-applied equally to the allocation of CO,,2,,, CH,,4,,, N,,2,,O or
-CO,,2,,e emissions related to the purchase or sale of electricity or
+applied equally to the allocation of CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O or
+CO<sub>2</sub>e emissions related to the purchase or sale of electricity or
 steam from a CHP facility. This methodology only deals in *attributing*
-the specified total plant emissions - whether CO,,2,,, or otherwise - to
+the specified total plant emissions - whether CO<sub>2</sub>, or otherwise - to
 steam and electricity outputs.
 
 ### Model Data

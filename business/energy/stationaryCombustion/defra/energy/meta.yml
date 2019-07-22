@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - fuel
 - defra
 - stationary
@@ -14,17 +14,17 @@ tags:
 - UK
 - defra_annex1
 provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   fuel: Type of fuel
   basis: Calorific basis
-  massCO2PerEnergy: Quantity of direct CO,,2,, emitted per unit of energy consumed
-  massCH4PerEnergy: Quantity of direct CH,,4,, emitted per energy unit of consumed (as CO,,2,,e)
-  massN2OPerEnergy: Quantity of direct N,,2,,O emitted per energy unit of consumed (as CO,,2,,e)
-  massDirectCO2ePerEnergy: Total quantity of direct emissions emitted per energy unit of consumed (as CO,,2,,e)
-  massIndirectCO2ePerEnergy: Quantity of indirect emissions per energy unit of consumed (as CO,,2,,e)
-  massTotalCO2ePerEnergy: Total quantity of ALL emissions emitted per energy unit of consumed (as CO,,2,,e)
+  massCO2PerEnergy: Quantity of direct CO<sub>2</sub> emitted per unit of energy consumed
+  massCH4PerEnergy: Quantity of direct CH<sub>4</sub> emitted per energy unit of consumed (as CO<sub>2</sub>e)
+  massN2OPerEnergy: Quantity of direct N<sub>2</sub>O emitted per energy unit of consumed (as CO<sub>2</sub>e)
+  massDirectCO2ePerEnergy: Total quantity of direct emissions emitted per energy unit of consumed (as CO<sub>2</sub>e)
+  massIndirectCO2ePerEnergy: Quantity of indirect emissions per energy unit of consumed (as CO<sub>2</sub>e)
+  massTotalCO2ePerEnergy: Total quantity of ALL emissions emitted per energy unit of consumed (as CO<sub>2</sub>e)
   energy: Quantity of energy consumed
 wikiname: Energy_based_fuel_combustion_by_DEFRA

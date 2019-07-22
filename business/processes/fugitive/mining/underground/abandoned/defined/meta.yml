@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - industry
 - fugitive
 - CH4
@@ -15,14 +15,14 @@ tags:
 - emission_factor
 - global
 provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf|IPCC]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   recoveredMethane: Quantity of methane recovered during inventory year
-  emissionsRate: CH,,4,, emissions rate prior to mine abandonment
+  emissionsRate: CH<sub>4</sub> emissions rate prior to mine abandonment
   coalRank: Rank of coal mined
-  source: 
+  source:
   timeAbandoned: Time since mine was abandoned
   factorExponent: This is used to derive a conversion factor for converting the emissions rate prior to abandonment into an emission rate subsequent to the period of abandonment
   factorCoefficient: This is used to derive a conversion factor for converting the emissions rate prior to abandonment into an emission rate subsequent to the period of abandonment

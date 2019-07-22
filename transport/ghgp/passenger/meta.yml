@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - GHGP
 - passenger
@@ -32,18 +32,17 @@ gallery: |-
   <%= chart :dependent => 'massCO2PerDistance' %>
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   type: Type of passenger transport
   subtype: Subtype of passenger transport
   passengerClass: Passenger class
   region: Geographic region
-  massCO2PerDistance: Quantity of CO,,2,, per unit distance travelled
-  massCH4PerDistance: Quantity of CH,,4,, per unit distance travelled
-  massN2OPerDistance: Quantity of N,,2,,O per unit distance travelled
+  massCO2PerDistance: Quantity of CO<sub>2</sub> per unit distance travelled
+  massCH4PerDistance: Quantity of CH<sub>4</sub> per unit distance travelled
+  massN2OPerDistance: Quantity of N<sub>2</sub>O per unit distance travelled
   distance: Distance travelled
   passengers: Number of passengers
 wikiname: Passenger_transport_by_Greenhouse_Gas_Protocol
 name: "Passenger transport by Greenhouse Gas Protocol"
 usages:
   default: { passengers : optional }
-  

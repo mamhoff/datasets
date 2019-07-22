@@ -8,7 +8,7 @@ United Kingdom.
 To make a calculation, select a location and a type of light bulb
 ('standard' or 'low energy') using the ***location*** and ***type***
 drill choice. Next, specify the number of light bulbs using the
-***number*** parameter. The returned value represents annual CO,,2,,
+***number*** parameter. The returned value represents annual CO<sub>2</sub>
 emissions associated with this number of bulbs, based on typical annual
 energy consumption per bulb and the emissions factors for electricity
 generation and consumption in the specified location (i.e. the

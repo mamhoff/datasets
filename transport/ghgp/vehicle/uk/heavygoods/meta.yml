@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - GHGP
 - UK
@@ -27,11 +27,11 @@ gallery: |-
         <%= chart :dependent => 'massCO2PerDistance' %>
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   type: Type of vehicle
   size: Vehicle size (gross weight)
   load: Percentage of vehicle capacity which is laden
-  massCO2PerDistance: Quantity of CO,,2,, per unit distance
+  massCO2PerDistance: Quantity of CO<sub>2</sub> per unit distance
   distance: Distance travelled
   occupancy: Vehicle occupancy
 wikiname: UK_heavy_goods_transport_by_Greenhouse_Gas_Protocol

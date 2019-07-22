@@ -1,5 +1,5 @@
 **Heavy goods vehicle emissions methodology. Calculates direct carbon
-dioxide (CO,,2,,) emissions associated with distance travelled. Choices
+dioxide (CO<sub>2</sub>) emissions associated with distance travelled. Choices
 include vehicle type, size and loading. United Kingdom.**
 
 ## Summary
@@ -46,7 +46,7 @@ goods road transport scenarios are provided.
 A number of specific types of road transport are represented and are
 differentiated by vehicle type (i.e. rigid, articulated), size (gross
 vehicle weight) and percentage laden. For each vehicle represented, a
-specific CO,,2,, emissions factor is used to calculate CO,,2,, emissions
+specific CO<sub>2</sub> emissions factor is used to calculate CO<sub>2</sub> emissions
 according to distance travelled.
 
 ### Activity data required
@@ -61,7 +61,7 @@ passengers.
 
 ### Calculation and result
 
-The returned quantities for this methodology represent CO,,2,, emissions
+The returned quantities for this methodology represent CO<sub>2</sub> emissions
 associated with the activity data (distance) specified.
 
 -----

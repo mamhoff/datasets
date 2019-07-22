@@ -26,7 +26,7 @@ by the IPCC Guidelines for National Greenhouse Gas Inventories
 
 **Note**: The IPCC also provides a *Tier 3* method which considers the
 emissions arising from three process components: (1) fuel or by-product
-combustion; (2) process venting of CO,,2,, and CH,,4,,; (3) flaring of
+combustion; (2) process venting of CO<sub>2</sub> and CH<sub>4</sub>; (3) flaring of
 waste gases. Users of AMEE are referred to the following AMEE categories
 for calculating emissions due to combustion and flaring:
 

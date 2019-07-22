@@ -1,5 +1,5 @@
 The UK Government's national, consumer-facing campaign is called "Act on
-CO,,2,,". It uses the AMEE platform, and is available
+CO<sub>2</sub>". It uses the AMEE platform, and is available
 [here](http://actonco2.direct.gov.uk).
 
 Much of the data used in ActOnCO2 is published in DEFRA/DECC's [GHG
@@ -11,7 +11,7 @@ documents](http://www.defra.gov.uk/environment/economy/business-efficiency/repor
 Version 2 of ActOnCO2 added more functionality and a number of new data
 categories were added or amended in AMEE. An important difference in v2
 is that *all* information entered by the user is stored in AMEE; in v1
-only information relevant to the calculation of the CO,,2,, result was
+only information relevant to the calculation of the CO<sub>2</sub> result was
 stored in AMEE.
 
   - [UK heating](Heating_uk) - the /home/heating category used in v1 is
@@ -38,7 +38,7 @@ stored in AMEE.
   - [Train](Generic_train_transport), [bus](Generic_bus_transport) and
     [taxi](Per_passenger_taxi_transport) now allow users to specify
     journeys by these modes of transport (ActOnCO2 v1 only included
-    CO,,2,, from cars and flights).
+    CO<sub>2</sub> from cars and flights).
 
 <!-- end list -->
 
@@ -53,7 +53,7 @@ stored in AMEE.
 <!-- end list -->
 
   - [Transport metadata](Transport_metadata) - is used to store
-    information about transport that does not contribute to the CO,,2,,
+    information about transport that does not contribute to the CO<sub>2</sub>
     result of the profile.
 
 <!-- end list -->
@@ -69,7 +69,7 @@ stored in AMEE.
 
 ## Overrides
 
-To avoid double-counting kgCO,,2,, from bill data and kgCO,,2,, inferred
+To avoid double-counting kgCO<sub>2</sub> from bill data and kgCO<sub>2</sub> inferred
 from individual items (heating, lighting and appliances), an override
 system is used in ActOnCO2. This only concerns heating, lighting and
 appliances and does not involve transport at present.
@@ -98,14 +98,14 @@ There are three possible cases:
 (2) Non-electric heating, bill information provided - use actual bill
 (gas, oil, other) values for heating + inferred values for lighting
 
-(3) Electric heating - use elec bill x (inferred elec heating CO,,2,, +
-inferred lighting CO,,2,,)/(inferred elec heating CO,,2,, + inferred
-lighting CO,,2,, + 0.683 tonnes CO,,2,, x no. people in household)
+(3) Electric heating - use elec bill x (inferred elec heating CO<sub>2</sub> +
+inferred lighting CO<sub>2</sub>)/(inferred elec heating CO<sub>2</sub> + inferred
+lighting CO<sub>2</sub> + 0.683 tonnes CO<sub>2</sub> x no. people in household)
 
 **Note**: point 3 takes account of the fact that the electricity bill
-CO,,2,, will not necessarily equal the inferred elec heating CO,,2,, +
-inferred lighting CO,,2,, + (0.683 tonnes CO,,2,, x no. people in
-household) \[0.683 tCO,,2,, is the national average per individual for
+CO<sub>2</sub> will not necessarily equal the inferred elec heating CO<sub>2</sub> +
+inferred lighting CO<sub>2</sub> + (0.683 tonnes CO<sub>2</sub> x no. people in
+household) \[0.683 tCO<sub>2</sub> is the national average per individual for
 electrical appliances\]
 
 In each case the value also needs to be divided by the number of people
@@ -120,10 +120,10 @@ case:
 (1) Same as interim.
 
 (2) use actual bill (gas, oil, other) values for heating + scaled value
-for lighting. The scaled value is elec bill CO,,2,, \* inferred lighting
+for lighting. The scaled value is elec bill CO<sub>2</sub> \* inferred lighting
 value / (inferred lighting + inferred appliances).
 
-(3) Similar to interim calculation except that "0.683 tonnes CO,,2,, x
+(3) Similar to interim calculation except that "0.683 tonnes CO<sub>2</sub> x
 no. people in household" is replaced with the inferred appliances value.
 
 See [Results breakdown](Results_breakdown) for further details.

@@ -1,6 +1,6 @@
 **Passenger flight methodology. Calculates direct, indirect and life
-cycle carbon dioxide (CO,,2,,), methane (CH,,4,,), nitrous oxide
-(N,,2,,O) and CO,,2,,e emissions associated with passenger flights based
+cycle carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide
+(N<sub>2</sub>O) and CO<sub>2</sub>e emissions associated with passenger flights based
 on the number of journeys and typical journey distances. Options include
 domestic, short-haul and long-haul, together with a choice of passenger
 classes.**
@@ -38,7 +38,7 @@ and passenger class (e.g. 'economy' *versus* 'first class'). Each
 scenario is represented by an **illustrative distance** which represents
 the typical flight distance for the associated distance categorization,
 as well as the following *per passenger* emissions factors (expressed in
-terms of kg [CO,,2,,e](Greenhouse_gases_Global_warming_potentials) per
+terms of kg [CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials) per
 km), referenced from the an [associated DEFRA
 methodology](DEFRA_passenger_transport_methodology).
 
@@ -46,14 +46,14 @@ Each passenger transport type is represented by six distinct emissions
 factors which differentiate greenhouse gas emissions into the following
 types:
 
-  - *direct CO,,2,, emissions*: carbon dioxide emissions produced
+  - *direct CO<sub>2</sub> emissions*: carbon dioxide emissions produced
     *during* travel, i.e. fuel combustion
-  - *direct CH,,4,, emissions*: methane emissions produced *during*
+  - *direct CH<sub>4</sub> emissions*: methane emissions produced *during*
     travel, i.e. fuel combustion
-  - *direct N,,2,,O emissions*: nitrous oxide emissions produced
+  - *direct N<sub>2</sub>O emissions*: nitrous oxide emissions produced
     *during* travel, i.e. fuel combustion
-  - *total direct emissions*: all direct emissions, i.e. CO,,2,, +
-    CH,,4,, + N,,2,,O
+  - *total direct emissions*: all direct emissions, i.e. CO<sub>2</sub> +
+    CH<sub>4</sub> + N<sub>2</sub>O
   - *indirect emissions*: emissions associated with stages in the fuel
     production chain such as raw material extraction and fuel delivery
   - *total* or '*life cycle*': the total of direct and indirect
@@ -70,14 +70,14 @@ incorporated.
 ### Calculation and result
 
 The following quantities are calculated on the basis of the typical
-flight distance and associated emissions factors: **CO,,2,,**,
-**CH,,4,,**, **N,,2,,O**, **total direct CO,,2,,e**, **indirect
-CO,,2,,e**, **full life cycle CO,,2,,e**.
+flight distance and associated emissions factors: **CO<sub>2</sub>**,
+**CH<sub>4</sub>**, **N<sub>2</sub>O**, **total direct CO<sub>2</sub>e**, **indirect
+CO<sub>2</sub>e**, **full life cycle CO<sub>2</sub>e**.
 
 Users should note that **all quantities** (including the separated
-CH,,4,, and N,,2,,O emissions) are expressed in terms of
-**[CO,,2,,e](Greenhouse_gases_Global_warming_potentials)** - the
-quantity of CO,,2,, which would exert the same atmospheric warming
+CH<sub>4</sub> and N<sub>2</sub>O emissions) are expressed in terms of
+**[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials)** - the
+quantity of CO<sub>2</sub> which would exert the same atmospheric warming
 effect and the emissions quantity.
 
 This methodology represents *per passenger* emissions and therefore the

@@ -10,14 +10,14 @@ Greenhouse Gas Inventories](http://www.ipcc-nggip.iges.or.jp/).
 
 The data is organised in to geographic subcategories ('europe', 'us'),
 within which vehicular emissions are calcuable according to fuel type
-and emissions control standards, with emissions estimates for CO,,2,,
-and CO,,2,,e (i.e. CO,,2,,, CH,,4,, and N,,2,,O) available.
+and emissions control standards, with emissions estimates for CO<sub>2</sub>
+and CO<sub>2</sub>e (i.e. CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O) available.
 
 The IPCC methodology for greenhouse gas emissions associated with
 ['mobile
 combustion'](http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf)
-recommend calculating CO,,2,, emissions on the basis of fuel consumed,
-whereas those of CH,,4,, and N,,2,,O vary more directly with other
+recommend calculating CO<sub>2</sub> emissions on the basis of fuel consumed,
+whereas those of CH<sub>4</sub> and N<sub>2</sub>O vary more directly with other
 factors such as vehicle type, emissions control, frequency of cold
 starts, and distance travelled. Therefore, these categories provide a
 number of options for calculating van-associated greenhouse gas

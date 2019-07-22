@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - GHGP
 - fuel
@@ -26,11 +26,11 @@ provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse
 gallery: <%= chart :dependent => 'massCO2PerVolume' %>
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   fuel: Type fo fuel consumed
   region: Geographic region
-  massCO2PerVolume: Quantity of fossil CO,,2,, per unit volume
-  massBiogenicCO2PerVolume: Quantity of biogenic CO,,2,, per unit volume
+  massCO2PerVolume: Quantity of fossil CO<sub>2</sub> per unit volume
+  massBiogenicCO2PerVolume: Quantity of biogenic CO<sub>2</sub> per unit volume
   volume: Quantity of fuel consumed
 wikiname: Transport_fuels_by_Greenhouse_Gas_Protocol
 name: "Transport fuels by Greenhouse Gas Protocol"

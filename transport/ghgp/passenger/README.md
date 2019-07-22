@@ -1,6 +1,6 @@
 **Passenger transport emissions methodology. Calculates direct carbon
-dioxide (CO,,2,,), methane (CH,,4,,), nitrous oxide (N,,2,,O) and
-CO,,2,,e emissions associated with passenger transport. Choices include
+dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O) and
+CO<sub>2</sub>e emissions associated with passenger transport. Choices include
 vehicle type, passenger class and region. Global.**
 
 ## Summary
@@ -50,15 +50,15 @@ region (UK, US, other regions).
 
 Most transport types (bus, rail, taxi) are represented by three distinct
 emissions factors which differentiate greenhouse gas emissions into
-CO,,2,,, CH,,4,, and N,,2,,O. For air and ferry travel, only emissions
-factors for CO,,2,, are provided as part of this methodology, and
-therefore only CO,,2,, emissions associated with these forms of
-transport can be calculated (CH,,4,, and N,,2,,O emissions may
+CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O. For air and ferry travel, only emissions
+factors for CO<sub>2</sub> are provided as part of this methodology, and
+therefore only CO<sub>2</sub> emissions associated with these forms of
+transport can be calculated (CH<sub>4</sub> and N<sub>2</sub>O emissions may
 nevertheless exist).
 
-Where calculated, CH,,4,, and N,,2,,O emissions are converted into kg
-CO,,2,,e - a standardized unit representing the effect of a unit kg of
-CO,,2,, on atmospheric warming - using the appropriate [global warming
+Where calculated, CH<sub>4</sub> and N<sub>2</sub>O emissions are converted into kg
+CO<sub>2</sub>e - a standardized unit representing the effect of a unit kg of
+CO<sub>2</sub> on atmospheric warming - using the appropriate [global warming
 potential](Greenhouse_gases_Global_warming_potentials) for each
 respective gas.
 
@@ -75,18 +75,18 @@ emissions are those based on a single passenger.
 
 ### Calculation and result
 
-The returned quantities for this methodology represent CO,,2,,, CH,,4,,,
-N,,2,,O and CO,,2,,e emissions associated with the activity data
+The returned quantities for this methodology represent CO<sub>2</sub>, CH<sub>4</sub>,
+N<sub>2</sub>O and CO<sub>2</sub>e emissions associated with the activity data
 (distance, passengers) specified.
 
-CO,,2,,e emissions represent all three gases, converted using
+CO<sub>2</sub>e emissions represent all three gases, converted using
 [these](Greenhouse_gases_Global_warming_potentials) global warming
-potential). The individual quantities for CH,,4,, and N,,2,,O represent
-*absolute quantities* rather than CO,,2,,e quantities. For some
-scenarios within this methodology, emissions factors for CH,,4,, and
-N,,2,,O are not available. In these cases values of zero are returned
-for the respective gases together with a notification comment. CO,,2,,
-and CO,,2,,e values are returned as normal.
+potential). The individual quantities for CH<sub>4</sub> and N<sub>2</sub>O represent
+*absolute quantities* rather than CO<sub>2</sub>e quantities. For some
+scenarios within this methodology, emissions factors for CH<sub>4</sub> and
+N<sub>2</sub>O are not available. In these cases values of zero are returned
+for the respective gases together with a notification comment. CO<sub>2</sub>
+and CO<sub>2</sub>e values are returned as normal.
 
 -----
 
@@ -110,12 +110,12 @@ regions](Other_regional_road_transport_by_Greenhouse_Gas_Protocol).
 
 ### Default units
 
-The CO,,2,, emissions factors contained within this methodology are
+The CO<sub>2</sub> emissions factors contained within this methodology are
 presented in a mixture of units (i.e. kg \[emissions\] per *mile*; kg
 \[emissions\] per *kilometer*) in the original Greenhouse Gas Protocol
 source documentation.
 
-For consistency, all CO,,2,, factors are presented within the AMEE
+For consistency, all CO<sub>2</sub> factors are presented within the AMEE
 platform in a common default unit: kg \[emissions\] per *mile*.
 Emissions factors were converted using the kilometer-to-mile conversion
 factor provided in the *Reference - EF Fuel Use* worksheet of the source

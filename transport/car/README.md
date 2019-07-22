@@ -10,10 +10,10 @@ representative car types, e.g. 'small, diesel' or 'large, petrol' cars,
 sourced from the [EPA](http://www.epa.gov/) in the US, and
 [DEFRA](http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm),
 and the [VCA](http://www.vca.gov.uk/) in the UK. This category measures
-CO,,2,, emissions only, and should be considered to represent a useful
+CO<sub>2</sub> emissions only, and should be considered to represent a useful
 first point of entry to car-related emissions. This category is used by
 the UK Goverment [Act On
-CO,,2,,](http://actonco2.direct.gov.uk/actonco2/home.html) website.
+CO<sub>2</sub>](http://actonco2.direct.gov.uk/actonco2/home.html) website.
 
 ## Generic car transport - DEFRA
 
@@ -23,7 +23,7 @@ category contains the most recently published
 data on greenhouse gas emissions associated with representative car
 types in UK. The methodology uses distance-based, *per passenger*
 emissions factors, requiring the user to specify the distance travelled.
-This category includes CO,,2,,, CH,,4,, and N,,2,,O emissions as part of
+This category includes CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O emissions as part of
 each calculation.
 
 ## Generic car transport - IPCC

@@ -54,12 +54,12 @@ specifically to gaseous fuels - is to specify a quantity using the
 (***molarVolumeConversionFactor***). The latter simply represents the
 volume occupied by a single mole of the respective gaseous fuel.
 
-In all cases, the returned value represents the CO,,2,, emissions
+In all cases, the returned value represents the CO<sub>2</sub> emissions
 resulting from the burning of the specified quantity, using the default
 value for carbon content. To specify the carbon content of the fuel, set
 the ***carbonContent*** profile item value accordingly. The value should
 be expressed as a full percentage, i.e. between 0-100. If specified,
-AMEE will use this value in the calculation of CO,,2,, emissions rather
+AMEE will use this value in the calculation of CO<sub>2</sub> emissions rather
 than the default for the respective fuel type.
 
 All calculations assume 100% combustion, following EPA guidelines.

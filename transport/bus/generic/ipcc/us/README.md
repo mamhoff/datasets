@@ -8,8 +8,8 @@ Inventories](http://www.ipcc-nggip.iges.or.jp/).
 The IPCC methodology for greenhouse gas emissions associated with
 ['mobile
 combustion'](http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf)
-recommend calculating CO,,2,, emissions on the basis of fuel consumed,
-whereas those of CH,,4,, and N,,2,,O vary more directly with other
+recommend calculating CO<sub>2</sub> emissions on the basis of fuel consumed,
+whereas those of CH<sub>4</sub> and N<sub>2</sub>O vary more directly with other
 factors such as vehicle type, emissions control, frequency of cold
 starts, and distance travelled. Therefore, these categories provide a
 number of options for calculating bus-associated greenhouse gas
@@ -19,8 +19,8 @@ efficiency and distance are specified.
 It should be noted that these categories are similar to those within the
 /transport/bus/generic/ghgp subcategories, in that both are ultimately
 derived from similar EPA datasets. The main difference is that the IPCC
-methodology maintains the calculation of CO,,2,, by *fuel quantity* and
-CH,,4,, and N,,2,,O by *distance* - as presented in the original EPA
+methodology maintains the calculation of CO<sub>2</sub> by *fuel quantity* and
+CH<sub>4</sub> and N<sub>2</sub>O by *distance* - as presented in the original EPA
 dataset. In contrast, the GHG Protocol methodology uses *typical
 mileage* data for each vehicle type in order to express emissions for
 all gases on the basis of distance.

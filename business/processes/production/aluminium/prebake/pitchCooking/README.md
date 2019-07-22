@@ -1,11 +1,11 @@
 **Metal industry methodology, aluminium. Calculates carbon dioxide
-(CO,,2,,) emissions based on inputs and products of the anode baking
+(CO<sub>2</sub>) emissions based on inputs and products of the anode baking
 furnaces. Scenarios include Rieghammer and other furnace types. Globally
 applicable.**
 
 ## Summary
 
-This methodology represents **carbon dioxide** (CO,,2,,) emissions
+This methodology represents **carbon dioxide** (CO<sub>2</sub>) emissions
 associated with the **production of baked anodes** for aluminium
 production. The data and calculation methodology is sourced from the
 [Greenhouse Gas Protocol](Greenhouse_Gas_Protocol) (GHGP) worksheet tool
@@ -23,7 +23,7 @@ Inventories](http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html)*.
 
 ### Emissions model
 
-Aluminium is extracted from its ore (aluminium oxide (Al,,2,,O,,3,,), or
+Aluminium is extracted from its ore (aluminium oxide (Al<sub>2</sub>O<sub>3</sub>), or
 'bauxite') using an electrolysis cell and carbon anodes. The *Prebake*
 process is one of two primary technologies employed in this process and
 involves the use of a coke/pitch electrode paste which is baked *prior*
@@ -33,12 +33,12 @@ CO2 emissions: (1) the combustion of pitch volatile matter released
 during the baking operation; and (2) the combustion of baking furnace
 packing material (coke).
 
-This methodology enables the calculation of CO,,2,, emissions associated
+This methodology enables the calculation of CO<sub>2</sub> emissions associated
 with pitch volatiles combustion and packing material in the anode baking
 furnace. Both types of emissions are calcualted on the basis of a mass
 balance approach that tracks the quantities of carbon (C) entering and
 leaving the baking process, and assuming that the discrepancy represents
-the C emitted as CO,,2,,.
+the C emitted as CO<sub>2</sub>.
 
 **Pitch volatile matter combustion:** The emissions associated with the
 combustion of pitch volatiles are calculated by considering the quantity
@@ -46,16 +46,16 @@ of *green anodes* which is used, from which the appropriate quantities
 for the *hydrogen content of the green anodes*, *baked anode production*
 and *waste tar* are subtracted. The remaining quantity represents the
 carbon lost through pitch volatile combustion. This quantity is
-converted into the corresponding quantity of CO,,2,, on the basis of the
-relative molecular/atomic masses of CO,,2,, and C.
+converted into the corresponding quantity of CO<sub>2</sub> on the basis of the
+relative molecular/atomic masses of CO<sub>2</sub> and C.
 
 **Furnace packing material:** The emissions associated with the
 combustion of furnace packing material are calculated by considering the
 quantity of *packing coke* which is consumed, from which the appropriate
 quantities of impurities (ash, sulphur; specified as weight percentages,
 wt. %) are subtracted. The total quantity of coke consumed is converted
-into the corresponding quantity of CO,,2,, on the basis of the relative
-molecular/atomic masses of CO,,2,, and C.
+into the corresponding quantity of CO<sub>2</sub> on the basis of the relative
+molecular/atomic masses of CO<sub>2</sub> and C.
 
 This methodology represents both *Tier 2* and *Tier 3* approaches under
 the IPCC guidelines, the *Tier 3* approach corresponding to the use of
@@ -63,7 +63,7 @@ facility-specific data.
 
 ### Model data
 
-CO,,2,, emissions associated with these processes depend partly on the
+CO<sub>2</sub> emissions associated with these processes depend partly on the
 type of furnace employed. This methodology represents two scenarios:
 *Rieghammer furnaces* and *other furnaces*. Both of these scenarios are
 represented by specific default data values for the following process
@@ -94,10 +94,10 @@ are also represented by default values:
 
   - Typical ash content of packing coke (wt. %)
 
-The methodology also provides the mass ratio of CO,,2,,/C (44/12 =
+The methodology also provides the mass ratio of CO<sub>2</sub>/C (44/12 =
 3.66667) which is used to convert quantities of C into their
-corresponding quantity of CO,,2,, (assuming all residual C is emitted as
-CO,,2,,).
+corresponding quantity of CO<sub>2</sub> (assuming all residual C is emitted as
+CO<sub>2</sub>).
 
 ### Activity data required
 
@@ -125,9 +125,9 @@ specific data is not available.
 
 ### Calculation and results
 
-**CO,,2,,** emissions are calculated by considering all of the carbon
+**CO<sub>2</sub>** emissions are calculated by considering all of the carbon
 inputs and outputs to the baking process and multiplying the remainder C
-by the CO,,2,,/C mass ratio. The emissions calculated represent those
+by the CO<sub>2</sub>/C mass ratio. The emissions calculated represent those
 attributable to the specified quantity of aluminium produced.
 
 -----
@@ -140,12 +140,12 @@ using the IPCC methodology for [prebake
 electrolysis](Aluminium_prebake_electrolysis).
 
 Alternative IPCC methodologies are available for aluminium-associated
-CO,,2,, emissions including the [generic](Aluminium_defaults) (*tier 1*)
+CO<sub>2</sub> emissions including the [generic](Aluminium_defaults) (*tier 1*)
 approach and an alternative *tiers 2/3* methodology (representing the
 [Søderberg](Aluminium_soderberg) process).
 
-IPCC methodologies for aluminium-associated *PFC emissions* (CF,,4,, and
-C,,2,,F,,6,,) are also available, including a simple
+IPCC methodologies for aluminium-associated *PFC emissions* (CF<sub>4</sub> and
+C<sub>2</sub>F<sub>6</sub>) are also available, including a simple
 *[tier 1](Aluminium_PFC_Defaults)* approach and two alternative
 approaches for *tiers 2/3*: the [slope](Aluminium_PFC_Slope) and
 [overvoltage](Aluminium_PFC_Overvoltage) methods.

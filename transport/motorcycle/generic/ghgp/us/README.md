@@ -17,8 +17,8 @@ To use this category, firstly the type of vehicle is selected, using the
 
 The **distance** is then set as a profile item value.
 
-The algorithm returns kg CO,,2,,e value, which is a sum of CO,,2,,,
-N,,2,,O and CH,,4,, emissions for each fuel type.
+The algorithm returns kg CO<sub>2</sub>e value, which is a sum of CO<sub>2</sub>,
+N<sub>2</sub>O and CH<sub>4</sub> emissions for each fuel type.
 
 Users can opt to share emissions amongst passengers by setting the
 number of passengers using the ***occupancy*** profile item value.

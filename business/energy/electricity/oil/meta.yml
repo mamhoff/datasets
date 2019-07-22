@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - GHGP
 - electricity
 - gas
@@ -23,13 +23,13 @@ tags:
 - GHGP_semiconductor_sector
 - GHGP_wood_sector
 provenance: Based on the WRI GHG Protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheet]] for purchased electricity
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   energyPerTime: The quantity of energy generated per unit time
   country: The country or international jurisdiction
-  source: 
-  massCO2PerEnergy: The quantity of CO,,2,, emitted per unit quantity of energy generated
+  source:
+  massCO2PerEnergy: The quantity of CO<sub>2</sub> emitted per unit quantity of energy generated
 wikiname: Electricity_oil
 name: "Greenhouse Gas Protocol methodology for oil-fired electricity"

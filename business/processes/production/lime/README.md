@@ -4,7 +4,7 @@ lime manufacturing. Major consumption of lime (CaO) stems from steel
 making, flue gas desulphurisation at coal-fired electric power plants,
 construction, pulp and paper manufacturing and water purification.
 Calcination is the process by which limestone, which is mostly calcium
-carbonate (CaCO,,3,,), is heated in a kiln to produce lime. Carbon
+carbonate (CaCO<sub>3</sub>), is heated in a kiln to produce lime. Carbon
 dioxide is a byproduct of this reaction and is usually emitted to the
 atmosphere. Some facilities recover a portion of the emissions for use
 in sugar refining and precipitated calcium carbonate production.
@@ -13,7 +13,7 @@ AMEE offers several methodologies for lime production:
 
   - **[IPCC Tier 1 production-based
     methodology](Generic_lime_production):** this methodology calculates
-    emissions based upon a generic emissions factor for CO,,2,,
+    emissions based upon a generic emissions factor for CO<sub>2</sub>
     emissions per quantity of lime produced and a default breakdown of
     lime types. The methodology is sourced from the IPCC 2006
     [Guidelines for National Greenhouse Gas
@@ -45,9 +45,9 @@ AMEE offers several methodologies for lime production:
     published by the International Aluminium Institute in conjunction
     with the WRI Greenhouse Gas Protocol. The methodology is based on
     the quantity and purity of 'quick' (calcium oxide; CaO) and 'slaked'
-    (calcium hydroxide; Ca(OH),,2,,) lime produced. The CO,,2,,
+    (calcium hydroxide; Ca(OH)<sub>2</sub>) lime produced. The CO<sub>2</sub>
     emissions associated with this lime production is based on the known
-    ratio in which lime and CO,,2,, are produced during carbonate
+    ratio in which lime and CO<sub>2</sub> are produced during carbonate
     calcination.
 
 <!-- end list -->

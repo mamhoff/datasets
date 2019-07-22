@@ -1,2 +1,2 @@
-This category contains CO,,2,, emissions data associated with energy
+This category contains CO<sub>2</sub> emissions data associated with energy
 consumption in the United States

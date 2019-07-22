@@ -1,5 +1,5 @@
 **Transport fuel emissions methodology. Calculates direct fossil and/or
-biogenic carbon dioxide (CO,,2,,) emissions associated with fuel
+biogenic carbon dioxide (CO<sub>2</sub>) emissions associated with fuel
 consumed for a variety of common transport fuels. Global.**
 
 ## Summary
@@ -24,14 +24,14 @@ transport-related emissions factors which describe emissions on the
 basis of *distance*. This methodology is typically more accurate for
 calculating transport related greenhouse gas emissions since it involves
 a more direct measure of fuel consumption without the requirement for
-assumptions about vehicle fuel efficiencies. Since the CO,,2,, produced
+assumptions about vehicle fuel efficiencies. Since the CO<sub>2</sub> produced
 during the burning of biofuels in not a net contributor to atmospheric
 warming (see [here](Carbon_dioxide_emissions)), fossil- and
-biofuel-associated CO,,2,, are explicitly defined.
+biofuel-associated CO<sub>2</sub> are explicitly defined.
 
 Emissions - conventionally expressed in terms of mass (e.g. *kg*) - are
 calculated by multiplying these rates (*mass emitted per volume*; e.g.
-*kg CO,,2,, per US gallon*) by a volume of fuel (e.g *gallons*)
+*kg CO<sub>2</sub> per US gallon*) by a volume of fuel (e.g *gallons*)
 consumed.
 
 ### Model data
@@ -51,7 +51,7 @@ transport fuels are provided, including:
   - petrol
   - residual fuel oil
 
-Both fossil- and biogenic-CO,,2,, emissions factors are provided
+Both fossil- and biogenic-CO<sub>2</sub> emissions factors are provided
 although the latter is applicable only to biofuels and biofuel blends.
 In the case of blended (bio)fuels, both types of emissions factor are
 applicable and represent the proportion of fossil to biofuel carbon
@@ -69,14 +69,14 @@ specified on the basis of volume.
 ### Calculation and result
 
 The returned emissions quantities for this methodology represent the
-CO,,2,, associated with the type and quantity of fuel specified. Two
+CO<sub>2</sub> associated with the type and quantity of fuel specified. Two
 values are returned, as follows:
 
-  - ***CO2***: CO,,2,, emissions associated with fossil carbon
-  - ***bioCO2***: CO,,2,,e emissions associated with recently
+  - ***CO2***: CO<sub>2</sub> emissions associated with fossil carbon
+  - ***bioCO2***: CO<sub>2</sub>e emissions associated with recently
     sequestered, biogenic carbon
 
-In most cases only the former - fossil - CO,,2,, is returned as only
+In most cases only the former - fossil - CO<sub>2</sub> is returned as only
 biofuels or biofuel blends contain biogenic carbon. In the case of
 blended biofuels a value is return for both the fossil and biogenic
 components.

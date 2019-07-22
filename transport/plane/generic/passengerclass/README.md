@@ -2,7 +2,7 @@
 category (and more) an be found under the specific [DEFRA category for
 plane transport](Plane_Generic_Defra)**
 
-This category contains CO,,2,, emissions data for air travel according
+This category contains CO<sub>2</sub> emissions data for air travel according
 to specific passenger classes. The data is sourced from the UK
 government agency
 [DEFRA](http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm),

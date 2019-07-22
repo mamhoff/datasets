@@ -7,9 +7,9 @@ published by the International Aluminium Institute in conjunction with
 the WRI Greenhouse Gas Protocol.
 
 The methodology is based on the quantity and purity of 'quick' (calcium
-oxide; CaO) and 'slaked' (calcium hydroxide; Ca(OH),,2,,) lime produced.
-The CO,,2,, emissions associated with this lime production is based on
-the known ratio in which lime and CO,,2,, are produced during carbonate
+oxide; CaO) and 'slaked' (calcium hydroxide; Ca(OH)<sub>2</sub>) lime produced.
+The CO<sub>2</sub> emissions associated with this lime production is based on
+the known ratio in which lime and CO<sub>2</sub> are produced during carbonate
 calcination.
 
 To use this category, simply create a data item - there are no drill
@@ -17,7 +17,7 @@ choices.
 
 Next, specify the quantities of quick and slaked lime produced using the
 ***massQuickLimePerTime*** and ***massSlakedLimePerTime*** profile item
-values. The value returned represents CO,,2,, emissions associated with
+values. The value returned represents CO<sub>2</sub> emissions associated with
 those quantities.
 
 By default, AMEE assumes purities of 95% for each type of lime

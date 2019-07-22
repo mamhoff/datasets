@@ -1,22 +1,22 @@
 The AMEE category transport/plane/specific/jet contains data on the fuel
-consumption and CO,,2,, emissions of jet-engine aircraft, sourced from
+consumption and CO<sub>2</sub> emissions of jet-engine aircraft, sourced from
 the [EMEP/CORINAIR Emission Inventory Guidebook
 (2007)](http://www.eea.europa.eu/publications/EMEPCORINAIR5/page017.html).
 The CORINAIR datasheet and documentation specifies fuel consumption data
 for 19 representative jet-engine aircraft types and also provides
 recommendations for the appropriate use of this data in representing
 other, non-documented aircraft. Following these guidelines, AMEE
-contains data for calculating CO,,2,, emissions for a total of 117
+contains data for calculating CO<sub>2</sub> emissions for a total of 117
 specific jet-engine aircraft.
 
 -----
 
 ## The methodology
 
-CO,,2,, emissions are calculated by considering the fuel consumed during
+CO<sub>2</sub> emissions are calculated by considering the fuel consumed during
 the discrete in-flight phases of "cruising" and the "landing-take off
 (LTO) cycle". Cruise emissions are defined as those occurring above an
-altitude of 1000 m. The fuel consumption and CO,,2,, emissions
+altitude of 1000 m. The fuel consumption and CO<sub>2</sub> emissions
 associated with cruising are related to distance flown, and are
 therefore calculated on the basis of the flight distance specified.
 CORINAIR provides fuel consumption data for each aircraft type at
@@ -51,13 +51,13 @@ each individual phase:
 LTO fuel = fuel,,take off,, + fuel,,climb out,, + fuel,,approach,, +
 fuel,,taxiing,,
 
-Total CO,,2,, emissions are calculated by combining the fuel consumption
+Total CO<sub>2</sub> emissions are calculated by combining the fuel consumption
 associated with the LTO and cruising phases. This total (LTO + cruise)
-fuel consumption (kg) is then multiplied by a CO,,2,, emissions factor
-of 3.15 (kg CO,,2,, per kg) - in order to convert into a corresponding
-quantity of CO,,2,, emitted - and by the quantity of flights:
+fuel consumption (kg) is then multiplied by a CO<sub>2</sub> emissions factor
+of 3.15 (kg CO<sub>2</sub> per kg) - in order to convert into a corresponding
+quantity of CO<sub>2</sub> emitted - and by the quantity of flights:
 
-CO,,2,, emissions = (LTO fuel + cruise fuel) \* 3.15 \* number of
+CO<sub>2</sub> emissions = (LTO fuel + cruise fuel) \* 3.15 \* number of
 journeys
 
 -----
@@ -111,18 +111,18 @@ on RFI, see the [here](Radiative_Forcing_Index).
 
 ### Calculation and result
 
-The returned quantities for this methodology represent CO,,2,,,
+The returned quantities for this methodology represent CO<sub>2</sub>,
 emissions associated with the aircraft and distance specified. The
 following **amounts** are returned:
 
-  - ***cruiseCO2***: CO,,2,, emissions associated with cruising at
+  - ***cruiseCO2***: CO<sub>2</sub> emissions associated with cruising at
     altitude
-  - ***takeOffCO2***: CO,,2,, emissions associated with the take off
+  - ***takeOffCO2***: CO<sub>2</sub> emissions associated with the take off
     phase
-  - ***climbOutCO2***: CO,,2,, emissions associated with the climb out
+  - ***climbOutCO2***: CO<sub>2</sub> emissions associated with the climb out
     phase
-  - ***approachCO2***: CO,,2,, emissions associated with the approach
+  - ***approachCO2***: CO<sub>2</sub> emissions associated with the approach
     phase
-  - ***taxiCO2***: CO,,2,, emissions associated with taxiing
-  - ***totalCO2***: All CO,,2,, emissions
+  - ***taxiCO2***: CO<sub>2</sub> emissions associated with taxiing
+  - ***totalCO2***: All CO<sub>2</sub> emissions
   - ***greatCircleDistance***: calculated great circle distance in kms

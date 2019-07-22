@@ -1,5 +1,5 @@
 The AMEE category transport/car/specific/hydrogen contains data on the
-CO,,2,, emissions associated with specific models of hydrogen powered
+CO<sub>2</sub> emissions associated with specific models of hydrogen powered
 car.
 
 To use this category, use drill downs to specify the manufacturer

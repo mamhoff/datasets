@@ -38,13 +38,13 @@ specifying the 'PV-cells' option in the *sector* drill choice.
 The returned amounts represent the greenhouse gas emissions associated
 with the quantity specified. Two quantities are returned, as follows:
 
-  - ***CF4***: quantity of CF,,4,, emissions (where appropriate)
-  - ***C2F6***: quantity of C,,2,,F,,6,, emissions (where appropriate)
-  - ***C3F8***: quantity of C,,3,,F,,8,, emissions (where appropriate)
-  - ***CHF3***: quantity of CHF,,3,, emissions (where appropriate)
-  - ***NF3***: quantity of NF,,3,, emissions (where appropriate)
-  - ***SF6***: quantity of SF,,6,, emissions (where appropriate)
-  - ***CO2e***: CO,,2,,e emissions (all gases converted using the
+  - ***CF4***: quantity of CF<sub>4</sub> emissions (where appropriate)
+  - ***C2F6***: quantity of C<sub>2</sub>F<sub>6</sub> emissions (where appropriate)
+  - ***C3F8***: quantity of C<sub>3</sub>F<sub>8</sub> emissions (where appropriate)
+  - ***CHF3***: quantity of CHF<sub>3</sub> emissions (where appropriate)
+  - ***NF3***: quantity of NF<sub>3</sub> emissions (where appropriate)
+  - ***SF6***: quantity of SF<sub>6</sub> emissions (where appropriate)
+  - ***CO2e***: CO<sub>2</sub>e emissions (all gases converted using the
     appropriate [global warming
     potential](Greenhouse_gases_Global_warming_potentials) and combined
     into a single quantity)

@@ -87,15 +87,15 @@ appropriate. Six quantities are returned, as follows:
 
   - ***primaryGas***: the absolute quantity of emissions associated with
     the primary gas
-  - ***byProductCF4***: quantity of CF,,4,, emitted as a by-product
+  - ***byProductCF4***: quantity of CF<sub>4</sub> emitted as a by-product
     (where appropriate)
-  - ***byProductC2F6***: quantity of C,,2,,F,,6,, emitted as a
+  - ***byProductC2F6***: quantity of C<sub>2</sub>F<sub>6</sub> emitted as a
     by-product (where appropriate)
-  - ***byProductC3F8***: quantity of C,,3,,F,,8,, emitted as a
+  - ***byProductC3F8***: quantity of C<sub>3</sub>F<sub>8</sub> emitted as a
     by-product (where appropriate)
-  - ***byProductCHF3***: quantity of CHF,,3,, emitted as a by-product
+  - ***byProductCHF3***: quantity of CHF<sub>3</sub> emitted as a by-product
     (where appropriate)
-  - ***CO2e***: CO,,2,,e emissions (all gases converted using the
+  - ***CO2e***: CO<sub>2</sub>e emissions (all gases converted using the
     appropriate [global warming
     potential](Greenhouse_gases_Global_warming_potentials) and combined
     into a single quantity)
@@ -104,12 +104,12 @@ appropriate. Six quantities are returned, as follows:
 
 ## Notes
 
-### N,,2,,O emissions from CVD cleaning
+### N<sub>2</sub>O emissions from CVD cleaning
 
 The US Environmental Protection Agency's guidelines for mandatory
 greenhouse gas reporting include an additional methodology for the use
-of nitrous oxide (N,,2,,O) in chemical vapour deposition (CVD) cleaning.
-This methodology simply assumes that all N,,2,,O used emitted during
+of nitrous oxide (N<sub>2</sub>O) in chemical vapour deposition (CVD) cleaning.
+This methodology simply assumes that all N<sub>2</sub>O used emitted during
 this process.
 
 This methodology is available within this category, and can accessed by
@@ -117,4 +117,4 @@ specifying 'N2O' as the *gas* drill choice. This choice is only
 available in conjunction with the 'cvd cleaning only' *process* drill
 choice. There are no emissions control options available with this gas,
 but users can use the ***heelFraction*** profile item value to specify
-the quantity of N,,2,,O remaining within the shipping container.
+the quantity of N<sub>2</sub>O remaining within the shipping container.

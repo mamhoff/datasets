@@ -16,6 +16,6 @@ options.
 The ***distance*** and ***numberOfPassengers*** are then entered as
 profile item values.
 
-The algorithm returns a kg CO,,2,,e value, which represents CO,,2,,,
-N,,2,,O and CH,,4,, emissions for the distance and number of passengers
+The algorithm returns a kg CO<sub>2</sub>e value, which represents CO<sub>2</sub>,
+N<sub>2</sub>O and CH<sub>4</sub> emissions for the distance and number of passengers
 specified.

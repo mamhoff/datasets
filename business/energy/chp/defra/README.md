@@ -95,11 +95,11 @@ The emissions returned represent those associated with the consumption
 of heat and/or electricity specified. The following discrete **amounts**
 are returned:
 
-  - ***heatCO2e***: CO,,2,,e emissions associated with the heat
+  - ***heatCO2e***: CO<sub>2</sub>e emissions associated with the heat
     consumption, if specified
-  - ***electricityCO2e***: CO,,2,,e emissions associated with the
+  - ***electricityCO2e***: CO<sub>2</sub>e emissions associated with the
     electricity consumption, if specified
-  - ***totalCO2e***: CO,,2,,e emissions associated with both heat and
+  - ***totalCO2e***: CO<sub>2</sub>e emissions associated with both heat and
     electricity consumption, as specified
 
 -----

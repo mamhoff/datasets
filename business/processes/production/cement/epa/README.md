@@ -7,7 +7,7 @@ listed below in order to calculate the emissions for the selected cement
 
 ## Algorithm
 
-***CO,,2,, emissions*** = *cement quantity \* clinker content \* raw
+***CO<sub>2</sub> emissions*** = *cement quantity \* clinker content \* raw
 material quantity \* CaCO3 ratio \* 0.44*
 
-The factor 0.44 is the CO,,2,, to CaCO3 stoichiometric ratio.
+The factor 0.44 is the CO<sub>2</sub> to CaCO3 stoichiometric ratio.

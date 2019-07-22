@@ -1,5 +1,5 @@
 **Fuel combustion methodology, stationary combustion. Calculates carbon
-dioxide (CO,,2,,), methane (CH,,4,,) and nitrous oxide (N,,2,,O)
+dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>) and nitrous oxide (N<sub>2</sub>O)
 emissions based on either the mass, volume or energy yield of consumed
 fuel. Scenarios include a large selection of solid, liquid and gaseous
 fuels within the energy producing, industrial, commericial and
@@ -7,8 +7,8 @@ residential sectors amongst others. Globally applicable.**
 
 ## Summary
 
-This methodology represents **carbon dioxide** (CO,,2,,), **methane**
-(CH,,4,,) and **nitrous oxide** (N,,2,,O) emissions associated with the
+This methodology represents **carbon dioxide** (CO<sub>2</sub>), **methane**
+(CH<sub>4</sub>) and **nitrous oxide** (N<sub>2</sub>O) emissions associated with the
 **stationary combustion of fuels**. The data and calculation methodology
 is sourced from the [Greenhouse Gas Protocol](Greenhouse_Gas_Protocol)
 (GHGP), and consolidates data from their worksheet tools *[GHG emissions
@@ -54,10 +54,10 @@ measure of fuel energy content.
 
 ### Model data
 
-CO,,2,, emissions associated with the stationary combustion of fuel are
+CO<sub>2</sub> emissions associated with the stationary combustion of fuel are
 primarily related to the concentration of carbon within the fuel.
-Therefore, CO,,2,, emissions vary between fuels types according to their
-different molecular composition. CH,,4,, and N,,2,,O emissions, on the
+Therefore, CO<sub>2</sub> emissions vary between fuels types according to their
+different molecular composition. CH<sub>4</sub> and N<sub>2</sub>O emissions, on the
 other hand, vary between specific combustion contexts. As such, this
 methodology provides emissions and conversion factors for 532 distinct
 combustion scenarios differentiated by **fuel type** (e.g. *blast
@@ -66,17 +66,17 @@ furnace gas*, *crude oil*, *jet gasoline*) and **combustion context**
 
 Each scenario is represented by several data values:
 
-  - *CO,,2,, emissions factor* - used to convert net energy consumption
+  - *CO<sub>2</sub> emissions factor* - used to convert net energy consumption
     into an emissions quantity
 
 <!-- end list -->
 
-  - *CH,,4,, emissions factor* - used to convert net energy consumption
+  - *CH<sub>4</sub> emissions factor* - used to convert net energy consumption
     into an emissions quantity
 
 <!-- end list -->
 
-  - *N,,2,,O emissions factor* - used to convert net energy consumption
+  - *N<sub>2</sub>O emissions factor* - used to convert net energy consumption
     into an emissions quantity
 
 <!-- end list -->
@@ -94,9 +94,9 @@ Gaseous and liquid fuels contiain the following:
   - *Fuel density* - used to convert fuel volumes into fuel mass
 
 In addition, the methdology uses the *global warming potential* (GWP) of
-CH,,4,, and N,,2,,O to convert absolute emissions quantities into
-**[CO,,2,,e](Greenhouse_gases_Global_warming_potentials)** - the
-quantity of CO,,2,, which would exert the same atmospheric warming
+CH<sub>4</sub> and N<sub>2</sub>O to convert absolute emissions quantities into
+**[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials)** - the
+quantity of CO<sub>2</sub> which would exert the same atmospheric warming
 effect.
 
 ### Activity data required
@@ -110,10 +110,10 @@ fuel consumed. This can be specified in terms of either **energy**,
 Greenhouse gas emissions are calculated by converting any mass or volume
 or gross energy quantities into the corresponding quantity of net energy
 for the given fuel and then applying the gas-specific emissions factors.
-CH,,4,, and N,,2,,O emissions are additionally converted to CO,,2,,e
+CH<sub>4</sub> and N<sub>2</sub>O emissions are additionally converted to CO<sub>2</sub>e
 using the respecitive GWP's. Four emissions quantities can be
-calculated, representing **CO,,2,,**, **CH,,4,,**, **N,,2,,O**, and
-**CO,,2,,e**.
+calculated, representing **CO<sub>2</sub>**, **CH<sub>4</sub>**, **N<sub>2</sub>O**, and
+**CO<sub>2</sub>e**.
 
 This emissions calculated by this methodology represent those
 attributable to the specified quantity of fuel combusted.
@@ -130,7 +130,7 @@ energy.
 
 ### Custom emissions factors
 
-CO,,2,, emission factors for butane and propane are not specified in the
+CO<sub>2</sub> emission factors for butane and propane are not specified in the
 2006 IPCC Guidelines for National Greenhouse Gas Inventories. In these
 cases, values are calculated following [this](Custom_emissions_factors)
 method, recommended by the Greenhouse Gas Protocol.

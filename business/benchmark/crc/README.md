@@ -12,7 +12,7 @@ Reduction Commitment](Carbon_Reduction_Commitment) initiative (CRC).
 ## The dataset
 
 The CRC is a UK Government initiative requiring large emitters to
-disclose the CO,,2,, emissions arising from some of their activities.
+disclose the CO<sub>2</sub> emissions arising from some of their activities.
 These activities represent stationary burning of some common fuels as
 well as electricity consumption.
 
@@ -26,7 +26,7 @@ These and other related metrics are described in more detail below
 
 ### Emissions
 
-The total quantity of CO,,2,, emitted by the participant during an
+The total quantity of CO<sub>2</sub> emitted by the participant during an
 annual reporting period. These emissions are limited to those activities
 which require disclosure under the CRC qualification criteria (a
 selection of common fuels and electricity consumption).

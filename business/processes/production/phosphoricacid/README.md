@@ -14,7 +14,7 @@ US EPA guidelines. Users can override these values if appropriate (see
 below).
 
 Next, specify the quantity of phosphate consumed using the ***mass***
-profile item value. The returned amount represents CO,,2,,e emissions
+profile item value. The returned amount represents CO<sub>2</sub>e emissions
 associated with this quantity based on a default value.
 
 To override the default carbon content set the value as a whole

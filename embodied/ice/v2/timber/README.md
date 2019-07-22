@@ -1,5 +1,5 @@
 **Life cycle methodology, timber. Calculates embodied energy,
-fossil-derived carbon dioxide (CO,,2,,), biogenic CO,,2,, and CO,,2,,e
+fossil-derived carbon dioxide (CO<sub>2</sub>), biogenic CO<sub>2</sub> and CO<sub>2</sub>e
 emissions based on the quantity of timber used. Scenarios include
 plywood, particleboard, laminated and sawn timbers. Mixed geographical
 scopes.**
@@ -7,7 +7,7 @@ scopes.**
 ## Summary
 
 This methodology represents **embodied energy**, **fossil-derived carbon
-dioxide (CO,,2,,)**, **biogenic CO,,2,,** and **CO,,2,,e emissions**
+dioxide (CO<sub>2</sub>)**, **biogenic CO<sub>2</sub>** and **CO<sub>2</sub>e emissions**
 associated with the use of **timber**. The data and calculation
 methodology is sourced from the [Inventory of Carbon & Energy (ICE),
 version 2.0](http://people.bath.ac.uk/cj219/) life cycle dataset,
@@ -20,24 +20,24 @@ produced in conjunction with the University of Bath.
 ### Emissions model
 
 The methodology is based on factors which describe the quantities of
-energy and fossil-derived CO,,2,, which are 'embodied' within unit
+energy and fossil-derived CO<sub>2</sub> which are 'embodied' within unit
 quantities of timber. By multiplying a quantity of timber by these
 factors, an estimate of the embodied energy and emissions associated
 with that quantity can be calculated.
 
 In addition, this methodology provides factors for the **biogenic**
-CO,,2,, emissions which are associated with quantities of timber. These
-emissions represent CO,,2,, which is derived from the combustion of
+CO<sub>2</sub> emissions which are associated with quantities of timber. These
+emissions represent CO<sub>2</sub> which is derived from the combustion of
 *recently produced* organic material (e.g. biogas and biofuels, timber
 off-cuts). These emissions are differentiated from fossil-associated
-CO,,2,, emissions (e.g. from coal, natural gas, oil) because they
-represent the return of CO,,2,, to the atmosphere which was only
+CO<sub>2</sub> emissions (e.g. from coal, natural gas, oil) because they
+represent the return of CO<sub>2</sub> to the atmosphere which was only
 recently removed through biological processes (i.e. photosynthesis). In
 most cases, these emissions are not considered to represent a net
-addition of CO,,2,, into the atmosphere and therefore not regarded as a
+addition of CO<sub>2</sub> into the atmosphere and therefore not regarded as a
 contributor to atmospheric warming.
 
-This methodology permits users to choose whether biogenic CO,,2,,
+This methodology permits users to choose whether biogenic CO<sub>2</sub>
 emissions are neutral or otherwise.
 
 ### Model data
@@ -48,9 +48,9 @@ This methodology represents 11 different types of timber (e.g.
 four data values:
 
   - *embodied energy per unit mass* (MJ/kg)
-  - *embodied fossil CO,,2,, per unit mass* (kg/kg)
-  - *embodied biogenic CO,,2,, per unit mass* (kg/kg)
-  - *embodied CO,,2,,e per unit mass* (kg/kg)
+  - *embodied fossil CO<sub>2</sub> per unit mass* (kg/kg)
+  - *embodied biogenic CO<sub>2</sub> per unit mass* (kg/kg)
+  - *embodied CO<sub>2</sub>e per unit mass* (kg/kg)
 
 In addition, each material is described by a **life cycle analysis
 boundary**, indicating the stages in the material life cycle which are
@@ -68,12 +68,12 @@ calculate.
 Embodied energy and emissions are calculated by multiplying the
 specified quantity of timber used by the available factors. Four values
 are returned representing the embodied **energy**, as well as **fossil
-CO,,2,,**, **biogenic CO,,2,,** and **CO,,2,,e** emissions attributable
+CO<sub>2</sub>**, **biogenic CO<sub>2</sub>** and **CO<sub>2</sub>e** emissions attributable
 to the specified quantity of timber.
 
-**Note:** CO,,2,,e quantities incorporate fossil-CO,,2,, as well as the
+**Note:** CO<sub>2</sub>e quantities incorporate fossil-CO<sub>2</sub> as well as the
 effects of other greenhouse gases, but **do not** include biogenic
-CO,,2,, emissions.
+CO<sub>2</sub> emissions.
 
 -----
 

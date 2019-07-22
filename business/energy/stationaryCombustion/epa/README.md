@@ -8,11 +8,11 @@ reporting
 
 This category is organised into several subcategories representing the
 burning of coal, natural gas, petroleum-derived fuels and wood. In each
-case, calculations of CO,,2,, emissions associated with the burning of
+case, calculations of CO<sub>2</sub> emissions associated with the burning of
 fuel can be made based on either the quantity of energy or physical
 amount of fuel (i.e. mass or volume, as appropriate) consumed.
 
-Users have the option of incorporating CH,,4,, and N,,2,,O emissions
+Users have the option of incorporating CH<sub>4</sub> and N<sub>2</sub>O emissions
 into their calculations. Since these emissions depend on the combustion
 context, users requiring these emissions must additionally specific this
 context (e.g. 'residential', 'commercial', 'industry', 'electricity

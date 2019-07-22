@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - GHGP
 - US
@@ -31,17 +31,17 @@ gallery: |-
   <%= chart :dependent => 'massCO2PerDistance' %>
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   type: Vehicle type
   fuel: Fuel type
   emissionStandard: Emissions control standard
   distancePerVolume: Fuel efficiency of vehicle
-  massCO2PerDistance: Quantity of fossil CO,,2,, per unit distance
-  massBiogenicCO2PerDistance: Quantity of biogenic CO,,2,, per unit distance
-  massCH4PerDistance: Quantity of CH,,4,, per unit distance
-  massN2OPerDistance: Quantity of N,,2,,O per unit distance
-  massCH4PerVolume: Quantity of CH,,4,, per unit volume fuel consumed
-  massN2OPerVolume: Quantity of N,,2,,O per unit volume fuel consumed
+  massCO2PerDistance: Quantity of fossil CO<sub>2</sub> per unit distance
+  massBiogenicCO2PerDistance: Quantity of biogenic CO<sub>2</sub> per unit distance
+  massCH4PerDistance: Quantity of CH<sub>4</sub> per unit distance
+  massN2OPerDistance: Quantity of N<sub>2</sub>O per unit distance
+  massCH4PerVolume: Quantity of CH<sub>4</sub> per unit volume fuel consumed
+  massN2OPerVolume: Quantity of N<sub>2</sub>O per unit volume fuel consumed
   distance: Distance travelled
   volume: Quantity of fuel consumed
   occupancy: Occupancy of vehicle
@@ -52,4 +52,3 @@ usages:
   byDistanceOnly: { occupancy : optional, volume : forbidden }
   byFuelOnly: { occupancy : optional, distance : forbidden }
   order: [ default, byDistanceOnly, byFuelOnly ]
-  

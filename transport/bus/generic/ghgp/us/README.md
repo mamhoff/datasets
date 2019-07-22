@@ -18,18 +18,18 @@ options using the drill-down *fuelType*:
   - gasoline
 
 The ***distance*** is then set as a profile item value. The algorithm
-returns a sum of CO,,2,,, N,,2,,O and CH,,4,, emissions for the fuel
+returns a sum of CO<sub>2</sub>, N<sub>2</sub>O and CH<sub>4</sub> emissions for the fuel
 type and distance specified.******
 
 ## Biomass fuels
 
-The GHG protocol requires CO,,2,, emissions from biomass fuels to be
-reported separately, due to the fact that the CO,,2,, released from
+The GHG protocol requires CO<sub>2</sub> emissions from biomass fuels to be
+reported separately, due to the fact that the CO<sub>2</sub> released from
 biomass fuels has only recently been sequestered from the atmosphere and
-so does not constitute a net increase in CO,,2,,, unlike fossil fuel
-emissions or those of CH,,4,, and N,,2,,O. Therefore, only the CH,,4,,
-and N,,2,, emissions for ethanol are included here, while the associated
-CO,,2,, emissions can be found in the
+so does not constitute a net increase in CO<sub>2</sub>, unlike fossil fuel
+emissions or those of CH<sub>4</sub> and N<sub>2</sub>O. Therefore, only the CH<sub>4</sub>
+and N<sub>2</sub> emissions for ethanol are included here, while the associated
+CO<sub>2</sub> emissions can be found in the
 [biomass](US_biofuel_bus_transport) subcategory. If the user wishes to
 calculate their total GHG emissions from ethanol-powered bus travel
 (i.e. including the biomass CO2 component), they should use both

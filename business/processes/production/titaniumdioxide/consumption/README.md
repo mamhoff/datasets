@@ -19,5 +19,5 @@ is appropriate using the ***feedstockOxidation*** profile item value
 (decimal fraction, i.e. 0-1), although this defaults to 1 (i.e. 100%
 oxidation) if left unspecified.
 
-The returned value represents CO,,2,, emissions associated with the
+The returned value represents CO<sub>2</sub> emissions associated with the
 consumption and properties of feedstock specified.

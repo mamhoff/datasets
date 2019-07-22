@@ -3,7 +3,7 @@ category, as well as more up-to-date and comprenhesive data, can be
 found under the specific [DEFRA category for plane
 transport](Plane_Generic_Defra)**
 
-The AMEE category transport/plane/generic contains data on CO,,2,,
+The AMEE category transport/plane/generic contains data on CO<sub>2</sub>
 emissions associated with 'typical' forms of air travel, sourced from
 the UK government agency
 [DEFRA/DECC](http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm).
@@ -21,11 +21,11 @@ the landing-take off cycle and cruising, and therefore reflect the
 respective typical portions of short- and long-haul flights which is
 represented by cruising.
 
-Per passenger CO,,2,, emissions for a given flight depend on the flight
+Per passenger CO<sub>2</sub> emissions for a given flight depend on the flight
 *distance* and *passenger class*, both of which can be specified by the
 user. Additionally, users can choose to incorporate a Radiative Forcing
 Index (RFI) factor to account for the global warming effects of
-non-CO,,2,, emissions.
+non-CO<sub>2</sub> emissions.
 
 ## Distance
 
@@ -71,14 +71,14 @@ representing eastern longitudes. Latitudes must be in the range -90 to
 90 with negative numbers representing southern latitudes.
 
 Depending on the distance calculated, AMEE selects the appropriate
-CO,,2,, emissions factor(kg CO,,2,, per passenger km). A short haul
+CO<sub>2</sub> emissions factor(kg CO<sub>2</sub> per passenger km). A short haul
 emissions factor is used for flights under 3700 km, while a long haul
 factor is used for those greater than 3700 km. For flights originating
 and landing within a single country, the domestic emissions factor is
 used. Users can additionally specify the number of passengers and the
 number of flights being accounted for using the ***numberOfPassengers***
 and ***journeys*** profile item values (both defaulting to 1). The value
-returned is the kg CO,,2,, emitted by all passenger journeys, calculated
+returned is the kg CO<sub>2</sub> emitted by all passenger journeys, calculated
 as follows:
 
 -----
@@ -97,10 +97,10 @@ method, specify the type of flight by selecting *domestic*, *short
 haul*, or *long haul* via drill down, followed by "-" for the flight
 size. Next, set the distance flown per year in the ***distance***
 profile item value. AMEE calculates emissions by using the appropriate
-domestic, short-haul or long-haul emissions factor (kg CO,,2,, per
+domestic, short-haul or long-haul emissions factor (kg CO<sub>2</sub> per
 passenger km). Users may also specify the number of passengers under
 consideration by setting the ***numberOfPassengers*** profile item value
-(default = 1). The returned value represents annual CO,,2,, emissions
+(default = 1). The returned value represents annual CO<sub>2</sub> emissions
 for all passengers, calculated as follows:
 
 -----
@@ -133,7 +133,7 @@ shorter than 1.5 hours, short haul between 1.5 and 5 hours and long haul
 longer than 5 hours. In geographically large countries, e.g. the USA, it
 may be more appropriate to class some domestic flights as short haul.
 
-*Per passenger journey* CO,,2,, emissions factors are calculated as
+*Per passenger journey* CO<sub>2</sub> emissions factors are calculated as
 follows:
 
 -----
@@ -159,7 +159,7 @@ are simple double the one-way calculation. Next, set the number of
 journeys in the ***journey*** profile item value, and the number of
 passengers by setting the ***numberOfPassengers*** profile item value.
 If left unspecified, both of the profile item values default to 1.
-Returned values represent CO,,2,, emissions for all passenger journeys.
+Returned values represent CO<sub>2</sub> emissions for all passenger journeys.
 
 ## Passenger class
 
@@ -184,20 +184,20 @@ flight scenarios.
 
 Uncertainty over the environmental impact of aircraft emissions arises
 from the complexity of atmospheric chemistry, particularly in relation
-to the emission of non-CO,,2,, products (e.g. water vapour, contrails,
+to the emission of non-CO<sub>2</sub> products (e.g. water vapour, contrails,
 NO,,x,,) at high altitudes, which is argued to exert a greater global
 warming effect compared with similar emissions at ground level. These
 effects can be accounted for by using a multiplicative factor called the
 Radiative Forcing Index (RFI), which represents the ratio of all
-radiative forcing (CO,,2,, + non-CO,,2,, emissions) to that arising from
-CO,,2,, emissions only. Estimates for RFI range between 1 and 4 with a
+radiative forcing (CO<sub>2</sub> + non-CO<sub>2</sub> emissions) to that arising from
+CO<sub>2</sub> emissions only. Estimates for RFI range between 1 and 4 with a
 value of 2.7 recommended by the IPCC in 1999. No specific recommended
 value was quoted in the most recent IPCC report (2007), and the current
 best estimate for RFI is 1.9 ([Sausen et al.
 (2005)](http://www.ingentaconnect.com/content/schweiz/mz/2005/00000014/00000004/art00013)).
 Following the DEFRA/DECC methodology (e.g. as used in
 [Act\_On\_CO2](Act_On_CO2)) for flight-based emissions, AMEE returns
-values for CO,,2,, emissions only - i.e. with no RFI applied. Users can
+values for CO<sub>2</sub> emissions only - i.e. with no RFI applied. Users can
 elect to incorporate the RFI by setting the ***useRFI*** profile item
 value to "*true*", and entering a value for RFI in the
 ***radiativeForcingIndex*** profile item value. If no value is entered

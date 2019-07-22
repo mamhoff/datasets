@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - fuel
 - stationary
 - combustion
@@ -16,13 +16,13 @@ tags:
 - EPA_mandatory
 - EPA_mandatory_fuel
 provenance: "[[http://www.epa.gov/stateply/resources/index.html|US EPA/Climate Leaders]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
-  massCH4PerEnergy: CH,,4,, emissions per quantity of energy consumed
-  massN2OPerEnergy: N,,2,,O emissions per quantity of energy consumed
+ivds:
+  massCH4PerEnergy: CH<sub>4</sub> emissions per quantity of energy consumed
+  massN2OPerEnergy: N<sub>2</sub>O emissions per quantity of energy consumed
   type: Type of fuel
   context: Context in which fuel burned
-  source: 
+  source:
 wikiname: CH4_and_N20_emissions_from_stationary_combustion

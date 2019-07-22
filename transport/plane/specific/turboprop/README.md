@@ -1,5 +1,5 @@
 The AMEE category transport/plane/specific/turboprop contains data on
-the fuel consumption and CO,,2,, emissions of 26 types of
+the fuel consumption and CO<sub>2</sub> emissions of 26 types of
 turboprop-engine aircraft, sourced from the [EMEP/CORINAIR Emission
 Inventory Guidebook
 (2007)](http://www.eea.europa.eu/publications/EMEPCORINAIR5/page017.html).
@@ -8,7 +8,7 @@ Inventory Guidebook
 
 ## The methodology
 
-CO,,2,, emissions are calculated by considering the fuel consumed during
+CO<sub>2</sub> emissions are calculated by considering the fuel consumed during
 the discrete in-flight phases of "cruising" and the "landing-take off
 (LTO) cycle".
 
@@ -35,12 +35,12 @@ Fuel consumed during the taxi out, take off and climb out phases are
 calculated similarly, using the appropriate CORINAIR data tables. Fuel
 consumed during the 'approach' and 'taxiing in' phases of the LTO cycle
 are **not** related to the distance flown, and therefore remain constant
-for a given aircraft type. Total CO,,2,, emissions are calculated by
+for a given aircraft type. Total CO<sub>2</sub> emissions are calculated by
 combining the fuel consumption associated with the LTO and cruising
-phases and multiplying by a CO,,2,, emissions factor of 3.15 (kg CO,,2,,
+phases and multiplying by a CO<sub>2</sub> emissions factor of 3.15 (kg CO<sub>2</sub>
 per kg) and the quantity of flights under consideration.
 
-CO,,2,, = (fuel,,taxi out,, + fuel,,take off,, + fuel,,climb out,, +
+CO<sub>2</sub> = (fuel,,taxi out,, + fuel,,take off,, + fuel,,climb out,, +
 fuel,,cruise,, + fuel,,approach,, + fuel,,taxi in,,) \* 3.15 \* quantity
 
 -----
@@ -82,21 +82,21 @@ on RFI, see the [here](Radiative_Forcing_Index).
 
 ### Calculation and result
 
-The returned quantities for this methodology represent CO,,2,,,
+The returned quantities for this methodology represent CO<sub>2</sub>,
 emissions associated with the aircraft and distance specified. The
 following **amounts** are returned:
 
-  - ***cruiseCO2***: CO,,2,, emissions associated with cruising at
+  - ***cruiseCO2***: CO<sub>2</sub> emissions associated with cruising at
     altitude
-  - ***taxiOutCO2***: CO,,2,, emissions associated with taxiing before
+  - ***taxiOutCO2***: CO<sub>2</sub> emissions associated with taxiing before
     take off
-  - ***takeOffCO2***: CO,,2,, emissions associated with the take off
+  - ***takeOffCO2***: CO<sub>2</sub> emissions associated with the take off
     phase
-  - ***climbOutCO2***: CO,,2,, emissions associated with the climb out
+  - ***climbOutCO2***: CO<sub>2</sub> emissions associated with the climb out
     phase
-  - ***approachCO2***: CO,,2,, emissions associated with the approach
+  - ***approachCO2***: CO<sub>2</sub> emissions associated with the approach
     phase
-  - ***taxiInCO2***: CO,,2,, emissions associated with taxiing
+  - ***taxiInCO2***: CO<sub>2</sub> emissions associated with taxiing
     subsequent to landing
-  - ***totalCO2***: All CO,,2,, emissions
+  - ***totalCO2***: All CO<sub>2</sub> emissions
   - ***greatCircleDistance***: calculated great circle distance in kms

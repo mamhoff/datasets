@@ -48,12 +48,12 @@ as follows:
 Emissions intensity data (i.e. emissions 'factors') are provided for the
 following greenhouse gases and pollutants:
 
-  - carbon dioxide (CO,,2,,)
-  - methane (CH,,4,,)
-  - nitrous oxide (N,,2,,O)
-  - CO,,2,,e
+  - carbon dioxide (CO<sub>2</sub>)
+  - methane (CH<sub>4</sub>)
+  - nitrous oxide (N<sub>2</sub>O)
+  - CO<sub>2</sub>e
   - other nitrogen oxides (NO,,x,,)
-  - sulphur dioxide (SO,,2,,)
+  - sulphur dioxide (SO<sub>2</sub>)
   - mercury (Hg)
 
 ### Total versus non-baseload

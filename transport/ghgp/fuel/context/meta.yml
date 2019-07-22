@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - GHGP
 - fuel
@@ -29,12 +29,12 @@ provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse
 gallery: <%= chart :dependent => 'massCH4PerVolume' %>
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   fuel: Type of fuel used
   useContext: Context in which fuel used
   region: Geographic region
-  massCH4PerVolume: Quantity of CH,,4,, emissions per unit volume
-  massN2OPerVolume: Quantity of N,,2,,O emissions per unit volume
+  massCH4PerVolume: Quantity of CH<sub>4</sub> emissions per unit volume
+  massN2OPerVolume: Quantity of N<sub>2</sub>O emissions per unit volume
   volume: Quantity of fuel used
 wikiname: Transport_fuels_with_context_by_Greenhouse_Gas_Protocol
 name: "Transport fuels with context by Greenhouse Gas Protocol"

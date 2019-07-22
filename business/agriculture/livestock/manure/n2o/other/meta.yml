@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - agriculture
 - IPCC
 - IPCC_agriculture
@@ -19,16 +19,16 @@ provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_1
 gallery: "nil"
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   region: Geographic region
   managementSubtype: Subtype of manure management employed
   fractionVolatilised: The fraction of manure-N which is typically volatilised
   massNExcretedPer1000kgLivestockPerTime: The typical daily quantity of manure-N produced per tonne of livestock
   managementType: Type of manure management employed
   livestockType: Type of livestock
-  source: 
-  massN2OPerMassNDirect: The rate at which manure-N is directly converted to N,,2,,O-N
+  source:
+  massN2OPerMassNDirect: The rate at which manure-N is directly converted to N<sub>2</sub>O-N
   totalLiveweight: Total mass of livestock under consideration
-  massN2OPerMassNVolatilised: The rate at which volatilised manure-N is converted to N,,2,,O-N
+  massN2OPerMassNVolatilised: The rate at which volatilised manure-N is converted to N<sub>2</sub>O-N
 wikiname: Other_livestock_manure_nitrous_oxide_emissions
 name: "IPCC methodology for manure sourced nitrous oxide - other livestock"

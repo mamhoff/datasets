@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - GHGP
 - GHGP_iron_and_steel_sector
 - iron
@@ -15,10 +15,10 @@ tags:
 - physical_properties
 - global
 provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   volume: Total volume of gas flared
   gasHydrocarbonFraction: Molar fraction of hydrocarbon in gas, i.e. the ratio of moles of hydrocarbon to total moles in gas
   hydrocarbonCarbonFraction: Molar fraction of carbon in hydrocarbon, i.e. the ratio of moles of carbon to moles of hydrocarbon
@@ -28,7 +28,7 @@ ivds:
   combustionEfficiency: Efficiency of hydrocarbon combustion. If no facility-specific value is specified a default value is assumed
   molecularMassCO2: The molecular mass of carbon dioxide
   molecularMassCH4: The molecular mass of methane
-  cToCO2Stoichiometry: The stoichiometric factor relating the molar quantites of reactant carbon ~(C) and product carbon dioxide (CO,,2,,)
+  cToCO2Stoichiometry: The stoichiometric factor relating the molar quantites of reactant carbon ~(C) and product carbon dioxide (CO<sub>2</sub>)
   poundsInTonne: The number of pounds in one metric tonne
 wikiname: GHGP_Flaring
 usages:

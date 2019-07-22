@@ -1,10 +1,10 @@
 **Managed soils methodology, urea application. Calculates carbon dioxide
-emissions (CO,,2,,) based on quantities of urea applied. Globally
+emissions (CO<sub>2</sub>) based on quantities of urea applied. Globally
 applicable.**
 
 ## Summary
 
-This methodology represents **carbon dioxide** (CO,,2,,) emissions
+This methodology represents **carbon dioxide** (CO<sub>2</sub>) emissions
 associated with the **application of urea to managed soils**. The data
 and calculation methodology is sourced from the [IPCC](IPCC), as
 published in *[Volume 4, Chapter 11 - N2O Emissions from Managed Soils,
@@ -19,36 +19,36 @@ Inventories](http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html)*.
 
 ### Emissions model
 
-Adding urea to soils during fertilisation leads to a loss of CO,,2,,
+Adding urea to soils during fertilisation leads to a loss of CO<sub>2</sub>
 that was fixed in the industrial production process. Urea
-(CO(NH,,2,,),,2,,) is converted into ammonium (NH,,4,,^^+^^), hydroxyl
-ion (OH^^-^^), and bicarbonate (HCO,,3,,^^-^^), in the presence of water
-and urease enzymes. The bicarbonate which is formed evolves into CO,,2,,
-and water (H,,2,,O).
+(CO(NH<sub>2</sub>)<sub>2</sub>) is converted into ammonium (NH<sub>4</sub>^^+^^), hydroxyl
+ion (OH^^-^^), and bicarbonate (HCO<sub>3</sub>^^-^^), in the presence of water
+and urease enzymes. The bicarbonate which is formed evolves into CO<sub>2</sub>
+and water (H<sub>2</sub>O).
 
-The methodology calculates CO,,2,, emissions based on the *mass-balance*
+The methodology calculates CO<sub>2</sub> emissions based on the *mass-balance*
 of carbon (C) applied during treatment. This assumes that all C added to
-soils is eventually emitted as CO,,2,,.
+soils is eventually emitted as CO<sub>2</sub>.
 
 This methodology represents the IPCC *Tier 1* approach.
 
 ### Model data
 
 The precise relationship between the quantity of urea applied and the
-quantity of CO,,2,, emitted depends on the concentration of carbon
+quantity of CO<sub>2</sub> emitted depends on the concentration of carbon
 within urea. A carbon content (by weight) factor is provided for urea
 which allows the conversion of a quantity of urea into a quantity of C.
 
 In addition, this methodology uses a second conversion factor,
-representing the ratio of the molecular mass of CO,,2,, and the atomic
+representing the ratio of the molecular mass of CO<sub>2</sub> and the atomic
 mass of C. This quantity allows the conversion of a quantity of C into
-the corresponding quantity of CO,,2,,. In combination, these two
+the corresponding quantity of CO<sub>2</sub>. In combination, these two
 conversion factors enable the conversion of a quantity of urea into a
-quantity of CO,,2,, emitted - under the assumption of mass-balance.
+quantity of CO<sub>2</sub> emitted - under the assumption of mass-balance.
 
 ### Activity data required
 
-CO,,2,, emissions are directly proportionate to the **quantity of urea
+CO<sub>2</sub> emissions are directly proportionate to the **quantity of urea
 applied**, which therefore needs to be specified in order to make an
 emissions calculation.
 
@@ -63,7 +63,7 @@ attributable to the specified quantity of urea applied to managed soils.
 
 ### Inventory compilation
 
-The application of urea to soils releases CO,,2,, which was fixed (taken
+The application of urea to soils releases CO<sub>2</sub> which was fixed (taken
 out of the atmosphere) during the manufacture of urea. If emissions
 reductions are included within an inventory on the basis of this
 manufacturing process, these are offset if urea is used on managed soils

@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - defra
 - car
@@ -17,19 +17,19 @@ tags:
 - lca
 - UK
 provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
 ivds:
   type: Type of vehicle
   fuel: Fuel used by vehicle
   vehicleClass: Vehicle class / market segment
-  massCO2PerDistance: Quantity of direct CO,,2,, emissions per unit distance
-  massCH4PerDistance: Quantity of direct CH,,4,, emissions per unit distance (CO,,2,,e)
-  massN2OPerDistance: Quantity of direct N,,2,,O emissions per unit distance (CO,,2,,e)
-  massDirectCO2ePerDistance: Quantity of direct greenhouse gas emissions per unit distance (CO,,2,,e)
-  massIndirectCO2ePerDistance: Quantity of indirect greenhouse gas emissions per unit distance (CO,,2,,e)
-  massTotalCO2ePerDistance: Total quantity of greenhouse gas emissions per unit distance (CO,,2,,e)
+  massCO2PerDistance: Quantity of direct CO<sub>2</sub> emissions per unit distance
+  massCH4PerDistance: Quantity of direct CH<sub>4</sub> emissions per unit distance (CO<sub>2</sub>e)
+  massN2OPerDistance: Quantity of direct N<sub>2</sub>O emissions per unit distance (CO<sub>2</sub>e)
+  massDirectCO2ePerDistance: Quantity of direct greenhouse gas emissions per unit distance (CO<sub>2</sub>e)
+  massIndirectCO2ePerDistance: Quantity of indirect greenhouse gas emissions per unit distance (CO<sub>2</sub>e)
+  massTotalCO2ePerDistance: Total quantity of greenhouse gas emissions per unit distance (CO<sub>2</sub>e)
   distance: Distance travelled
   occupancy: Vehicle occupancy
 wikiname: DEFRA_road_transport_methodology_by_vehicle_class
