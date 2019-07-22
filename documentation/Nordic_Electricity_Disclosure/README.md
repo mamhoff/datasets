@@ -1,6 +1,6 @@
 ## Summary
 
-The information and data provided here represents CO,,2,, emissions
+The information and data provided here represents CO<sub>2</sub> emissions
 associated with grid electricity use after taking into consideration the
 trading of GOs (Guarantees of Origin or Renewable Energy Guarantees of
 Origin - REGOs) and similar products, as well as national and
@@ -29,7 +29,7 @@ All EU Member States are required to establish and maintain a REGO or
 Guarantees of Origin (GO) scheme. As such, all suppliers of electricity
 are required to disclose their electricity portfolio with regard to
 energy source and environmental impact, specifying the emissions of
-CO,,2,, and the production of radioactive waste. The aim of Electricity
+CO<sub>2</sub> and the production of radioactive waste. The aim of Electricity
 Disclosure is to provide consumers with relevant information about power
 generation and to allow for informed consumer choice, not solely based
 on electricity prices alone but also on environmental requirements. The
@@ -99,7 +99,7 @@ the region.
 
 The Nordic Residual Mix for 2010 is calculated to consists of 43.8%
 fossil, 25.3% renewable and 30.9% nuclear with corresponding
-CO,,2,,-emissions of 320g CO,,2,,/kWh, based on RE-DISS data.
+CO<sub>2</sub>-emissions of 320g CO<sub>2</sub>/kWh, based on RE-DISS data.
 
 ## Additional information
 
@@ -115,4 +115,4 @@ The argument for calculating such a common Residual Mix is that the
 Residual Mix should be based on the same domain as the Nordic exchange
 domain (Nord Pool). The Nordic Residual Mix for 2010) consists of 43.8%
 fossil, 25.3% renewable and 30.9% nuclear with corresponding
-CO,,2,,-emissions of 320g CO,,2,,/kWh, based on RE-DISS data.
+CO<sub>2</sub>-emissions of 320g CO<sub>2</sub>/kWh, based on RE-DISS data.

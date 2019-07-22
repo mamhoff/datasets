@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - home
 - business
 - energy
@@ -13,13 +13,13 @@ tags:
 - UK
 - emission_factor
 provenance: "[[http://www.electricityinfo.org/supplierdataall.php?year=latest|www.electricityinfo.org]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   supplier: Energy supplier
   energyConsumption: Energy consumed
   kWhPerMonth: Energy consumed per month
-  kgCO2PerKWh: CO,,2,, emissions factor
-  source: 
+  kgCO2PerKWh: CO<sub>2</sub> emissions factor
+  source:
 wikiname: UK_energy_by_supplier

@@ -14,5 +14,5 @@ taxi. At present there is only one option for this - the generic "taxi".
 The ***distance***' and ***numberOfPassengers*** are then entered as
 profile item values.
 
-The algorithm returns a kg CO,,2,,e value, which includes CO,,2,,,
-N,,2,,O and CH,,4,, emissions.
+The algorithm returns a kg CO<sub>2</sub>e value, which includes CO<sub>2</sub>,
+N<sub>2</sub>O and CH<sub>4</sub> emissions.

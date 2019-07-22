@@ -2,7 +2,7 @@ The AMEE category business/processes/production/cement/ipcc/carbonate
 provides a methodology for calculating the emissions associated with
 cement production. The methodology uses specific quantities of various
 carbonate species - used as feedstock in the cement industry and the
-primary source of carbon - for calculating CO,,2,, emissions, and
+primary source of carbon - for calculating CO<sub>2</sub> emissions, and
 represents the *Tier 3* approach described by the IPCC Guidelines for
 National Greenhouse Gas Inventories
 ([NGGIP](http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html)).
@@ -13,7 +13,7 @@ mineral using the ***massCalcite*** (appropriate for both calcite and
 aragonite), ***massMagnesite***, ***massDolomite***, ***massSiderite***,
 ***massAnkerite***, ***massRhodochrosite***, and ***massSodaAsh***,
 profile item values. Any carbonate types not used need not be specified.
-The calculation returns the quantity of CO,,2,, emitted based on several
+The calculation returns the quantity of CO<sub>2</sub> emitted based on several
 assumptions:
 
   - each carbonate input achieved 100% calcination
@@ -45,13 +45,13 @@ calculation.
 
 Users can also specify other, non-carbonate, carbon-bearing inputs to
 the kiln if appropriate. In this case, the quantity, carbon fraction,
-and CO,,2,, emissions per quantity must all be specified by the user. To
+and CO<sub>2</sub> emissions per quantity must all be specified by the user. To
 specify these values, set the ***massOther***, ***carbonFraction*** and
 ***massCO2PerMassCarbon*** profile item values respectively. The
 emissions associated with this quantity of feedstock is added to those
 associated with carbonate materials. (note: material used for fuel are
 not to be included here).
 
-**General note**: the stoichiometric ratio for Ankerite =\> CO,,2,, has
+**General note**: the stoichiometric ratio for Ankerite =\> CO<sub>2</sub> has
 be taken as the midpoint (0.44197) of the range (0.40822 - 0.47572)
 specified in the IPCC documentation.

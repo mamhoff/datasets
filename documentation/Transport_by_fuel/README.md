@@ -28,7 +28,7 @@ contexts, e.g. 'agricultural equipment', 'passenger car', 'heavy goods
 vehicle'. Although the carbon intensity of a given fuel (i.e. the CO2
 emissions) remain similar across different contexts, variations in total
 greenhouse gas emissions vary, reflecting inter-context differences in
-the production of CH,,4,, and N,,2,,O. The category contains
+the production of CH<sub>4</sub> and N<sub>2</sub>O. The category contains
 functionality for calculating biofuel associated geenhouse gas emissions
 separately from those associated with fossil fuels.
 

@@ -7,5 +7,5 @@ the subcategories below.
 To use this category, specify the taxi type using *type* drill option
 (there currently exists only one choice here: 'typical'). Next, specify
 the distance travelled using the ***distance*** profile item value. The
-value returned represents the total CO,,2,, emissions associated with
+value returned represents the total CO<sub>2</sub> emissions associated with
 taxi transport across the distance specified.

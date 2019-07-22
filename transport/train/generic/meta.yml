@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - mobile
 - passenger
@@ -12,24 +12,24 @@ tags:
 - emission_factor
 - direct
 provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
-  country: 
-  kgCO2PerPassengerKmES: 
+ivds:
+  country:
+  kgCO2PerPassengerKmES:
   numberOfPassengers: Number of passengers under consideration
-  distancePerJourney: 
+  distancePerJourney:
   isReturn: Set "true" if return journey
-  distanceKmPerMonth: 
+  distanceKmPerMonth:
   type: Rail journey type
-  typicalJourneyDistance: 
-  kgCO2PerPassengerKmIE: CO,,2,, emissions factor in Ireland
-  kgCO2PerKmPassenger: CO,,2,, emissions factor
-  numberOfJourneys: 
+  typicalJourneyDistance:
+  kgCO2PerPassengerKmIE: CO<sub>2</sub> emissions factor in Ireland
+  kgCO2PerKmPassenger: CO<sub>2</sub> emissions factor
+  numberOfJourneys:
   useTypicalDistance: Set "true" to use typical distance
-  journeyFrequency: 
-  source: 
+  journeyFrequency:
+  source:
   distance: Distance travelled
 wikiname: Generic_train_transport
 usages:

@@ -2,7 +2,7 @@ The AMEE category at business/processes/production/hydrogen/consumption
 provides a methodology for calculating greenhouse gas emissions
 associated with the production of hydrogen. The methodology is based on
 a mass-balance approach taking into consideration the carbon content of
-process feedstocks and and carbon or CO,,2,, recovered for use in other
+process feedstocks and and carbon or CO<sub>2</sub> recovered for use in other
 processes. This methodology is sourced from the guidelines published in
 conjunction with the EPA's mandatory greenhouse gas reporting
 requirements, and follows approaches described by the IPCC Guidelines
@@ -33,18 +33,18 @@ specified using the ***feedstockCarbon*** profile item value. Users can
 additionally specify the fraction oxidation achieved for the feedstock
 is appropriate using the ***feedstockOxidation*** profile item value
 (decimal fraction, i.e. 0-1), although this defaults to 1 (i.e. 100%
-oxidation) if left unspecified. The returned value represents CO,,2,,
+oxidation) if left unspecified. The returned value represents CO<sub>2</sub>
 emissions associated with the consumption and properties of feedstock
 specified.
 
-## Carbon and CO,,2,, recovery
+## Carbon and CO<sub>2</sub> recovery
 
 User have two options for specifying quantities of recovered carbon
 which is diverted for use in other processes. These refer to recovered
-*carbon* as opposed to recovered *CO,,2,,*. In both cases, these are
+*carbon* as opposed to recovered *CO<sub>2</sub>*. In both cases, these are
 subtracted from the emissions associated with feedstock consumption. To
 specify a quantity of *carbon* recovered, set the ***carbonRecovered***
-profile item value. To specify a quantity of CO,,2,, recovered, set the
+profile item value. To specify a quantity of CO<sub>2</sub> recovered, set the
 ***CO2Recovered*** profile item value. Users should be careful to
 specify the appropriate value for recovered carbon, the two options
 differing by a factor of 3.5.

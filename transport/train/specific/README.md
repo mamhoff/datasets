@@ -24,6 +24,6 @@ simulations in the UK, Scandanavia and Japan. The calculation is based
 on energy consumption rates for various electric train types, with users
 specifying the distance travelled, percentage of the train occupied, and
 the number of passengers under consideration. Users can additionally
-specify the country, in which case the appropriate CO,,2,, emissions
+specify the country, in which case the appropriate CO<sub>2</sub> emissions
 factor for electricty generation is used to calculate emissions.
 Emissions are returned on a *per passenger* basis.

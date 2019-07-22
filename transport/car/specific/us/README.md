@@ -3,7 +3,7 @@ gas emissions associated with models of car used in the United States,
 sourced from [www.fueleconomy.gov](http://www.fueleconomy.gov).
 Calculations are made on the basis of vehicular fuel consumption data
 (i.e. *volume fuel per distance*) together with data on the carbon
-intensity of fuels (i.e. *mass CO,,2,, per volume*) sourced from the
+intensity of fuels (i.e. *mass CO<sub>2</sub> per volume*) sourced from the
 AMEE category [/home/energy/quantity](Energy_by_Quantity):
 
 -----
@@ -36,10 +36,10 @@ must specify their own fuel consumption factor in the
 being used. In any case, the chosen vehicle fuel consumption factor is
 used together with an appropriate fuel carbon intensity value
 (diesel/petrol, taken from the category
-[/home/energy/quantity](Energy_by_Quantity)) to calculcate the CO,,2,,
+[/home/energy/quantity](Energy_by_Quantity)) to calculcate the CO<sub>2</sub>
 emissions associated with model-specific car travel over the specified
 distance. By default the ***drivingType*** profile item value is set to
 '*combined*' and therefore if not otherwise set, the returned value
-represents CO,,2,, emissions for the vehicle and distance specified
+represents CO<sub>2</sub> emissions for the vehicle and distance specified
 using established fuel consumption data assuming a mix of both 'city'
 and 'highway' driving.

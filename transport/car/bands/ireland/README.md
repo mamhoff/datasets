@@ -1,4 +1,4 @@
-This category contains data on CO,,2,, emissions associated with cars
+This category contains data on CO<sub>2</sub> emissions associated with cars
 representative of particular car tax bands. The category currently
 contains data in a single subcategory providing emissions calculations
 for cars according to tax bands used in the Republic of Ireland.
@@ -55,7 +55,7 @@ indicative engine sizes:
 </table>
 
 Next, set the distance travelled using the ***distance*** profile item
-value. The returned value represents CO,,2,, emissions associated with
+value. The returned value represents CO<sub>2</sub> emissions associated with
 the distance specified.
 
 Each data item contains three values:

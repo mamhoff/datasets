@@ -13,8 +13,8 @@ down option, and specify the size using the *size* drill option.
 
 Next, specify the distance and mass of the freight transported by
 setting the ***distance*** and ***mass*** profile item values. The
-returned value represents the mass of CO,,2,, emitted in association
+returned value represents the mass of CO<sub>2</sub> emitted in association
 with the specified freighting. In the GHGP subcategories the returned
-value also incorporates CH,,4,, and N,,2,,O emissions, all expressed
-together as the mass of CO,,2,, which would provide an equivalent global
+value also incorporates CH<sub>4</sub> and N<sub>2</sub>O emissions, all expressed
+together as the mass of CO<sub>2</sub> which would provide an equivalent global
 warming effect.

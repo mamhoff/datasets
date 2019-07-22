@@ -1,12 +1,12 @@
 **Life cycle methodology, materials. Calculates embodied energy and
-carbon dioxide (CO,,2,,) and CO,,2,,e emissions based on the quantity of
+carbon dioxide (CO<sub>2</sub>) and CO<sub>2</sub>e emissions based on the quantity of
 materials used (by area). Scenarios include paint, carpet, photovoltaic
 cells and roads. Mixed geographical scopes.**
 
 ## Summary
 
 This methodology represents **embodied energy, carbon dioxide**
-(CO,,2,,) and **CO,,2,,e emissions** associated with the use of various
+(CO<sub>2</sub>) and **CO<sub>2</sub>e emissions** associated with the use of various
 **materials** as specified on the basis of **area** quantities. The data
 and calculation methodology is sourced from the [Inventory of Carbon &
 Energy (ICE), version 2.0](http://people.bath.ac.uk/cj219/) life cycle
@@ -19,7 +19,7 @@ dataset, produced in conjunction with the University of Bath.
 ### Emissions model
 
 The methodology is based on factors which describe the quantities of
-energy and CO,,2,, which are 'embodied' within unit quantities of
+energy and CO<sub>2</sub> which are 'embodied' within unit quantities of
 various materials. By multiplying a quantity of material - in this case,
 an **area** quantity - by these factors, an estimate of the embodied
 energy and emissions associated with that quantity can be calculated.
@@ -37,10 +37,10 @@ Each specific type of material is represented by up to three data
 values, representing:
 
   - *embodied energy per unit area* (MJ/m^^2^^)
-  - *embodied CO,,2,, per unit area* (kg/m^^2^^)
-  - *embodied CO,,2,,e per unit area* (kg/m^^2^^)
+  - *embodied CO<sub>2</sub> per unit area* (kg/m^^2^^)
+  - *embodied CO<sub>2</sub>e per unit area* (kg/m^^2^^)
 
-For some materials, unit CO,,2,,e emissions are not explicitly defined.
+For some materials, unit CO<sub>2</sub>e emissions are not explicitly defined.
 
 In addition, each material is described by a **life cycle analysis
 boundary**, indicating the stages in the material life cycle which are
@@ -57,8 +57,8 @@ available in order to calculate.
 
 Embodied energy and emissions are calculated by multiplying the
 specified quantity of material used by the available factors. Up to
-three values are returned representing the embodied energy, and CO,,2,,
-or CO,,2,,e emissions attributable to the specified quantity.
+three values are returned representing the embodied energy, and CO<sub>2</sub>
+or CO<sub>2</sub>e emissions attributable to the specified quantity.
 
 -----
 
@@ -73,7 +73,7 @@ of the ICE database.
 In addition, there exist several methodologies which provide data and
 calculations specific to particular types of materials, for example
 [concrete](ICE_v2_concrete), [timber](ICE_v2_timber) (including biogenic
-CO,,2,, emissions) and [windows](ICE_v2_windows).
+CO<sub>2</sub> emissions) and [windows](ICE_v2_windows).
 
 Details of the [sources of data](ICE_v2_references) for the ICE database
 are also available.

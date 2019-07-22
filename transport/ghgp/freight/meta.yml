@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - GHGP
 - global
@@ -26,14 +26,14 @@ gallery: |-
   <%= chart :dependent => 'massCO2PerMassDistance' %>
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   type: Type of freight transport
   subtype: Subtype of freight transport
   size: Size of freighting vehicle
   region: Geographic region
-  massCO2PerMassDistance: Quantity of CO,,2,, per units distance and mass freighted
-  massCH4PerMassDistance: Quantity of CH,,4,, per units distance and mass freighted
-  massN2OPerMassDistance: Quantity of N,,2,,O per units distance and mass freighted
+  massCO2PerMassDistance: Quantity of CO<sub>2</sub> per units distance and mass freighted
+  massCH4PerMassDistance: Quantity of CH<sub>4</sub> per units distance and mass freighted
+  massN2OPerMassDistance: Quantity of N<sub>2</sub>O per units distance and mass freighted
   distance: Distance freighted
   mass: Quantity freighted
 wikiname: Freight_transport_by_Greenhouse_Gas_Protocol

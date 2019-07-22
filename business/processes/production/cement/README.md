@@ -1,4 +1,4 @@
-AMEE provides two methodologies for calculating CO,,2,, emissions
+AMEE provides two methodologies for calculating CO<sub>2</sub> emissions
 associated with the production of cement sourced from the WRI Greenhouse
 Gas protocol
 [worksheets](http://www.ghgprotocol.org/calculation-tools/all-tools).

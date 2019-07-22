@@ -17,7 +17,7 @@ and emissions may differ slightly in other jurisdictions.
 
 The 'limestone use' option refers to usage of limestone in Flue Gas
 Desulphurisation (FGD) and processes such as those in the glass
-industry. Not all uses of limestone release CO,,2,,.
+industry. Not all uses of limestone release CO<sub>2</sub>.
 
 ### Fletton brick manufacture
 

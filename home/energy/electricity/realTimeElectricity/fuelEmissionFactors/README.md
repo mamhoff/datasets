@@ -1,8 +1,8 @@
-This category contains CO,,2,, emissions factors for each electricity
+This category contains CO<sub>2</sub> emissions factors for each electricity
 generation method used to supply grid electricity. It is a look-up
 category and so profile items should not be created inside it.
 
-The ***kgCO2PerKWh*** figures give the CO,,2,, emitted per kWh
+The ***kgCO2PerKWh*** figures give the CO<sub>2</sub> emitted per kWh
 generated. This does not necessarily equal the amount supplied to the
 grid because some energy is used inside generation facilities. The
 ***generatedToSuppliedGrossFactor*** is the fraction of the generated

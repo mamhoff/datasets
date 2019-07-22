@@ -1,11 +1,11 @@
-This methodology contains energy consumption and CO,,2,, emissions data
+This methodology contains energy consumption and CO<sub>2</sub> emissions data
 associated with several generic types and ranges of screen sizes of
 television.
 
 To use this methodology, select the television type and screen size
 using the ***type*** and ***size*** drill choices. Next set the number
 of hours for which the television is on, using the ***hoursOn***
-parameter. The returned value represents CO,,2,, emissions associated
+parameter. The returned value represents CO<sub>2</sub> emissions associated
 with the specified television usage.
 
 By default, emissions are calculated on the basis on the emissions

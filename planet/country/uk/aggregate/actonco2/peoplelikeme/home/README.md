@@ -1,5 +1,5 @@
 This category contains typical data for heating- and lighting-based
-CO,,2,, emissions according to home age, size, obtained by averaging
+CO<sub>2</sub> emissions according to home age, size, obtained by averaging
 across over a million profiles collected in ActOnCO2 v1.
 
 In ActOnCO2 v2 these values are used in the ''People like you'' section

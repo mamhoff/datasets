@@ -13,7 +13,7 @@ The methodology provided by AMEE in this category represents the *Tier
 1* (default values) approach described by the IPCC Guidelines for
 National Greenhouse Gas Inventories
 ([NGGIP](http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html)).
-This is the simplest methodology for estimating CO,,2,, emissions from
+This is the simplest methodology for estimating CO<sub>2</sub> emissions from
 ferroalloy production, using a generic emission factor for each
 ferroalloy type related to the quantity of ferroalloy produced.
 

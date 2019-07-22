@@ -1,10 +1,10 @@
 **Fugitive emissions methodology, abandoned underground mines.
-Calculates methane (CH,,4,,) emissions based on the time since mine
+Calculates methane (CH<sub>4</sub>) emissions based on the time since mine
 abandonment. Globally applicable.**
 
 ## Summary
 
-This methodology represents **methane** (CH,,4,,) emissions associated
+This methodology represents **methane** (CH<sub>4</sub>) emissions associated
 with **abandoned, underground coal mines**. The data and calculation
 methodology are sourced from the [IPCC](IPCC), as published in
 *[Volume 2, Chapter 4 - Fugitive
@@ -24,26 +24,26 @@ portals, vent pipes, or cracks and fissures in the overlying strata.
 Abandoned mines may flood as a result of groundwater intrusion or
 surface flow, in which case emissions from *completely* flooded
 abandoned mines can be treated as negligible. Non-flooded or
-partially-flooded mines can continue to produce methane (CH,,4,,)
+partially-flooded mines can continue to produce methane (CH<sub>4</sub>)
 emissions over a long period of time.
 
-This methodology calculates the **annual** fugitive CH,,4,, emissions
+This methodology calculates the **annual** fugitive CH<sub>4</sub> emissions
 from abandoned mines, and is specifically applicable to mines considered
 to be 'gassy' during the period in which they were active. The
 methodology represents the IPCC *tier 1* approach.
 
 Emissions are calculated on the basis of generic emissions factors which
-describe the typical annual quantity of CH,,4,, emitted by a single
+describe the typical annual quantity of CH<sub>4</sub> emitted by a single
 mine. Multiplying these emissions factors by the number of mines under
-consideration provides an estimate of total annual CH,,4,, emissions.
+consideration provides an estimate of total annual CH<sub>4</sub> emissions.
 
-Also factored in to calculations is the quantity of CH,,4,, which is
+Also factored in to calculations is the quantity of CH<sub>4</sub> which is
 recovered during the annual period under consideration.
 
 ### Model data
 
-The extent to which CH,,4,, is released from an abandoned mine depends
-on the duration of time since abandonment. CH,,4,, emissions are at
+The extent to which CH<sub>4</sub> is released from an abandoned mine depends
+on the duration of time since abandonment. CH<sub>4</sub> emissions are at
 their greatest immediately subsequent to abandonment and decrease
 through time thereafter.
 
@@ -51,7 +51,7 @@ Under this methodology, specific emissions factors are provided for each
 of the calendar years 1990-2016. These calendar years represent the year
 for which emissions are under consideration and is called the 'inventory
 year'. Each inventory year is represented by five emissions factors
-which describe the quantity of CH,,4,, emitted during that calendar year
+which describe the quantity of CH<sub>4</sub> emitted during that calendar year
 by mines abandoned during each of the following historical time periods:
 
   - *1901-1925*
@@ -73,9 +73,9 @@ by mines abandoned during each of the following historical time periods:
   - *2001-present*
 
 Also used for calculating emissions is the *global warming potential of
-CH,,4,,* which enables the conversion of absolute CH,,4,, emissions into
-a [CO,,2,,e](Greenhouse_gases_Global_warming_potentials) quantity - i.e.
-the quantity of CO,,2,, which would exert the same atmospheric warming
+CH<sub>4</sub>* which enables the conversion of absolute CH<sub>4</sub> emissions into
+a [CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials) quantity - i.e.
+the quantity of CO<sub>2</sub> which would exert the same atmospheric warming
 effect
 
 ### Activity data required
@@ -90,15 +90,15 @@ optionally provided.
 
 ### Calculation and results
 
-CH,,4,, emissions for each of the five historical time periods are
+CH<sub>4</sub> emissions for each of the five historical time periods are
 calculated according to the specified number of mines and the respective
-emissions factor. From the total CH,,4,, emissions calculated, any
-CH,,4,, recovered during the inventory year is then subtracted.
+emissions factor. From the total CH<sub>4</sub> emissions calculated, any
+CH<sub>4</sub> recovered during the inventory year is then subtracted.
 
 Two emissions quantities are ultimately provided, representing:
-**CH,,4,,** and **CO,,2,,e** emissions. All emissions calculated by this
+**CH<sub>4</sub>** and **CO<sub>2</sub>e** emissions. All emissions calculated by this
 methodology represent those attributable to the abandoned mines for the
-annual period under consideration, minus any CH,,4,, which is recovered
+annual period under consideration, minus any CH<sub>4</sub> which is recovered
 during that time.
 
 -----

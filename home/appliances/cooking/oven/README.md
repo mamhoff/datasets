@@ -1,4 +1,4 @@
-This methodology contains energy consumption and CO,,2,, emissions data
+This methodology contains energy consumption and CO<sub>2</sub> emissions data
 associated with the use of domestic ovens. It is based on a hybrid model
 drawing on data from both the [MTP](MTP) dataset and the
 [BREDEM](http://www.bre.co.uk) model. It uses the former for the typical

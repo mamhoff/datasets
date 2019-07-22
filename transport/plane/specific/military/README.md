@@ -1,5 +1,5 @@
 The AMEE category transport/plane/specific/military contains data on the
-fuel consumption and CO,,2,, emissions of several aircraft types
+fuel consumption and CO<sub>2</sub> emissions of several aircraft types
 associated with the military, sourced from the [EMEP/CORINAIR Emission
 Inventory Guidebook
 (2007)](http://www.eea.europa.eu/publications/EMEPCORINAIR5/page017.html).
@@ -7,7 +7,7 @@ Inventory Guidebook
 To use this category select the aircraft *type* and *subtype* using
 drill downs and set the flying duration by using the
 ***flightDuration*** profile item value. The returned value represents
-CO,,2,, emissions for the total flight time.
+CO<sub>2</sub> emissions for the total flight time.
 
 The specific aircraft on which each profile item is based is described
 in the *representativeAircraft* data item.

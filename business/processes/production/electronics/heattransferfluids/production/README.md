@@ -10,7 +10,7 @@ National Greenhouse Gas Inventories
 The methodology is based on a default emissions factor which represents
 the aggregate emissions per unit of silicon consumed. This factor is
 derived from a weighted average across all liquid fluorinated compounds
-typically used, expressed in terms of a C,,6,,F,,14,,. Emissions are
+typically used, expressed in terms of a C<sub>6</sub>F<sub>14</sub>. Emissions are
 calculated from the quantity of semiconductor substrate produced.
 
 -----
@@ -33,7 +33,7 @@ of substrate processes, and the annual capacity *utilisation* using the
 The quantity returned represents the emissions assocaited with the
 specified quantities. Two quantities are returned, as follows:
 
-  - ***C6F14***: C,,6,,F,,14,, emissions
-  - ***CO2e***: CO,,2,,e emissions (C,,6,,F,,14,, emissions converted
+  - ***C6F14***: C<sub>6</sub>F<sub>14</sub> emissions
+  - ***CO2e***: CO<sub>2</sub>e emissions (C<sub>6</sub>F<sub>14</sub> emissions converted
     using the appropriate [global warming
     potential](Greenhouse_gases_Global_warming_potentials))

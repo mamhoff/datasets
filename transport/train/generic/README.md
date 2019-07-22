@@ -1,9 +1,9 @@
-This category contains data on the per passenger CO,,2,, emissions
+This category contains data on the per passenger CO<sub>2</sub> emissions
 associated with train travel in the UK, Republic of Ireland and Spain.
-This category provides CO,,2,, emissions only and should be considered
+This category provides CO<sub>2</sub> emissions only and should be considered
 to represent a useful first point of entry to train-related emissions.
 If users are interested in more specific and comprehensive per-passenger
-datasets (which include CO,,2,, as well as CH,,4,, and N,,2,,O
+datasets (which include CO<sub>2</sub> as well as CH<sub>4</sub> and N<sub>2</sub>O
 emissions) or train-based freighting, they should see the following
 categories:
 
@@ -54,7 +54,7 @@ profile metadata.
 To calculate emissions based on single journey distance, simply set the
 distance using the ***distance*** parameter. Users can additionally set
 a multiple number of passengers by setting the ***numberOfPassengers***
-parameter. The value returned represents CO,,2,, emissions attributable
+parameter. The value returned represents CO<sub>2</sub> emissions attributable
 to all nominated passengers for the distance travelled.
 
 ## Calculating by multiple journeys
@@ -90,4 +90,4 @@ Users can optionally declare the stated journey frequency to represent
 in which case the total number of journeys are doubled. Additionally, a
 multiple number of passengers can be included by setting the
 ***numberOfPassengers*** parameter. The value returned represents
-CO,,2,, emissions attributable to all nominated passengers per year.
+CO<sub>2</sub> emissions attributable to all nominated passengers per year.

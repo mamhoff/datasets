@@ -17,7 +17,7 @@ specific jet, turboprop and military aircraft types. The data and
 calculation methodology are sourced from the [EMEP/CORINAIR Emission
 Inventory Guidebook
 (2007)](http://www.eea.europa.eu/publications/EMEPCORINAIR5/page017.html)
-and provides a calculation of CO,,2,, emissions on a *per aircraft*
+and provides a calculation of CO<sub>2</sub> emissions on a *per aircraft*
 basis, dependent on flight distance.
 
 Users may specify flight **distances** in several ways (including
@@ -37,7 +37,7 @@ CO2 per km per passenger*), with users able to specify flight
 destination airports or by using 'typical' *domestic*, *short-* and
 *long-haul* distances of 463 km, 1108 km, 6482 km respectively.
 
-In addition, distinct CO,,2,,, CH,,4,, and N,,2,,O emissions factors for
+In addition, distinct CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O emissions factors for
 each **passenger class** (economy, economy plus, business and first) are
 provided, and users may incorporate a **radiative forcing** weighting to
 emissions calculations if required.

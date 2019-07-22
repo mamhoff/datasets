@@ -33,7 +33,7 @@ Algorithms describe how data items and profile items in a category are
 used together to produce an emissions calculation.
 
 Most algorithms involve multiplying a user supplied value, e.g. km
-travelled, by a data item value, e.g. kgCO,,2,, per km. However, some
+travelled, by a data item value, e.g. kgCO<sub>2</sub> per km. However, some
 algorithms are more complex and can reference other data items.
 
 ### Categories
@@ -127,7 +127,7 @@ A profile item is always based on a particular data item. A profile item
 contains information on a particular aspect of usage or ownership which
 can be **stored** and used to **calculate** the associated greenhouse
 gas emissions. Once a profile item is created in this way, you can
-retrieve the kg CO,,2,, (or CO,,2,,e) value at any time in the future.
+retrieve the kg CO<sub>2</sub> (or CO<sub>2</sub>e) value at any time in the future.
 You can also retrieve the choices and values stored in the profile item
 - which represent a **record of consumption** - so you can display this
 information to your user when they return to the page at some time in

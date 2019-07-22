@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - cement
 - carbonate
 - IPCC
@@ -16,17 +16,17 @@ tags:
 - mass_balance
 - global
 provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_2_Ch2_Mineral_Industry.pdf|IPCC-NGGIP]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   fractionRhodochrosite: Calcination fraction acheived for rhodochrosite
   massSodaAsh: Quantity of soda ash consumed
   fractionCementKilnDust: Fraction calcination aceived for cement kiln dust
   fractionDolomite: Calcination fraction acheived for dolomite
   fractionSiderite: Calcination fraction acheived for siderite
   fractionMagnesite: Calcination fraction acheived for magnesite
-  massCO2PerMassCarbon: CO,,2,, emissions per quantity of carbon from other inputs
+  massCO2PerMassCarbon: CO<sub>2</sub> emissions per quantity of carbon from other inputs
   massRhodochrosite: Quantity of rhodochrosite consumed
   massAnkerite: Quantity of ankerite consumed
   carbonFraction: Carbon fraction of other inputs
@@ -36,7 +36,7 @@ ivds:
   massSiderite: Quantity of siderite consumed
   massDolomite: Quantity of dolomite consumed
   massCalcite: Quantity of calcite and/or aragonite (limestone) consumed
-  source: 
+  source:
   fractionSodaAsh: Calcination fraction acheived for soda ash
   massMagnesite: Quantity of magnestie consumed
   massCementKilnDust: Quantity of cement kiln dust not recycled to kiln
@@ -50,4 +50,4 @@ usages:
   byAnkerite : { massCalcite : optional, massMagnesite : optional, massDolomite : optional, massSiderite : optional, massRhodochrosite : optional, massSodaAsh : optional, fractionCalcite : optional, fractionMagnesite : optional, fractionDolomite : optional, fractionSiderite : optional, fractionAnkerite : optional, fractionRhodochrosite : optional, fractionSodaAsh : optional, massCementKilnDust : optional, fractionCementKilnDust : optional, massOther : optional, carbonFraction : optional, massCO2PerMassCarbon : optional }
   byRhodochrosite : { massCalcite : optional, massMagnesite : optional, massDolomite : optional, massSiderite : optional, massAnkerite : optional, massSodaAsh : optional, fractionCalcite : optional, fractionMagnesite : optional, fractionDolomite : optional, fractionSiderite : optional, fractionAnkerite : optional, fractionRhodochrosite : optional, fractionSodaAsh : optional, massCementKilnDust : optional, fractionCementKilnDust : optional, massOther : optional, carbonFraction : optional, massCO2PerMassCarbon : optional }
   bySodaAsh : { massCalcite : optional, massMagnesite : optional, massDolomite : optional, massSiderite : optional, massAnkerite : optional, massRhodochrosite : optional, fractionCalcite : optional, fractionMagnesite : optional, fractionDolomite : optional, fractionSiderite : optional, fractionAnkerite : optional, fractionRhodochrosite : optional, fractionSodaAsh : optional, massCementKilnDust : optional, fractionCementKilnDust : optional, massOther : optional, carbonFraction : optional, massCO2PerMassCarbon : optional }
-  order : [ byCalcite, byMagnesite, byDolomite, bySiderite, byAnkerite, byRhodochrosite, bySodaAsh ] 
+  order : [ byCalcite, byMagnesite, byDolomite, bySiderite, byAnkerite, byRhodochrosite, bySodaAsh ]

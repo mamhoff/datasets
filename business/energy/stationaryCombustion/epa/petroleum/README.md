@@ -9,7 +9,7 @@ To use this category, select the type of petroleum product using the
 consumed using either the ***energyConsumed*** or ***volume*** profile
 item values.
 
-Emissions of CH,,4,, and N,,2,,O vary according to the specific burning
+Emissions of CH<sub>4</sub> and N<sub>2</sub>O vary according to the specific burning
 context under consideration. Users can specify the burning context using
 the ***burningContext*** profile item value with one of the following
 valid parameters;
@@ -21,20 +21,20 @@ valid parameters;
 
 If no burning context is explicitly specified the *industry* context is
 assumed by default. AMEE retrieves the appropriate emissions factors
-from the [associated EPA dataset for CH,,4,, and N,,2,,O
+from the [associated EPA dataset for CH<sub>4</sub> and N<sub>2</sub>O
 emissions](CH4_and_N20_emissions_from_stationary_combustion).
 
 Four quantities are returned, as follows:
 
-  - ***CO2***: CO,,2,, emissions
-  - ***CH4***: CH,,4,, (methane) emissions
-  - ***N2O***: N,,2,,O (nitrous oxide) emissions
-  - ***CO2e***: CO,,2,,e emissions (all three gases, converted using
+  - ***CO2***: CO<sub>2</sub> emissions
+  - ***CH4***: CH<sub>4</sub> (methane) emissions
+  - ***N2O***: N<sub>2</sub>O (nitrous oxide) emissions
+  - ***CO2e***: CO<sub>2</sub>e emissions (all three gases, converted using
     [these](Greenhouse_gases_Global_warming_potentials) global warming
     potential)
 
-The individual quantities for CH,,4,, and N,,2,,O represent *absolute
-quantities* rather than CO,,2,,e quantities.
+The individual quantities for CH<sub>4</sub> and N<sub>2</sub>O represent *absolute
+quantities* rather than CO<sub>2</sub>e quantities.
 
 See [here](British_thermal_units) for information on using British
 thermal units (Btu's) with the AMEE platform.

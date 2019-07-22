@@ -33,5 +33,5 @@ CO2e emission factor = CO2EF + N2OEF + CH4EF
 
 CO2e emissions = CO2e emission factor \* distance \* mass
 
-The result is equivalent CO,,2,, emissions, which includes contributions
+The result is equivalent CO<sub>2</sub> emissions, which includes contributions
 from carbon dioxide, nitrous oxide and methane emissions.

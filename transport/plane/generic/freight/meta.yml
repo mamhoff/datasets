@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - deprecated
 - transport
 - mobile
@@ -9,13 +9,13 @@ tags:
 - heavy_goods
 - GHGP
 provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
-gallery: 
+gallery:
 show: "0"
 authority: enterprise
-ivds: 
+ivds:
   mass: Mass of freight transported
   type: Type (distance) of flight
-  CO2: CO,,2,, emissions factor
-  source: 
+  CO2: CO<sub>2</sub> emissions factor
+  source:
   distance: Distance freight transported
 wikiname: Plane_freighting

@@ -1,7 +1,7 @@
 **This category is now deprecated. The same functionality can be found
 by using [this category](Generic_lighting)**
 
-This category contains data for calculating CO,,2,, emissions associated
+This category contains data for calculating CO<sub>2</sub> emissions associated
 with indoor lighting. There are two entries: one is for a typical
 **tungsten-filament** light bulb and the other is for a typical **low
 energy** light bulb.
@@ -12,5 +12,5 @@ bulbs, set this quantity using the ***noOfLightBulbs*** profile item
 value. For lower-energy light bulbs, use the
 ***noOfLowEnergyLightBulbs*** profile item value.
 
-The returned amount represents CO,,2,, emissions associated with typical
+The returned amount represents CO<sub>2</sub> emissions associated with typical
 usage of the specified quantity of bulbs.

@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - deprecated
 - home
 - business
@@ -13,12 +13,12 @@ tags:
 - lca
 - UK
 provenance: "[[http://www.water.org.uk/home/news/press-releases/sustainability-indicators-2008-09/sustainability-2009.pdf|Water UK]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   kWhPerLitre: Per volume electricity consumption factor
-  kgCO2PerLitre: Per volume CO,,2,, emissions factor
+  kgCO2PerLitre: Per volume CO<sub>2</sub> emissions factor
   litresPerMonth: Water consumption per month
   type: Type of water usage
   volumePerTime: Water consumption

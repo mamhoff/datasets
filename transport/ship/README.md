@@ -13,7 +13,7 @@ distance-based, *per passenger* emissions factors, requiring the user to
 specify the distance travelled. Users may calculate according to single
 'one-off' journeys, or by repeated journeys, and ppecific options relate
 to walk-on and car-associated ferry travel. This category returns
-CO,,2,, emissions only and should be considered as a useful first entry
+CO<sub>2</sub> emissions only and should be considered as a useful first entry
 point for ship-related transport.
 
 ## Generic ship transport by DEFRA
@@ -24,7 +24,7 @@ UK government agency
 [DEFRA](http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm).
 The methodology uses distance-based, *per passenger* emissions factors,
 requiring the user to specify the distance travelled and returns
-CO,,2,,, CH,,4,, and N,,2,,O emissions related to walk-on or
+CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O emissions related to walk-on or
 car-associated ferry travel.
 
 ## Ship freighting

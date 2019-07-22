@@ -21,7 +21,7 @@ or lorry).
 
 Emissions - expressed in terms of mass (e.g. *kg*) - are calculated by
 multiplying these rates (*mass emitted per mass per distance*; e.g. *kg
-CO,,2,, per tonne km*) by a distance (e.g *km*) and quantity (e.g.
+CO<sub>2</sub> per tonne km*) by a distance (e.g *km*) and quantity (e.g.
 *tonne*) freighted.
 
 ### Model data
@@ -48,21 +48,21 @@ Each freight transport type is represented by six distinct emissions
 factors which differentiate greenhouse gas emissions into the following
 types:
 
-  - *direct* CO,,2,, emissions: carbon dioxide emissions produced
+  - *direct* CO<sub>2</sub> emissions: carbon dioxide emissions produced
     *during* freighting, i.e. fuel combustion
-  - *direct* CH,,4,, emissions: methane emissions produced *during*
+  - *direct* CH<sub>4</sub> emissions: methane emissions produced *during*
     freighting, i.e. fuel combustion
-  - *direct* N,,2,,O emissions: nitrous oxide emissions produced
+  - *direct* N<sub>2</sub>O emissions: nitrous oxide emissions produced
     *during* freighting, i.e. fuel combustion
-  - *total direct* emissions: all direct emissions, i.e. CO,,2,, +
-    CH,,4,, + N,,2,,O
+  - *total direct* emissions: all direct emissions, i.e. CO<sub>2</sub> +
+    CH<sub>4</sub> + N<sub>2</sub>O
   - *indirect* emissions: emissions associated with stages in the fuel
     production chain such as raw material extraction and fuel delivery
   - *total* or '*life cycle*': the total of direct and indirect
     emissions
 
 Each of these emissions factors are expressed in terms of kg
-[CO,,2,,e](Greenhouse_gases_Global_warming_potentials) per tonne km.
+[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials) per tonne km.
 
 ### Activity data required
 
@@ -80,11 +80,11 @@ the emissions attributable to the entire vehicle(s) on which it was
 transported).
 
 The methodology calculates several emissions quantities including
-**direct CO,,2,,**, **CH,,4,,**, **N,,2,,O** as well as **indirect** and
+**direct CO<sub>2</sub>**, **CH<sub>4</sub>**, **N<sub>2</sub>O** as well as **indirect** and
 total **life cycle** emissions. All quantities in this methodology are
 expressed in terms of
-**[CO,,2,,e](Greenhouse_gases_Global_warming_potentials)** - the
-quantity of CO,,2,, which would exert the same atmospheric warming
+**[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials)** - the
+quantity of CO<sub>2</sub> which would exert the same atmospheric warming
 effect and the emissions quantity.
 
 -----

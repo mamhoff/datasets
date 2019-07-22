@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - electricity
 - GHGP
 - US
@@ -21,18 +21,18 @@ gallery: |-
   <img src="http://www.epa.gov/cleanenergy/images/eGRID_NERC.gif"/>
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   subregion: The subregion in which the electricity was consumed
   energyPerTime: The quantity of energy consumed per unit time
-  massCH4PerEnergy: "CH,,4,, emissions intensity"
+  massCH4PerEnergy: "CH<sub>4</sub> emissions intensity"
   totalArea: Total area of facility
-  massN2OPerEnergy: "N,,2,,O emissions intensity"
+  massN2OPerEnergy: "N<sub>2</sub>O emissions intensity"
   responsibleArea: Area under consideration
-  source: 
-  massCO2PerEnergy: "CO,,2,, emissions intensity"
+  source:
+  massCO2PerEnergy: "CO<sub>2</sub> emissions intensity"
 wikiname: US_Subregion_Electricity
 name: "Greenhouse Gas Protocol methodology for US grid electricity"
 usages:
   totalEmissions : { totalArea : forbidden, responsibleArea : forbidden }
   byResponsibleArea : { totalArea : compulsory, responsibleArea : compulsory }
-  order : [ totalEmissions, byResponsibleArea ] 
+  order : [ totalEmissions, byResponsibleArea ]

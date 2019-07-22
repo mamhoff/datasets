@@ -11,7 +11,7 @@ emissions by 2050 by at least 80 percent compared to the 1990 baseline.
 
 Under this scheme, organisations which use at least one Half Hourly
 electricity meter and greater than 6,000 MWh of electricity per year are
-required to report on the CO,,2,, emissions associated with their total
+required to report on the CO<sub>2</sub> emissions associated with their total
 energy consumption (electricity + other energy sources) except that
 associated with transport or onward supply.
 
@@ -20,7 +20,7 @@ sector. Organizations that meet the qualification criteria (based
 electricity consumption in 2008), will be obliged to participate in CRC.
 Participating organizations will have to monitor their emissions and
 purchase allowances, initially sold by Government, for each tonne of
-CO,,2,, they emit. This provides a direct incentive for organizations to
+CO<sub>2</sub> they emit. This provides a direct incentive for organizations to
 reduce their emissions.
 
 In June 2011, the UK government published tentative proposals for

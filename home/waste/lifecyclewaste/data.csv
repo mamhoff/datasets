@@ -15,6 +15,6 @@
 "glass","525","840","-315","0","5",,,"10",,"http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm"
 "other waste","2860","2860","-259",,"97","-13","7","81",,"http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm"
 "batteries",,,-490,,75,75,75,75,,"http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm"
-"small waste electrical and electronic equipment",,,-580,,,,,470,,"http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm"
-"large waste electrical and electronic equipment",,,-710,,,,,540,,"http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm"
+"small waste electrical and electronic equipment",,,-580,,,<sub>470</sub>"http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm"
+"large waste electrical and electronic equipment",,,-710,,,<sub>540</sub>"http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm"
 "tyres",510,3410,-2900,-20,-1500,,,,,"http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm"

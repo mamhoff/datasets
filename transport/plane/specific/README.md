@@ -4,7 +4,7 @@ specific jet, turboprop and military aircraft types. The data and
 calculation methodology are sourced from the [EMEP/CORINAIR Emission
 Inventory Guidebook
 (2007)](http://www.eea.europa.eu/publications/EMEPCORINAIR5/page017.html)
-and provides a calculation of CO,,2,, emissions on a *per aircraft*
+and provides a calculation of CO<sub>2</sub> emissions on a *per aircraft*
 basis, dependent on flight distance.
 
 ## The CORINAIR dataset
@@ -29,28 +29,28 @@ datapoints in order to estimate the specific quantity of fuel burned for
 a given flight distance.
 
 According to CORINAIR methodology, this fuel consumption is converted
-into CO,,2,, emissions by using a CO,,2,, emissions factor of 3.15 (kg
-CO,,2,, per kg fuel). This value corresponds to the CO,,2,, emissions
+into CO<sub>2</sub> emissions by using a CO<sub>2</sub> emissions factor of 3.15 (kg
+CO<sub>2</sub> per kg fuel). This value corresponds to the CO<sub>2</sub> emissions
 factor for 'jet fuel' specified by the IPCC (1999). This data and
-methodology therefore provides a calculation of CO,,2,, emissions on a
+methodology therefore provides a calculation of CO<sub>2</sub> emissions on a
 *per aircraft* basis, as a function of flight distance.
 
 ## Radiative Forcing
 
 Uncertainty over the environmental impact of aircraft emissions arises
 from the complexity of atmospheric chemistry, particularly in relation
-to the emission of non-CO,,2,, products (e.g. water vapour, contrails,
+to the emission of non-CO<sub>2</sub> products (e.g. water vapour, contrails,
 NO,,x,,) at high altitudes, which is argued to exert a greater global
 warming effect compared with similar emissions at ground level. These
 effects can be accounted for by using a multiplicative factor called the
 Radiative Forcing Index (RFI), which represents the ratio of all
-radiative forcing (CO,,2,, + non-CO,,2,, emissions) to that arising from
-CO,,2,, emissions only. Estimates for RFI range between 1 and 4 with a
+radiative forcing (CO<sub>2</sub> + non-CO<sub>2</sub> emissions) to that arising from
+CO<sub>2</sub> emissions only. Estimates for RFI range between 1 and 4 with a
 value of 2.7 recommended by the IPCC in 1999. No specific recommended
 value was quoted in the most recent IPCC report (2007), and the current
 best estimate for RFI is 1.9 ([Sausen et al.
 (2005)](http://www.ingentaconnect.com/content/schweiz/mz/2005/00000014/00000004/art00013)).
-Following the CORINAIR methodology, AMEE returns values for CO,,2,,
+Following the CORINAIR methodology, AMEE returns values for CO<sub>2</sub>
 emissions only - i.e. with no RFI applied. Users can elect to
 incorporate the RFI in their calculations however - see specific
 categories for further details.

@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - passenger
 - mobile
@@ -12,23 +12,23 @@ tags:
 - emission_factor
 - direct
 provenance: http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   country: Country in which journey occurred
   numberOfPassengers: Number of passengers under consideration
-  distancePerJourney: 
+  distancePerJourney:
   isReturn: Set "true" if return journey
   type: Taxi type
   distanceKmPerMonth: Distance travelled per month
-  typicalJourneyDistance: 
-  kgCO2PerPassengerKmIE: CO,,2,, emissions factor in Ireland
-  kgCO2PerKmPassenger: CO,,2,, emissions factor
+  typicalJourneyDistance:
+  kgCO2PerPassengerKmIE: CO<sub>2</sub> emissions factor in Ireland
+  kgCO2PerKmPassenger: CO<sub>2</sub> emissions factor
   useTypicalDistance: Set "true" to use typical distance for taxi type
-  journeyFrequency: 
-  numberOfJourneys: 
-  source: 
+  journeyFrequency:
+  numberOfJourneys:
+  source:
   distance: Distance travelled
 wikiname: Per_passenger_taxi_transport
 usages:

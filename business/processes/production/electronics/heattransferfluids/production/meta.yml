@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - electronics
 - heat_transfer_fluids
 - IPCC
@@ -18,16 +18,15 @@ tags:
 - EPA_mandatory
 - EPA_mandatory_electronics
 provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf|IPCC-NGGIP]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   type: Type of process
   capacity: Production capacity
-  source: 
+  source:
   fractionCapacityUtilised: Fraction of production capacity utilised
-  massC6F14PerArea: C,,6,,F,,14,, emissions per quantity of substrate produced
+  massC6F14PerArea: C<sub>6</sub>F<sub>14</sub> emissions per quantity of substrate produced
 wikiname: Heat_transfer_fluids_production_methodology
 usages:
   default: {capacity : compulsory, fractionCapacityUtilised : compulsory }
-

@@ -35,7 +35,7 @@ is available.
 The AMEE category
 [business/processes/production/cement/ipcc/carbonate](IPCC_cement_production_based_on_carbonate_inputs)
 provides a methodology using specific quantities of various carbonate
-species - the primary source of carbon - for calculating CO,,2,,
+species - the primary source of carbon - for calculating CO<sub>2</sub>
 emissions, and represents the *Tier 3* approach described by the IPCC
 Guidelines for National Greenhouse Gas Inventories
 ([NGGIP](http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html)).

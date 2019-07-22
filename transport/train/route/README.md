@@ -62,9 +62,9 @@ specifying the ***occupancy*** profile item value.
 
 ### Calculation and result
 
-The returned quantities for this methodology represent CO,,2,, emissions
+The returned quantities for this methodology represent CO<sub>2</sub> emissions
 associated with the journey specified. The following discrete
 **amounts** are returned:
 
-  - ***CO2***: CO,,2,, emissions
+  - ***CO2***: CO<sub>2</sub> emissions
   - ***distance***: calculated distance in kms

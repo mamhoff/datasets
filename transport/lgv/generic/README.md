@@ -35,7 +35,7 @@ option, from which the user can choose between:
 
 To make calculations according to the quantity of fuel consumed, users
 need only specify the fuel quantity using the ***fuelConsumed*** profile
-item value. The returned value represents CO,,2,, emissions associated
+item value. The returned value represents CO<sub>2</sub> emissions associated
 with the quantity specified. This is the most accurate method for
 determining emissions since it makes no assumptions or generalisations
 regarding the performance, context or efficiency of the vehicle. This
@@ -58,7 +58,7 @@ To use established emissions factors (sourced from
 users need only set the ***distance*** profile item value (although
 several further specifications *may* be made in order to establish more
 accurate results - see below). If the ***distance*** profile item value
-alone is set, the returned amount represents CO,,2,, emissions
+alone is set, the returned amount represents CO<sub>2</sub> emissions
 associated with large goods vehicle transport according to the distance
 specified.
 
@@ -68,7 +68,7 @@ Instead of using pre-established emissions factors, users can opt to
 give a vehicle's fuel consumption. This can either be a user's own
 estimate (self-calculated or perhaps obtained from their on-board
 computer) or one provided by the manufacturer, and results in a more
-accurate estimate of the kg CO,,2,, emitted. The specified fuel
+accurate estimate of the kg CO<sub>2</sub> emitted. The specified fuel
 consumption value is used in conjunction with data on the carbon
 intensity of the respective fuel type taken from the AMEE category
 [/home/energy/quantity](Energy_by_Quantity) to obtain a distance-based

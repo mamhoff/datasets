@@ -7,8 +7,8 @@ US, sourced from the IPCC [Guidelines for National Greenhouse Gas
 Inventories](http://www.ipcc-nggip.iges.or.jp/).
 
 The data is organised in to fuel types ('conventional', 'alternative'),
-with emissions estimates for CO,,2,, and CO,,2,,e (i.e. CO,,2,,, CH,,4,,
-and N,,2,,O) available.
+with emissions estimates for CO<sub>2</sub> and CO<sub>2</sub>e (i.e. CO<sub>2</sub>, CH<sub>4</sub>
+and N<sub>2</sub>O) available.
 
 It should be noted that the US-specific categories are similar to those
 within the /transport/lgv/generic/ghgp/lightgoods subcategories, in that

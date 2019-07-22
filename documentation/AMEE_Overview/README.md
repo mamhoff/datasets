@@ -14,7 +14,7 @@ your user.
 
 For example, a user might tell you that they drive 1000 km in a large,
 diesel car every month. AMEE would store this information and then
-return a value telling you that this emits 264.5 kgCO,,2,, per month.
+return a value telling you that this emits 264.5 kgCO<sub>2</sub> per month.
 More advanced usage might involve specifying the fuel consumption, the
 model of the car, the style of driving, modeling of the emission control
 system (catalytic convertor) and profiling changes in usage over time.
@@ -44,8 +44,8 @@ care of automatically.
 
 ## A simple example
 
-Burning diesel produces 2.6391 kg CO,,2,, for every litre burned. If 20
-litres are burned then 2.6391 x 20 = 52.782 kg CO,,2,, will be emitted.
+Burning diesel produces 2.6391 kg CO<sub>2</sub> for every litre burned. If 20
+litres are burned then 2.6391 x 20 = 52.782 kg CO<sub>2</sub> will be emitted.
 
 This very simple example illustrates the three basic components of most
 emissions calculations:
@@ -54,7 +54,7 @@ emissions calculations:
 
 <!-- end list -->
 
-  - 2.6391 kg CO,,2,,/litre - the emission factor - part of an AMEE data
+  - 2.6391 kg CO<sub>2</sub>/litre - the emission factor - part of an AMEE data
     item.
 
 <!-- end list -->

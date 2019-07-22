@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - agriculture
 - IPCC
 - IPCC_agriculture
@@ -21,7 +21,7 @@ provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_1
 gallery: "nil"
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   region: Geographic region
   livestockNumber: Total number of livestock (head count) under consideration
   managementSubtype: Subtype of manure management employed
@@ -30,10 +30,10 @@ ivds:
   typicalMass: The typical mass of individual animals for a particular livestock type and geographic region
   managementType: Type of manure management employed
   livestockType: Type of livestock
-  source: 
-  massN2OPerMassNDirect: The rate at which manure-N is directly converted to N,,2,,O-N
+  source:
+  massN2OPerMassNDirect: The rate at which manure-N is directly converted to N<sub>2</sub>O-N
   totalLiveweight: Total mass of livestock under consideration
-  massN2OPerMassNVolatilised: The rate at which volatilised manure-N is converted to N,,2,,O-N
+  massN2OPerMassNVolatilised: The rate at which volatilised manure-N is converted to N<sub>2</sub>O-N
 wikiname: Cattle_and_swine_manure_nitrous_oxide_emissions
 usages:
   byLivestockHeadCount: { totalLiveweight : ignored}

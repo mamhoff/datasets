@@ -5,7 +5,7 @@ sourced from the IPCC [Guidelines for National Greenhouse Gas
 Inventories](http://www.ipcc-nggip.iges.or.jp/).
 
 Only glass manufactured from primary raw materials is considered as a
-net contributor to atmospheric CO,,2,,, and therefore there is an option
+net contributor to atmospheric CO<sub>2</sub>, and therefore there is an option
 for specifying the proportion of the furnace charge represented by
 recycled scrap glass (termed 'cullet'). AMEE assumes a typical value for
 the 'cullet ratio' unless otherwise specified. In the case that no
@@ -15,7 +15,7 @@ order to override the default value.
 To use this category, select the type of glass using the *type* drill
 option, then specify the quantity of glass produced using the
 ***massProduced*** profile item value. The returned value represents
-CO,,2,, emissions associated with this production - discounting a
+CO<sub>2</sub> emissions associated with this production - discounting a
 proportion typically represented by cullet (this typical value differs
 between glass types). To specify a different cullet ratio, enter the
 value, as a percentage between 1-100, using the ***culletRatio***

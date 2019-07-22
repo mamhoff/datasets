@@ -23,7 +23,7 @@ found at the following pages:***
 
 The AMEE category at ''/transport/byDistance/freight'' includes data for
 carriage of freight taken from parts of the [Greenhouse Gas
-Protocol](Greenhouse_Gas_Protocol) worksheet ''CO,,2,, emissions from
+Protocol](Greenhouse_Gas_Protocol) worksheet ''CO<sub>2</sub> emissions from
 transport or mobile sources'' (v1.3)
 
 To use this category, use drill-downs to specify the ***type*** and

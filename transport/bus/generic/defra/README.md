@@ -55,5 +55,5 @@ CO2eEmissionFactor = CO2EF + CO2eEFForCH4 + CO2eEFForN2O
 CO2e = CO2eEmissionFactor \* distancePerJouney \* numberOfJourneys \*
 numberOfPassengers
 
-The result is kgCO,,2,,e emissions for the selected journeys. This
+The result is kgCO<sub>2</sub>e emissions for the selected journeys. This
 includes contributions from carbon dioxide, nitrous oxide and methane.

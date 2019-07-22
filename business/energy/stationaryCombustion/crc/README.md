@@ -1,11 +1,11 @@
 **Fuel combustion methodology. Calculates direct carbon dioxide
-(CO,,2,,) emissions associated with stationary fuel combustion and
+(CO<sub>2</sub>) emissions associated with stationary fuel combustion and
 electricity usage. Applicable to the UK government's Carbon Reduction
 Commitment initiative.**
 
 ## Summary
 
-This methodology represents CO,,2,,emissions associated with a variety
+This methodology represents CO<sub>2</sub>emissions associated with a variety
 of fuels and other energy sources (electricity). It is specifically
 applicable to the UK government's [Carbon Reduction
 Commitment](http://www.decc.gov.uk/en/content/cms/emissions/crc_efficiency/crc_efficiency.aspx)
@@ -90,7 +90,7 @@ industry coal||| |commercial/public sector coal||| |lignite||| |peat|||
 ### Calculation and result
 
 The quantity of fuel/energy consumed is multiplied by the appropriate
-emissions factor to calculate the assocaited CO,,2,, emissions. If a
+emissions factor to calculate the assocaited CO<sub>2</sub> emissions. If a
 quantity is provided which is incompatible with the emissions factor
 (i.e. energy-, mass- or volume-based as required) a calculation cannot
 be made.

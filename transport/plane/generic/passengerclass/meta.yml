@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - deprecated
 - transport
 - mobile
@@ -11,12 +11,12 @@ tags:
 - emission_factor
 - direct
 provenance: http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
-  kgCO2PerPassengerKm: Per distance CO,,2,, emissions factor
+ivds:
+  kgCO2PerPassengerKm: Per distance CO<sub>2</sub> emissions factor
   passengerClass: Class description
   type: Type (distance) of flight
-  source: 
+  source:
 wikiname: Plane_passenger_class

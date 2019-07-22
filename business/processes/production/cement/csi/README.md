@@ -13,16 +13,16 @@ item values are listed below.
 
 ## Algorithm
 
-***Clinker CO,,2,, emissions*** = *EF \* clinker quantity*
+***Clinker CO<sub>2</sub> emissions*** = *EF \* clinker quantity*
 
-***Bypass dust CO,,2,, emissions*** = *EF \* bypass dust quantity*
+***Bypass dust CO<sub>2</sub> emissions*** = *EF \* bypass dust quantity*
 
-***CKD CO,,2,, emissions*** = *(CKD quantity \* EF) / (1 + EF) \*
+***CKD CO<sub>2</sub> emissions*** = *(CKD quantity \* EF) / (1 + EF) \*
 (calcination CKD/100) / (1 - EF / (1 + EF) \* (calcination CKD/100))*
 
-***CO,,2,, emissions*** = *(carbon content/100) \* raw clinker ratio \*
+***CO<sub>2</sub> emissions*** = *(carbon content/100) \* raw clinker ratio \*
 clinker quantity \* (44 / 12)*
 
-AMEE returns the sum of the above. The CO,,2,, produced is found from
-the carbon content of materials the CO,,2,, molecular mass : carbon
+AMEE returns the sum of the above. The CO<sub>2</sub> produced is found from
+the carbon content of materials the CO<sub>2</sub> molecular mass : carbon
 atomic mass ratio, 44/12.

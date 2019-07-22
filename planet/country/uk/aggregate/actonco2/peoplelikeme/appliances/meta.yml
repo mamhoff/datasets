@@ -1,8 +1,8 @@
---- 
+---
 data_items: []
 
 provenance: Act on CO2
-tags: 
+tags:
 - UK
 - typical
 - aggregate
@@ -12,9 +12,9 @@ tags:
 - actonco2
 authority: recommended
 show: "1"
-gallery: 
-ivds: 
+gallery:
+ivds:
   numberOfPeople: Number of people in household
-  CO2: Annual CO,,2,, emissions
-  source: 
+  CO2: Annual CO<sub>2</sub> emissions
+  source:
 wikiname: People_Like_Me_Appliances

@@ -10,7 +10,7 @@ The AMEE category [Generic taxi transport](Generic_taxi_transport)
 contains a single representative vehicle type, based on the 'large,
 diesel' vehicle used in the [Generic car](Generic_car_transport)
 category. The associated emissions calculation uses a *per distance*
-emissions factor (i.e. kg CO,,2,, per km) and therefore represents
+emissions factor (i.e. kg CO<sub>2</sub> per km) and therefore represents
 emissions based on an entire vehicle journey (which can be contrasted
 with the *per passenger* emissions provided by the other currently
 existing taxi categories). Users need only specify a distance therefore
@@ -37,5 +37,5 @@ This category provides *per passenger* emissions calculation for taxi
 travel in the specific context of the United States. User are required
 to specify the journey distance and number of passengers, with the
 returned value representing greenhouse gas emissions attributable to all
-passengers, inclusive of the greenhouse gases CO,,2,,, CH,,4,, and
-N,,2,,O (expressed as CO,,2,, equivalent).
+passengers, inclusive of the greenhouse gases CO<sub>2</sub>, CH<sub>4</sub> and
+N<sub>2</sub>O (expressed as CO<sub>2</sub> equivalent).

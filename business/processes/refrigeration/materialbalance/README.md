@@ -23,13 +23,13 @@ processes are incorporated into a single, generalized emissions rate.
 Refrigerants differ in their specific physical (particularly thermal)
 properties and therefore exert a variable effect on atmospheric warming.
 As such, the absolute quantity of emissions for a given refrigerant type
-is converted into a standard measure of environmental impact - CO,,2,,e:
-the equivalent quantity of carbon dioxide (CO,,2,,) which would produce
+is converted into a standard measure of environmental impact - CO<sub>2</sub>e:
+the equivalent quantity of carbon dioxide (CO<sub>2</sub>) which would produce
 the same atmospheric warming effect. This conversion is made by
 multiplying the absolute emissions quantity by the ['global warming
 potential'](Greenhouse_gases_Global_warming_potentials) (GWP) of the
 respective refrigerant - a value unique to the gas which represents its
-warming effect relative to CO,,2,,.
+warming effect relative to CO<sub>2</sub>.
 
 ### Similar methodologies
 
@@ -66,21 +66,21 @@ The refrigerant type can also be specified using the ***refrigerant***
 profile item item value. The type of refrigerant must match one of the
 drill options found [here](Greenhouse_gases_Global_warming_potentials) -
 AMEE uses this category as a lookup resource for converting absolute
-emissions into the appropriate quantity of CO,,2,,e for the respective
+emissions into the appropriate quantity of CO<sub>2</sub>e for the respective
 refrigerant.
 
 ### Results and calculation
 
-AMEE calculates the the absolute and CO,,2,,e emissions of refrigerant
+AMEE calculates the the absolute and CO<sub>2</sub>e emissions of refrigerant
 using the material balance methodology. The following quantities are
 returned:
 
   - ***absoluteEmissions***: Absolute quantity of emissions based on
     specified input/output quantities
-  - ***CO2e***: Emissions quantity expressed as CO,,2,,e
+  - ***CO2e***: Emissions quantity expressed as CO<sub>2</sub>e
 
 These are expressed in terms of a mass (e.g. kg). The ***CO2e*** return
-value represents the conversion of absolute emissions into CO,,2,,e and
+value represents the conversion of absolute emissions into CO<sub>2</sub>e and
 is enumerated only if the refrigerant type is specified (using the
 appropriate [GWP](Greenhouse_gases_Global_warming_potentials)).
 Otherwise this value is set to 0.

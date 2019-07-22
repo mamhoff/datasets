@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - acrylonitrile
 - petrochemical
 - IPCC
@@ -16,17 +16,17 @@ tags:
 - direct
 - global
 provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf|IPCC-NGGIP]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
-  massCH4PerMass: Quantity of CH,,4,, emissions per unit produced
-  massCO2PerMass: Quantity of CO,,2,, emissions per unit produced
+ivds:
+  massCH4PerMass: Quantity of CH<sub>4</sub> emissions per unit produced
+  massCO2PerMass: Quantity of CO<sub>2</sub> emissions per unit produced
   mass: Quantity of acrylonitrile produced
   massFeedstockPerMass: " Quantity of feedstock required per unit production"
   process: Type of process
   massFeedstock: Quantity of feedstock consumed
-  source: 
+  source:
 wikiname: Acrylonitrile_production
 usages:
   byProduction: {  massFeedstock : ignored }

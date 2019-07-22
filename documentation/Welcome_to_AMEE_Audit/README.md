@@ -14,7 +14,7 @@
   - **24 November 2010** - AMEE now supports multiple calculation
     outputs. A large number of AMEE methodologies therefore now return
     emissions quantities differentiated into specific greenhouse gases
-    (e.g. CO,,2,,, CH,,4,,, N,,2,,O, CO,,2,,e) as well as other useful
+    (e.g. CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O, CO<sub>2</sub>e) as well as other useful
     information. See
     [this](Passenger_transport_by_Greenhouse_Gas_Protocol) example for
     an idea of this new functionality.

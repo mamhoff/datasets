@@ -1,8 +1,8 @@
---- 
+---
 data_items: []
 
 provenance: "[[http://www.epa.gov/climatechange/emissions/archived/downloads/tsd/TSD%20wastewater_020409.pdf|EPA]]"
-tags: 
+tags:
 - waste
 - N2O
 - denitrification
@@ -18,14 +18,14 @@ tags:
 - EPA_mandatory_wastewater
 authority: enterprise
 show: "1"
-gallery: 
-ivds: 
-  massN2OPerPersonWithout: N,,2,,O emissions per person //without// nitrification/denitrification
+gallery:
+ivds:
+  massN2OPerPersonWithout: N<sub>2</sub>O emissions per person //without// nitrification/denitrification
   industryFactor: Industrial/commercial adjustment factor
-  massN2OPerPersonWith: N,,2,,O emissions per person //with// nitrification/denitrification
+  massN2OPerPersonWith: N<sub>2</sub>O emissions per person //with// nitrification/denitrification
   type: Type of process
   totalPopulation: Total service population
-  source: 
+  source:
   populationWith: Population served by biological denitrification
 wikiname: Waste_water_treatment_N2O
 usages:

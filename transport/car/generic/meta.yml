@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - passenger
 - car
@@ -14,30 +14,30 @@ tags:
 - UK
 - direct
 provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|Defra]], [[http://www.epa.gov|EPA]], [[http://www.vca.gov.uk/|VCA]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   airconFull: Set "true", for maximum aircon usage
   airconTypical: Set "true", for typical aircon usage
   occupants: Number of occupants
   kmPerLitreOwn: User determined fuel consumption rate
-  kgCO2PerKmUS: CO,,2,, emitted per distance travelled in US
+  kgCO2PerKmUS: CO<sub>2</sub> emitted per distance travelled in US
   size: Car size category
   ecoDriving: Set "true", for eco-conscious driving
   country: Country in which car used
-  kgCO2PerKm: CO,,2,, emitted per km travelled
+  kgCO2PerKm: CO<sub>2</sub> emitted per km travelled
   regularlyServiced: Set "true", is vehicle serviced regularly
   fuel: Fuel type
   tyresUnderinflated: Set "true", for underinflated tyres
   distanceKmPerMonth: Monthly distance travelled
   typicalDistance: "Typical distance for vehicle type "
-  fuelConsumed: 
+  fuelConsumed:
   useTypicalDistance: Set "true", to use the typical distance
   kmPerLitre: Manufacturers fuel comsumption rate
   ownFuelConsumption: User specified fuel consumption rate
   fuelConsumption: Manufacturers fuel consumption rate
-  source: 
+  source:
   distance: Specify the distance travelled
 wikiname: Generic_car_transport
 usages:

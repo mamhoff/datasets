@@ -14,7 +14,7 @@ for train-based travel in other regions.
 To use this category, select the geographic region and train model via
 the *region* and *type* drill options. After specifying the train type,
 set the distance travelled using the ***distance*** profile item value.
-The returned value represents CO,,2,, emissions for a single passenger
+The returned value represents CO<sub>2</sub> emissions for a single passenger
 journey (of the specified distance) using the default assumption of 31%
 train occupancy (see
 [here](http://www.rssb.co.uk/pdf/reports/Research/T618_traction-energy-metrics_final.pdf)
@@ -26,7 +26,7 @@ Users can optionally override the assumption of 31% occupancy by using
 the ***occupancy*** profile item value which should be set to a value
 between 0-100 representing the actual or estimated proportion of the
 train occupied. If the the ***occupancy*** profile item value is set to
-a new value, AMEE recalculates the per passenger CO,,2,, emissions
+a new value, AMEE recalculates the per passenger CO<sub>2</sub> emissions
 factor to reflect the sharing of total vehiclular emissions among the
 number of passengers travelling.
 
@@ -35,6 +35,6 @@ number of passengers travelling.
 Users can also optionally choose to calculate emissions for a multiple
 number of passengers. To specify multiple passengers, set the the
 ***passengers*** profile item value to the number of passengers under
-consideration. The returned value represents CO,,2,, emissions for all
+consideration. The returned value represents CO<sub>2</sub> emissions for all
 passengers for the specified distance. If no value is set, AMEE assumes
 a value of 1, i.e. a single passenger journey.

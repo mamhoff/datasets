@@ -1,4 +1,4 @@
-Calculations for electric cars have their kg CO,,2,, calculated using
+Calculations for electric cars have their kg CO<sub>2</sub> calculated using
 generic energy consumption rates together with the grid
 electricity-generation emission factor for the country specified
 (defaulting to the UK if not specified). The electricity emission
@@ -13,7 +13,7 @@ converted into a corresponding quantity of electricity by reference to a
 generic distance-based energy consumption factor (e.g. *kWh per km*)
 which is provided for each of the vehicle (i.e. drill) options. In
 either case, the quantity of electricity consumed is then converted into
-a quantity of CO,,2,, emitted by multiplying by an emissions factor
+a quantity of CO<sub>2</sub> emitted by multiplying by an emissions factor
 associated with the generation of grid electricity.
 
 The returned value represents greenhouse gas emissions associated with

@@ -49,7 +49,7 @@ the best known methodologies that are supported in the AMEE.
   - **[Carbon Reduction Commitment](Carbon_Reduction_Commitment)
     (CRC)**. The CRC Energy Efficiency Scheme is the UK's mandatory
     climate change and energy saving scheme. This contains
-    government-mandated CO,,2,, emission factors for 24 fuels plus
+    government-mandated CO<sub>2</sub> emission factors for 24 fuels plus
     standard factors for pipeline/grid gas and electricity.
 
 <!-- end list -->
@@ -117,7 +117,7 @@ the best known methodologies that are supported in the AMEE.
 
 <!-- end list -->
 
-  - **[CO,,2,,Benchmark](CO2_Benchmark)**. AMEE's partners at
+  - **[CO<sub>2</sub>Benchmark](CO2_Benchmark)**. AMEE's partners at
     [www.co2benchmark.com](http://www.co2benchmark.com/) produce data on
     the greenhouse gas emissions of individual companies and whole
     business sectors, enabling users to benchmark their own emissions

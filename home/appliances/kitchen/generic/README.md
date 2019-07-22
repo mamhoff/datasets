@@ -23,4 +23,4 @@ By default, emissions are calculated on the basis on the emissions
 intensity of the UK electricity grid. If calculations are stored using
 profiles, an alternative country can be specified within the profile
 [metadata](metadata) as can the number of people in the household (with
-which kettle and microwave CO,,2,, emissions will scale accordingly).
+which kettle and microwave CO<sub>2</sub> emissions will scale accordingly).

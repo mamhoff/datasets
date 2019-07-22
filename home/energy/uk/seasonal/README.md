@@ -15,7 +15,7 @@ consumption is lowest in the summer.
 
 Note that no units for the fuel type is assumed. This means you can give
 the profile item a quarterly figure in any units, e.g. usage in litres
-or kWh or currency or even a quarterly CO,,2,, figure, and it will
+or kWh or currency or even a quarterly CO<sub>2</sub> figure, and it will
 return a monthly value in the same units.
 
 ## Example

@@ -5,8 +5,8 @@ for bus transport can now be found here
 This data is from the [GHGP
 worksheet](http://www.ghgprotocol.org/calculation-tools/all-tools) GHG
 emissions from transport or mobile sources v2.0. This category allows
-users to calculate their biomass CO,,2,, emissions separately from the
-fossil fuel CO,,2,,, N,,2,,O and CH,,4,, emissions which can be
+users to calculate their biomass CO<sub>2</sub> emissions separately from the
+fossil fuel CO<sub>2</sub>, N<sub>2</sub>O and CH<sub>4</sub> emissions which can be
 calculated using the [Other regional bus
 transport](Other_regional_bus_transport) category.
 
@@ -15,9 +15,9 @@ being used. At present the only option for biomass fuels in this
 category is *ethanol*. The *distance* is then set as a profile item by
 the user.
 
-The algorithm returns the kg CO,,2,, for the distance entered. This
-CO,,2,, value covers biomass emissions only. CH,,4,, and N,,2,,O
+The algorithm returns the kg CO<sub>2</sub> for the distance entered. This
+CO<sub>2</sub> value covers biomass emissions only. CH<sub>4</sub> and N<sub>2</sub>O
 emissions for ethanol-powered bus travel are included in the [Other
 regional bus transport](Other_regional_bus_transport) category. If the
-user wishes to calculate complete emissions, including biomass CO,,2,,
+user wishes to calculate complete emissions, including biomass CO<sub>2</sub>
 emissions, both categories must be used.

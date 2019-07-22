@@ -1,12 +1,12 @@
-**Grid electricity methodology. Calculates carbon dioxide (CO,,2,,),
-methane (CH,,4,,), nitrous oxide (N,,2,,O) and CO,,2,,e emissions
+**Grid electricity methodology. Calculates carbon dioxide (CO<sub>2</sub>),
+methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O) and CO<sub>2</sub>e emissions
 associated with the generation of grid electricity. Choices include
 eGRID and NERC subregions. United States.**
 
 ## Summary
 
-This methodology represents carbon dioxide (CO,,2,,), methane (CH,,4,,),
-nitrous oxide (N,,2,,O) and CO,,2,,e emissions associated with
+This methodology represents carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>),
+nitrous oxide (N<sub>2</sub>O) and CO<sub>2</sub>e emissions associated with
 subregions of the United States electricity grid. The data is based upon
 the Greenhouse Gas Protocol [spreadsheet
 tool](http://www.ghgprotocol.org/calculation-tools/all-tools) for
@@ -40,7 +40,7 @@ grid sub-regions. Each grid sub-region is represented by it's own
 characteristic emissions intensity related to the specific mix of
 generating technologies employed wihtin each region. 26 eGRID and 8 NERC
 regions are represented which are, in-turn, represented by a
-characteristic CO,,2,,, CH,,4,, and N,,2,,O emissions intensities.
+characteristic CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O emissions intensities.
 
 ### Activity data required
 
@@ -54,8 +54,8 @@ case the 'responsible' and 'total' areas should also be provided.
 
 ### Calculation and result
 
-By default, the quantities returned represent the CO,,2,,, CH,,4,,,
-N,,2,,O and CO,,2,,e emissions associated with the subregion and the
+By default, the quantities returned represent the CO<sub>2</sub>, CH<sub>4</sub>,
+N<sub>2</sub>O and CO<sub>2</sub>e emissions associated with the subregion and the
 total quantity of energy specified. If values for the 'responsible' and
 'total' areas are provided the returned value represents just the
 emissions attributable to the area under consdsideration.

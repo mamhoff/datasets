@@ -130,5 +130,5 @@ profile item values can be used for any single calculation and this must
 match the ***unit*** drill-down selected previously.
 
 The algorithm then multiplies the fuel use value by the appropriate
-emission factor to give a result of kgCO,,2,,e, which includes
+emission factor to give a result of kgCO<sub>2</sub>e, which includes
 contributions from carbon dioxide, nitrous oxide and methane.

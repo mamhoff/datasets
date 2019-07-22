@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - fuel
 - stationary
 - combustion
@@ -16,16 +16,16 @@ tags:
 - EPA_mandatory
 - EPA_mandatory_fuel
 provenance: "[[http://www.epa.gov/stateply/resources/index.html|US EPA/Climate Leaders]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   mass: Mass of tires consumed
   energyPerMass: "Energy per mass of tires ('heating' or 'calorific' value) "
   energyConsumed: Quantity of energy consumed
   type: Type of fuel
-  source: 
-  massCO2PerEnergy: CO,,2,, emissions per unit of energy
+  source:
+  massCO2PerEnergy: CO<sub>2</sub> emissions per unit of energy
 wikiname: EPA_Stationary_combustion_of_tires
 usages:
   byMass : {  energyConsumed : ignored }

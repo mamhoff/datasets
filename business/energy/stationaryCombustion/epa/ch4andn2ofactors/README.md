@@ -1,6 +1,6 @@
 The AMEE category
 /business/energy/stationaryCombustion/epa/ch4andn2ofactors contains data
-on the emissions of CH,,4,, and N,,2,,O associated with stationary fuel
+on the emissions of CH<sub>4</sub> and N<sub>2</sub>O associated with stationary fuel
 combustion, sourced from the US Environmental Protection Agency's
 [Climate Leaders](Climate_Leaders) initiative.
 

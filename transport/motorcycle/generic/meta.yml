@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - deprecated
 - transport
 - motorcycle
@@ -17,21 +17,21 @@ provenance: "[[http://www.defra.gov.uk/environment/business/reporting/conversion
 gallery: "nil"
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   occupants: Number of occupants
   kmPerLitreOwn: User-determined fuel consumption value
   size: Motorcycle size
   country: Country in which journey occurred
-  kgCO2PerKm: CO,,2,, per distance emissions factor
+  kgCO2PerKm: CO<sub>2</sub> per distance emissions factor
   fuel: Motorcycle fuel type
   distanceKmPerMonth: Distance travelled per month
   typicalDistance: Typical distance travelled
-  fuelConsumed: 
+  fuelConsumed:
   useTypicalDistance: Set "true" to use typical distance for vehicle type
   kmPerLitre: Manufacturer fuel consumption value
   ownFuelConsumption: User-determined fuel consumption value
   fuelConsumption: Manufacturer fuel consumption value
-  source: 
+  source:
   distance: Distance travelled
 wikiname: Generic_motorcycle_transport
 usages:

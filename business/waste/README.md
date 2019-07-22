@@ -28,7 +28,7 @@ contains data and a methodology sourced from the IPCC [Guidelines for
 National Greenhouse Gas
 Inventories](http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_4_Ch4_Bio_Treat.pdf)
 for calculating greenhouse gas emissions from the biological treatment
-of organic wastes. Emissions of both CH,,4,, and N,,2,,O emissions are
+of organic wastes. Emissions of both CH<sub>4</sub> and N<sub>2</sub>O emissions are
 covered in association with the waste treatment processes of composting
 and anaerobic digestion.
 

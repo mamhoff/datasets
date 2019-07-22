@@ -14,8 +14,8 @@ available; details can be found
 The IPCC methodology for greenhouse gas emissions associated with
 ['mobile
 combustion'](http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf)
-recommend calculating CO,,2,, emissions on the basis of fuel consumed,
-whereas those of CH,,4,, and N,,2,,O vary more directly with other
+recommend calculating CO<sub>2</sub> emissions on the basis of fuel consumed,
+whereas those of CH<sub>4</sub> and N<sub>2</sub>O vary more directly with other
 factors such as vehicle type, emissions control standards, and distance
 travelled. Therefore, this category provides a number of options for
 calculating motorcycle-associated greenhouse gas emissions, depending on

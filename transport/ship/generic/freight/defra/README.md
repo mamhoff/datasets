@@ -87,5 +87,5 @@ CO2eEmissionFactor = CO2EF + N2OEF + CH4EF
 
 kgCO2e = CO2eEmissionFactor \* distance \* mass
 
-The result is equivalent CO,,2,, emissions, which includes contributions
+The result is equivalent CO<sub>2</sub> emissions, which includes contributions
 from carbon dioxide, nitrous oxide and methane emissions.

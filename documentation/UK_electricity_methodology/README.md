@@ -5,12 +5,12 @@ the [Real Time Electricity](Real_Time_Electricity) category of AMEE.
 
 For each fuel type used in the generation of electricity, a GEF
 (generation emission factor) can be calculated by dividing the amount of
-CO,,2,, emitted by the energy generated.
+CO<sub>2</sub> emitted by the energy generated.
 
 Our goal is to calculate the CEF (consumer emission factor), which gives
-the amount of CO,,2,, emitted per unit of energy consumed by the end
+the amount of CO<sub>2</sub> emitted per unit of energy consumed by the end
 user, e.g. via a mains socket in a house. The CEF is measured in
-kgCO,,2,,/kWh in AMEE (the EF expressed in tCO,,2,,/MWh will have the
+kgCO<sub>2</sub>/kWh in AMEE (the EF expressed in tCO<sub>2</sub>/MWh will have the
 same value).
 
 The methodology involves the following:
@@ -53,10 +53,10 @@ preceding years.
 
 ## Electricity generated, supplied and consumed
 
-Usually, an electricity emission factor would give the mass of CO,,2,,
+Usually, an electricity emission factor would give the mass of CO<sub>2</sub>
 emitted per unit of energy used by a consumer (e.g. per kWh drawn out of
 a mains power socket in a house). For the purposes of real time
-electricity we need the mass of CO,,2,, per unit of energy generated.
+electricity we need the mass of CO<sub>2</sub> per unit of energy generated.
 
 For clarity we will use the following definitions:
 
@@ -100,12 +100,12 @@ minor irregularities in how metered energy is reported.
 ## Estimating GEFs
 
 The GEF for a particular fuel type can be estimated by dividing the
-total mass of CO,,2,, emitted by the total energy generated. The mass of
-CO,,2,, can be estimated by multiplying the quantity of fuel used in
+total mass of CO<sub>2</sub> emitted by the total energy generated. The mass of
+CO<sub>2</sub> can be estimated by multiplying the quantity of fuel used in
 generating facilities (given by DUKES2009) by the appropriate fuel
 emission factor (FEF).
 
-An FEF is usually quoted in kgCO,,2,, per kWh or per kg or litre, as
+An FEF is usually quoted in kgCO<sub>2</sub> per kWh or per kg or litre, as
 appropriate. DUKES2009 gives FEFs in annex A, but we have used the more
 recent electricity factors published in [DEFRA/DECC
 CF](http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm)
@@ -114,14 +114,14 @@ electricity generation.
 
 The amount of fuel consumed in a year in the UK to generated electricity
 is given in Table 5.1 of DUKES2009. These amounts can then be converted
-to a mass of CO,,2,, by multiplying by the appropriate fuel emission
+to a mass of CO<sub>2</sub> by multiplying by the appropriate fuel emission
 factor (FEF) for each fuel. DUKES2009 publishes these emission factors
 in Annex A, but AMEE uses the slightly more recent values in [DECC
 conversion
 factors](http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm).
 
 In addition to the burning of fossil fuels in this country, we also
-estimate the mass of CO,,2,, produced as a result of the net import of
+estimate the mass of CO<sub>2</sub> produced as a result of the net import of
 electricity from France and Ireland via the interconnectors. This
 estimate is based on the amount of electricity imported and exported
 (DUKES2009 Table 5.1) and also the capacities of the interconnectors
@@ -131,7 +131,7 @@ taken from the [Electricity](Electricity_by_country) category of AMEE.
 ## Checks on methodology and GEFs
 
 Using the methods described above, we calculated that 171.7 Mt (Mega
-tonnes) of direct CO,,2,, emissions were emitted due to electricity
+tonnes) of direct CO<sub>2</sub> emissions were emitted due to electricity
 generation (and importing) in the UK grid in 2008. This is close to the
 171.3 Mt quoted in DUKES2009 Table E.1. The difference is due to the use
 of slightly different emission factors and also our inclusion of
@@ -139,20 +139,20 @@ interconnector import/exports.
 
 To provide another check on our methodology, we used the GEFs and
 efficiency factors to estimate the average UK emission factor for
-electricity in 2007. Our value of 0.547 kgCO,,2,,/kWh is close to the
+electricity in 2007. Our value of 0.547 kgCO<sub>2</sub>/kWh is close to the
 (non-rolling average) value given in [conversion
 factors](http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm%20DECC)
-of 0.543 kgCO,,2,,/kWh. The 0.7% difference is probably due to the
+of 0.543 kgCO<sub>2</sub>/kWh. The 0.7% difference is probably due to the
 difference in the way interconnectors are treated.
 
 ## Pumped storage
 
-The process of generating energy from PS does not produce any CO,,2,,
+The process of generating energy from PS does not produce any CO<sub>2</sub>
 directly, but the energy that went into PS can be associated with
-CO,,2,, from primary generation at the time the energy was stored. In
-our methodology the CO,,2,, associated with PS is implicitly accounted
+CO<sub>2</sub> from primary generation at the time the energy was stored. In
+our methodology the CO<sub>2</sub> associated with PS is implicitly accounted
 for at times when energy is being stored because PS is part of the TSD
-(see above). Consistently, we associate no CO,,2,, with PS energy when
+(see above). Consistently, we associate no CO<sub>2</sub> with PS energy when
 it is supplying the grid. Although this is not ideal, we are constrained
 to this approach for two reasons: a) we have no way at present to
 calculate the EF for supplied PS energy; b) there is no data on the

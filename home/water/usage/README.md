@@ -18,5 +18,5 @@ of three methods
     value of litres used per day is used.
 
 The litres used calculated from the user selected method is then
-multiplied by the number of kg of CO,,2,, produced per litre (taken from
+multiplied by the number of kg of CO<sub>2</sub> produced per litre (taken from
 the home/water category).

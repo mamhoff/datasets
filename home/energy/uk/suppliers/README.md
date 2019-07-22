@@ -1,6 +1,6 @@
-This category contains data on the CO,,2,, intensity of electricity
+This category contains data on the CO<sub>2</sub> intensity of electricity
 supplied to the UK grid by specific providers. Annual values for
-emissions intensity (i.e. kg CO,,2,, per kWh) are available for the
+emissions intensity (i.e. kg CO<sub>2</sub> per kWh) are available for the
 period 2005-2009
 
 ## UK suppliers
@@ -31,11 +31,11 @@ suppliers listed here, as follows:
 
 ## Fuel mixes and reselling
 
-The values fo *kg CO,,2,, per kWh* are based on the fuel mix of each
+The values fo *kg CO<sub>2</sub> per kWh* are based on the fuel mix of each
 supplier. There is potential uncertainty with these figures in that they
 do not account for the reselling of renewable energy. For example,
 although *Good Energy* are undoubtedly more "green" than most other
-suppliers, it is misleading to assign them the value of *0* *kg CO,,2,,
+suppliers, it is misleading to assign them the value of *0* *kg CO<sub>2</sub>
 per kWh*.
 
 ## How to use this category
@@ -43,5 +43,5 @@ per kWh*.
 To use this category, select the electricity supplier using the
 ***supplier*** drill down choice. Next specify the the quantity of
 energy consumed using the ***energyConsumption*** profile item value.
-The returned quantity represents CO,,2,, emissions associated with the
+The returned quantity represents CO<sub>2</sub> emissions associated with the
 specified consumption.

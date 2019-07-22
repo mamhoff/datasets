@@ -1,11 +1,11 @@
 **Domestic livestock methodology, enteric fermentation. Calculates
-methane emissions (CH,,4,, and CO,,2,,e) based on livestock population.
+methane emissions (CH<sub>4</sub> and CO<sub>2</sub>e) based on livestock population.
 Scenarios include cattle, deer, goats, sheep, swine and others. Globally
 applicable.**
 
 ## Summary
 
-This methodology represents **methane** (CH,,4,,) emissions associated
+This methodology represents **methane** (CH<sub>4</sub>) emissions associated
 with the **digestive processes of herbivorous livestock**. The data and
 calculation methodology is sourced from the [IPCC](IPCC), as published
 in *[Volume 4, Chapter 10 - Emissions from Livestock and Manure
@@ -23,7 +23,7 @@ Methane is produced in herbivores as a by-product of *enteric
 fermentation*, a digestive process by which carbohydrates are broken
 down by micro-organisms into simple molecules for absorption into the
 bloodstream. This emissions methodology is based upon emissions factors
-which describe the rate at which CH,,4,, is produced by *single 'heads'
+which describe the rate at which CH<sub>4</sub> is produced by *single 'heads'
 of livestock* (i.e. individual animals) and are expressed on an
 **annual** basis.
 
@@ -35,7 +35,7 @@ This methodology represents the IPCC *Tier 1* approach.
 
 ### Model data
 
-The rate at which CH,,4,, is produced during enteric fermentation is
+The rate at which CH<sub>4</sub> is produced during enteric fermentation is
 related to the type of livestock (more specifically, the type of
 digestive tract), and age as well as the quality and quantity of the
 livestock's feed intake. Ruminant livestock (e.g., buffalo, cattle,
@@ -55,10 +55,10 @@ countries.
 
 Each livestock type is represented by an annual methane emissions rate
 per individual animal (kg / yr). In addition, the methodology uses the
-*global warming potential* of CH,,4,, to convert absolute emissions
+*global warming potential* of CH<sub>4</sub> to convert absolute emissions
 quantities into
-**[CO,,2,,e](Greenhouse_gases_Global_warming_potentials)** - the
-quantity of CO,,2,, which would exert the same atmospheric warming
+**[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials)** - the
+quantity of CO<sub>2</sub> which would exert the same atmospheric warming
 effect.
 
 ### Activity data required
@@ -76,8 +76,8 @@ year.
 The methodology calculates two emissions quantities: (1) the
 **absolute** quantity of methane associated with the livestock
 population; and (2) methane emissions expressed in terms of
-**[CO,,2,,e](Greenhouse_gases_Global_warming_potentials)** - the
-quantity of CO,,2,, which would exert the same atmospheric warming
+**[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials)** - the
+quantity of CO<sub>2</sub> which would exert the same atmospheric warming
 effect.
 
 -----

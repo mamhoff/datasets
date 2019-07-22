@@ -27,7 +27,7 @@ data from different suppliers are used if they use comparable processes.
 The ecoinvent database offers life cycle inventory (LCI) and life cycle
 impact assessment (LCIA) results.
 
-LCI results encompasses data related to environmental (e.g., CO,,2,, )
+LCI results encompasses data related to environmental (e.g., CO<sub>2</sub> )
 and technical (e.g., intermediate chemicals) quantities for all relevant
 unit processes within the study boundaries that compose the product
 (system). Examples of input and output quantities include inputs of

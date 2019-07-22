@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - CRC
 - disclosure
 - benchmark
@@ -15,7 +15,7 @@ authority: enterprise
 ivds:
   organizationName: Name of the participant
   registrationNumber: Registration number of the participant under the scheme
-  emissions: "Quantity of disclosed CO,,2,, emissions"
+  emissions: "Quantity of disclosed CO<sub>2</sub> emissions"
   rank: The rank of the participant within the Performance League Table
   tradingName: The trading name (if disclosed) of the participant
   weightedScore: "The weighted score calculated for the participant. This is sum of each of the Early Action Metric, Absolute Metric, and Growth Metric, each multiplied by a specific weighting. Higher scores result in a better ranking."

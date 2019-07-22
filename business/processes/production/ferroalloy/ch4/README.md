@@ -5,7 +5,7 @@ designed for use alongside the ferroallloy
 [tier 1](Generic_ferroalloy_production) or
 [tier 2](Ferroalloy_raw_materials_methodology) categories. The
 methodology provided by AMEE in this category represents the *Tier 1*
-(default) and *Tier 2* (user-supplied) approach for CH,,4,, emissions
+(default) and *Tier 2* (user-supplied) approach for CH<sub>4</sub> emissions
 calculation described by the IPCC Guidelines for National Greenhouse Gas
 Inventories
 ([NGGIP](http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html)).
@@ -13,11 +13,11 @@ Inventories
 The heating of carbon materials in the furnace releases volatiles
 including methane. With open or semi-covered furnaces – predominantly
 used for FeSi and Si ferroalloy production - most of the volatiles will
-burn to CO,,2,, above the charge, in the hood and off-gas channels, but
-some will remain un-reacted as CH,,4,, and NMVOC. The amounts depend on
+burn to CO<sub>2</sub> above the charge, in the hood and off-gas channels, but
+some will remain un-reacted as CH<sub>4</sub> and NMVOC. The amounts depend on
 the operation of the furnace. Sprinkle-charging will reduce the amounts
 of CH4 compared to batch-wise charging. Increased temperature in the
-hood (less false air) will reduce the content of CH,,4,, further. The
+hood (less false air) will reduce the content of CH<sub>4</sub> further. The
 errors associated with estimates or measurements of N2O emissions from
 the ferroalloys industry are very large and thus, a methodology is not
 provided.
@@ -59,13 +59,13 @@ represents the tier 2 IPCC NGGIP methodology.
 
 ### Results and calculation
 
-The returned amounts represent the CH,,4,, emissions associated with the
+The returned amounts represent the CH<sub>4</sub> emissions associated with the
 quantity specified. Two quantities are returned, as follows:
 
-  - ***CH4***: CH,,4,, (methane) emissions
-  - ***CO2e***: CO,,2,,e emissions (CH,,4,, converted using
+  - ***CH4***: CH<sub>4</sub> (methane) emissions
+  - ***CO2e***: CO<sub>2</sub>e emissions (CH<sub>4</sub> converted using
     [these](Greenhouse_gases_Global_warming_potentials) global warming
     potential)
 
-The individual quantity for CH,,4,, represents an *absolute quantity*
-rather than a CO,,2,,e quantity.
+The individual quantity for CH<sub>4</sub> represents an *absolute quantity*
+rather than a CO<sub>2</sub>e quantity.

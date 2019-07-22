@@ -6,9 +6,9 @@ for calculating greenhouse gas emissions associated with the burning of
 several generic types of industrial waste ('industrial', 'clinical',
 'sewage sludge', 'fossil liquids').
 
-CO,,2,, which derives from recently sequestered carbon sources and
+CO<sub>2</sub> which derives from recently sequestered carbon sources and
 fossil sources are differentiated, since their net impact on atmospheric
-CO,,2,, concentrations in distinct.
+CO<sub>2</sub> concentrations in distinct.
 
 -----
 
@@ -28,10 +28,10 @@ wet weight.
 
 ### Results and calculation
 
-The values returned represent CO,,2,, emissions associated with the
+The values returned represent CO<sub>2</sub> emissions associated with the
 waste quantity specified. The following discrete values are returned:
 
-  - ***fossilCO2***: CO,,2,, emissions which derived from fossil carbon
-  - ***biogenicCO2***: CO,,2,, emissions which derived from recently
+  - ***fossilCO2***: CO<sub>2</sub> emissions which derived from fossil carbon
+  - ***biogenicCO2***: CO<sub>2</sub> emissions which derived from recently
     sequestered, biogenic carbon
   - ***totalCO2***: fossil *and* biogenic carbon

@@ -1,9 +1,9 @@
 The category /transport/ship/generic contains data on the greenhouse gas
 emissions associated with ship-based *passenger* transport. This
-category provides CO,,2,, emissions only and should be considered to
+category provides CO<sub>2</sub> emissions only and should be considered to
 represent a useful first point of entry to ship-related emissions. If
 users are interested in more specific and comprehensive data (which
-includes CO,,2,, as well as CH,,4,, and N,,2,,O emissions) they should
+includes CO<sub>2</sub> as well as CH<sub>4</sub> and N<sub>2</sub>O emissions) they should
 see the specific [DEFRA](Ship_generic_Defra) category for ship
 transport.
 
@@ -31,7 +31,7 @@ To calculate emissions based on single journey distance, simply set the
 distance using the ***distance*** profile item value. Users can
 additionally set a multiple number of passengers by setting the
 ***numberOfPassengers*** profile item value. The value returned
-represents CO,,2,, emissions attributable to all nominated passengers
+represents CO<sub>2</sub> emissions attributable to all nominated passengers
 for the distance travelled.
 
 ## Calculating by multiple journeys
@@ -62,5 +62,5 @@ Users can optionally declare the stated journey frequency to represent
 '*true*', in which case the total number of journeys are doubled. A
 multiple number of passengers can also be included by setting the
 ***numberOfPassengers*** profile item value. The value returned
-represents CO,,2,, emissions attributable to all nominated passengers
+represents CO<sub>2</sub> emissions attributable to all nominated passengers
 per year.

@@ -13,5 +13,5 @@ terms of distance or duration, are given in the [Generic plane
 transport](Generic_plane_transport) documentation. Then, specify the
 distance and mass of the freight transported by setting the
 ***distance*** and ***mass*** profile item values. The returned value
-represents the mass of CO,,2,, emitted in associated with the specified
+represents the mass of CO<sub>2</sub> emitted in associated with the specified
 freighting.

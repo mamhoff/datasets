@@ -17,8 +17,8 @@ option, from the following options.
 A second drill-down *yearOfManufacture* sets the age of the car. The
 ***distance*** is then set as a profile item value.
 
-The algorithm returns a kg CO,,2,,e value, which is a sum of CO,,2,,,
-N,,2,,O and CH,,4,, emissions for the selected journey distance and
+The algorithm returns a kg CO<sub>2</sub>e value, which is a sum of CO<sub>2</sub>,
+N<sub>2</sub>O and CH<sub>4</sub> emissions for the selected journey distance and
 vehicle type.
 
 Users can opt to share emissions amongst passengers by setting the

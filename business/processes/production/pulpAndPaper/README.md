@@ -15,9 +15,9 @@ AMEE [stationary combustion](Stationary_Combustion) category.
 
 Emissions arising from the combustion of biomass can be calculated using
 the [biomass emissions](Pulp_and_paper_biomass_emissions) category. This
-calculation considers the CH,,4,, and N,,2,,O emissions from a variety
+calculation considers the CH<sub>4</sub> and N<sub>2</sub>O emissions from a variety
 of biomass scenarios.
 
-To calculate the biogenic CO,,2,, emissions associated with the burning
+To calculate the biogenic CO<sub>2</sub> emissions associated with the burning
 of pulping liquors, users can use the [pulping liquor
 consumption](Pulping_liquor_consumption) category.

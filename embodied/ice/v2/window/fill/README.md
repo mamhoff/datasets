@@ -1,12 +1,12 @@
 **Life cycle methodology, window air space fills. Calculates embodied
-energy, and carbon dioxide (CO,,2,,) emissions based on the number of
+energy, and carbon dioxide (CO<sub>2</sub>) emissions based on the number of
 window units. Scenarios include air, argon, krypton and xenon.
 Applicable for UK.**
 
 ## Summary
 
 This methodology represents **embodied energy, and carbon dioxide
-(CO,,2,,) emissions** associated with **window air space fills**. The
+(CO<sub>2</sub>) emissions** associated with **window air space fills**. The
 data and calculation methodology is sourced from the [Inventory of
 Carbon & Energy (ICE), version 2.0](http://people.bath.ac.uk/cj219/)
 life cycle dataset, produced in conjunction with the University of Bath.
@@ -18,7 +18,7 @@ life cycle dataset, produced in conjunction with the University of Bath.
 ### Emissions model
 
 The methodology is based on factors which describe the quantities of
-energy and CO,,2,, which are 'embodied' within the use of insulating air
+energy and CO<sub>2</sub> which are 'embodied' within the use of insulating air
 space fills in double glazed window units. By multiplying the number of
 filled windows under consideration by these factors, an estimate of the
 embodied energy and emissions associated with that quantity can be
@@ -26,13 +26,13 @@ calculated. These factors assume unit sizes of 1.2 m by 1.2 m.
 
 ### Model data
 
-Embodied energy and CO,,2,, emissions vary between different types of
+Embodied energy and CO<sub>2</sub> emissions vary between different types of
 air space fill. This methodology represents 4 different types: *air*,
 *argon*, *krypton* and *xenon*. Each type is represented by two data
 values:
 
   - *embodied energy per filled window unit* (MJ/window)
-  - *embodied CO,,2,, per filled window unit* (kg/window)
+  - *embodied CO<sub>2</sub> per filled window unit* (kg/window)
 
 In addition, each scenario is described by a **life cycle analysis
 boundary**, indicating the stages in the window life cycle which are
@@ -50,7 +50,7 @@ available in order to calculate.
 Embodied energy and emissions are calculated by multiplying the
 specified number of filled windows by the appropriate factors. Two
 values are calculated, representing the embodied **energy** and
-**CO,,2,,** emissions attributable to the specified number of filled
+**CO<sub>2</sub>** emissions attributable to the specified number of filled
 windows.
 
 -----
@@ -69,7 +69,7 @@ the basis of [mass](ICE_v2_by_mass) or [area](ICE_v2_by_area).
 In addition, there exist several methodologies which provide data and
 calculations specific to particular types of materials:
 [concrete](ICE_v2_concrete) and [timber](ICE_v2_timber) (including
-biogenic CO,,2,, emissions).
+biogenic CO<sub>2</sub> emissions).
 
 Details of the [sources of data](ICE_v2_references) for the ICE database
 are also available.

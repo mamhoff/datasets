@@ -19,5 +19,5 @@ and enter the required profile item values listed below.
 LKD correction factor = 1+ (lkdWeight / limeQuantity) \* fracLkd \*
 calcinationLKD
 
-CO,,2,, emissions = caoMgoRatio \* stoicRatio \* limeQuantity \* (1 -
+CO<sub>2</sub> emissions = caoMgoRatio \* stoicRatio \* limeQuantity \* (1 -
 (hydLime \* waterLLime)) \* LKD correction factor

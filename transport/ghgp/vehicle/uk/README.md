@@ -1,5 +1,5 @@
 **Road vehicle emissions methodology. Calculates direct carbon dioxide
-(CO,,2,,) emissions associated with distance travelled. Choices include
+(CO<sub>2</sub>) emissions associated with distance travelled. Choices include
 vehicle type, fuel type and emissions standard. United Kingdom.**
 
 ## Summary
@@ -44,8 +44,8 @@ scenarios are provided.
 A total of 22 specific types of road transport are represented and are
 differentiated by vehicle type (i.e. car, light goods vehicles,
 motorcycles), fuel type (gasoline/petrol, diesel, hybrid, LPG/CNG) and
-emissions standard. For each vehicle represented, a specific CO,,2,,
-emissions factor is used to calculate CO,,2,, emissions according to
+emissions standard. For each vehicle represented, a specific CO<sub>2</sub>
+emissions factor is used to calculate CO<sub>2</sub> emissions according to
 distance travelled.
 
 ### Activity data required
@@ -60,7 +60,7 @@ passengers.
 
 ### Calculation and result
 
-The returned quantities for this methodology represent CO,,2,, emissions
+The returned quantities for this methodology represent CO<sub>2</sub> emissions
 associated with the activity data (distance) specified.
 
 -----

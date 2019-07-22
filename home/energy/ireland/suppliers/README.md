@@ -1,4 +1,4 @@
-This category contains CO,,2,, emissions data for domestic energy
+This category contains CO<sub>2</sub> emissions data for domestic energy
 consumption associated with specific suppliers in Ireland.
 
 Only domestic energy suppliers are included here.

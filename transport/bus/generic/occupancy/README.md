@@ -3,7 +3,7 @@ for bus transport which allows you to set the expected occupancy and
 number of accounted passengers of bus transport. This makes it possible
 to share out the carbon cost of the vehicle across users. It is based on
 the [Greenhouse Gas Protocol](Greenhouse_Gas_Protocol) worksheet
-''CO,,2,, emissions from transport or mobile sources'' (v1.3), with one
+''CO<sub>2</sub> emissions from transport or mobile sources'' (v1.3), with one
 additional data item taken from the NAEI. As the GHG protocol permits
 users to specify their own emissions factors, a protocol compliant tool
 may use any of these factors.

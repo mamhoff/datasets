@@ -4,9 +4,9 @@ Inventories](http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_4_C
 for calculating greenhouse gas emissions from the biological treatment
 of organic wastes.
 
-This category provides calculation for CH,,4,, and, where appropriate,
-N,,2,,O emissions associated with composting and anaerobic digestion.
-These processes (especially composting) also produce CO,,2,,, but since
+This category provides calculation for CH<sub>4</sub> and, where appropriate,
+N<sub>2</sub>O emissions associated with composting and anaerobic digestion.
+These processes (especially composting) also produce CO<sub>2</sub>, but since
 the carbon is of recent, biogenic origin, and therefore not a net
 contributor to atmospheric concentrations, these emissions are not
 considered here.
@@ -34,13 +34,13 @@ recovered methane in the ***recoveredMethane*** profile item value.
 
 ### Results and calculation
 
-The values returned represent CH,,4,, and N,,2,,O emissions associated
+The values returned represent CH<sub>4</sub> and N<sub>2</sub>O emissions associated
 with the waste quantity specified (minus the methane recovered, where
 appropriate). The following discrete values are returned:
 
-  - ***N2O***: N,,2,,O (nitrous oxide) emissions
-  - ***CH4***: CH,,4,, (methane) emissions
-  - ***CO2e***: CO,,2,,e emissions (both gases, converted using
+  - ***N2O***: N<sub>2</sub>O (nitrous oxide) emissions
+  - ***CH4***: CH<sub>4</sub> (methane) emissions
+  - ***CO2e***: CO<sub>2</sub>e emissions (both gases, converted using
     [these](Greenhouse_gases_Global_warming_potentials) global warming
     potential)
 

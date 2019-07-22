@@ -1,4 +1,4 @@
-This category contains typical data for appliance-based CO,,2,,
+This category contains typical data for appliance-based CO<sub>2</sub>
 emissions according to household size, obtained by averaging across over
 a million profiles collected in ActOnCO2 v1.
 

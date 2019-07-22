@@ -1,6 +1,6 @@
 **Road vehicle emissions methodology. Calculates direct fossil and/or
-biogenic carbon dioxide (CO,,2,,), methane (CH,,4,,), nitrous oxide
-(N,,2,,O) and carbon dioxide equivalent (CO,,2,,e) emissions associated
+biogenic carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide
+(N<sub>2</sub>O) and carbon dioxide equivalent (CO<sub>2</sub>e) emissions associated
 with distance travelled or fuel consumed. Choices include vehicle type,
 fuel type and emissions standard. United States.**
 
@@ -23,28 +23,28 @@ the rate at which greenhouse gas emissions are produced during
 road-based travel.
 
 As with other leading greenhouse gas data and calculation methodology
-sources (e.g. IPCC, EPA), this methodology assumes that CO,,2,,
+sources (e.g. IPCC, EPA), this methodology assumes that CO<sub>2</sub>
 emissions are [directly related](Custom_emissions_factors) to the
 quantity of carbon which is oxidised during combustion and therefore
 directly proportional to the *quantity of fuel* consumed, whereas
-emissions of CH,,4,, and N,,2,,O are more closely related to other
+emissions of CH<sub>4</sub> and N<sub>2</sub>O are more closely related to other
 factors, including distance travelled.
 
 Therefore, in the best case scenario - where both fuel consumption and
-distance travelled can be specified - CO,,2,, emissions are calculated
-on the basis of fuel consumption and CH,,4,, and N,,2,,O emissions on
+distance travelled can be specified - CO<sub>2</sub> emissions are calculated
+on the basis of fuel consumption and CH<sub>4</sub> and N<sub>2</sub>O emissions on
 the basis of distance travelled. In those cases where only one of fuel
 consumption and distance travelled can be specified, however, the
 Greenhouse Gas Protocol methodology converts the original (EPA)
 emissions factors into the required basis (distance, fuel volume) using
 'typical' fuel efficiency data for the vehicles types represented. As
-such, calculations of CO,,2,,, CH,,4,, and N,,2,,O can be made on the
+such, calculations of CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O can be made on the
 basis of either fuel consumed, distance travelled or - ideally - both.
 
-Since the CO,,2,, produced during the burning of biofuels in not a net
+Since the CO<sub>2</sub> produced during the burning of biofuels in not a net
 contributor to atmospheric warming (see
 [here](Carbon_dioxide_emissions)), fossil- and biofuel-associated
-CO,,2,, are explicitly defined.
+CO<sub>2</sub> are explicitly defined.
 
 All emissions factors represent emissions associated with *entire
 vehicles* (e.g. car, motorcycle), which can be contrasted with similar
@@ -76,16 +76,16 @@ emissions factors are used to calculate greenhouse gas emissions
 according to the activity data provided. In total, the following
 emissions factors are provided for each vehicle type:
 
-  - *Fossil CO,,2,,* emissions per unit *distance travelled*
-  - *Biogenic CO,,2,,* emissions per unit *distance travelled*
-  - *CH,,4,,* emissions per unit *distance travelled*
-  - *N,,2,,O* emissions per unit *distance travelled*
-  - *CH,,4,,* emissions per unit *fuel consumed*
-  - *N,,2,,O* emissions per unit *fuel consumed*
+  - *Fossil CO<sub>2</sub>* emissions per unit *distance travelled*
+  - *Biogenic CO<sub>2</sub>* emissions per unit *distance travelled*
+  - *CH<sub>4</sub>* emissions per unit *distance travelled*
+  - *N<sub>2</sub>O* emissions per unit *distance travelled*
+  - *CH<sub>4</sub>* emissions per unit *fuel consumed*
+  - *N<sub>2</sub>O* emissions per unit *fuel consumed*
 
-CO,,2,, emissions per unit *fuel consumed* are referenced from
+CO<sub>2</sub> emissions per unit *fuel consumed* are referenced from
 [this](Transport_fuels_by_Greenhouse_Gas_Protocol) related Greenhouse
-Gas Protocol methodology. Both fossil- and biogenic-CO,,2,, emissions
+Gas Protocol methodology. Both fossil- and biogenic-CO<sub>2</sub> emissions
 factors are provided although the latter is applicable only to ethanol.
 
 ### Activity data required
@@ -101,12 +101,12 @@ passengers.
 
 ### Calculation and result
 
-The returned quantities for this methodology represent CO,,2,,, biogenic
-CO,,2,,, CH,,4,,, N,,2,,O and CO,,2,,e emissions associated with the
-activity data (distance/fuel) specified. In most cases CO,,2,, emissions
-are entirely represented by fossil CO,,2,, as only biofuels (in this
-case, ethanol) or biofuel blends contain biogenic carbon. CO,,2,,e
-emissions represent all three gases (fossil CO,,2,, only), converted
+The returned quantities for this methodology represent CO<sub>2</sub>, biogenic
+CO<sub>2</sub>, CH<sub>4</sub>, N<sub>2</sub>O and CO<sub>2</sub>e emissions associated with the
+activity data (distance/fuel) specified. In most cases CO<sub>2</sub> emissions
+are entirely represented by fossil CO<sub>2</sub> as only biofuels (in this
+case, ethanol) or biofuel blends contain biogenic carbon. CO<sub>2</sub>e
+emissions represent all three gases (fossil CO<sub>2</sub> only), converted
 using [these](Greenhouse_gases_Global_warming_potentials) global warming
 potential)
 

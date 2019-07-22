@@ -32,7 +32,7 @@ contributions from nitrous oxide and methane as well as carbon dioxide.
 Some also contain data for hydrofluorocarbons, perfluorocarbons and
 sulphur hexafluoride. When AMEE calculates complete greenhouse gas
 emissions, it uses global warming potentials to return a value of
-CO,,2,,e. This is the equivalent amount of carbon dioxide that would
+CO<sub>2</sub>e. This is the equivalent amount of carbon dioxide that would
 have the same atmospheric effect.
 
 There are a number of life-cycle categories in AMEE that are sourced

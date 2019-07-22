@@ -1,10 +1,10 @@
-**Grid electricity methodology. Calculates carbon dioxide (CO,,2,,)
+**Grid electricity methodology. Calculates carbon dioxide (CO<sub>2</sub>)
 emissions associated with the generation of grid electricity by
 country.**
 
 ## Summary
 
-This methodology represents CO,,2,, emissions associated with the the
+This methodology represents CO<sub>2</sub> emissions associated with the the
 production of grid electricity in specific countries and other
 international jurisdictions. The data is sourced from the [Greenhouse
 Gas Protocol](Greenhouse_Gas_Protocol)
@@ -38,7 +38,7 @@ with that quantity.
 The emissions intensity of oil-fired plants varies by geographic region.
 154 distinct countries and other international jurisdictions are
 described by time-series of historical annual emissions factors for
-CO,,2,, (2000-2006).
+CO<sub>2</sub> (2000-2006).
 
 ### Activity data required
 
@@ -52,7 +52,7 @@ case the 'responsible' and 'total' areas should also be provided.
 
 ### Calculation and result
 
-By default, the quantity returned represents the CO,,2,, emissions
+By default, the quantity returned represents the CO<sub>2</sub> emissions
 associated with the country/region and the total quantity of energy
 specified. If values for the 'responsible' and 'total' areas are
 provided the returned value represents just the emissions attributable

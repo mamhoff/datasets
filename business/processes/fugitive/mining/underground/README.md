@@ -1,10 +1,10 @@
 **Fugitive emissions methodology, underground mining. Calculates methane
-(CH,,4,,) emissions based on the quantity of coal produced. Globally
+(CH<sub>4</sub>) emissions based on the quantity of coal produced. Globally
 applicable.**
 
 ## Summary
 
-This methodology represents **methane** (CH,,4,,) emissions associated
+This methodology represents **methane** (CH<sub>4</sub>) emissions associated
 with the **surface mining of coal**. The data and calculation
 methodology are sourced from the [IPCC](IPCC), as published in
 *[Volume 2, Chapter 4 - Fugitive
@@ -21,23 +21,23 @@ Inventories](http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html)*.
 Fugitive emissions of greenhouse gases can arise during underground coal
 mining through several pathways:
 
-  - *Mining emissions*: CH,,4,, emissions result from the liberation of
+  - *Mining emissions*: CH<sub>4</sub> emissions result from the liberation of
     gases during the breakage of coal and surrounding strata during
     mining operations
 
 <!-- end list -->
 
-  - *Post-mining emissions*: CH,,4,, is additionally released from coal
+  - *Post-mining emissions*: CH<sub>4</sub> is additionally released from coal
     during processing and transportation
 
 <!-- end list -->
 
-  - *Low temperature oxidation*: CO,,2,, is produced by the oxidation of
+  - *Low temperature oxidation*: CO<sub>2</sub> is produced by the oxidation of
     coal carbon (C) on exposure to oxygen
 
 <!-- end list -->
 
-  - *Uncontrolled oxidation*: CO,,2,, is produced during the
+  - *Uncontrolled oxidation*: CO<sub>2</sub> is produced during the
     uncontrolled burning of coal. This may occur as a consequence of the
     trapping of heat produced by low temperature oxidation.
 
@@ -49,12 +49,12 @@ oxidation is sometimes significant but extremely difficult to quantify.
 The methodology considers the three emissions components in order to
 calculate net annual emissions:
 
-  - CH,,4,,,,,total,, (kg) = CH,,4,,,,,mining,, +
-    CH,,4,,,,,post-mining,, - CH,,4,,,,,recovered,,
+  - CH<sub>4</sub>,,,total,, (kg) = CH<sub>4</sub>,,,mining,, +
+    CH<sub>4</sub>,,,post-mining,, - CH<sub>4</sub>,,,recovered,,
 
 **Emissions associated with mining operations:** This methodology
-calculates mining-associated CH,,4,, emissions based on emissions
-factors which describe the rate at which CH,,4,, is released in relation
+calculates mining-associated CH<sub>4</sub> emissions based on emissions
+factors which describe the rate at which CH<sub>4</sub> is released in relation
 to the quantity of coal produced (in terms of mass, i.e. tonnes). By
 multiplying these rates (e.g. m^^3^^ per tonne) by the annual quantity
 of coal produced (e.g. tonne per year), an estimate of the annual
@@ -63,24 +63,24 @@ methane emissions - by volume (i.e. m^^3^^ per year) - is made.
 **Emissions associated with the post-mining phase:** This methodology
 provides two ways of calculating post-mining emissions. **(1)** As with
 mining-phase emissions (see above), an emissions factor is available
-which describes the rate at which post-mining CH,,4,, is released in
+which describes the rate at which post-mining CH<sub>4</sub> is released in
 relation to the quantity of coal produced. **(2)** Alternatively, a more
 accurate post-mining emissions factor can be derived on the basis of the
 *in situ* gas content of the coal, since a fixed proportion of this is
 estimated to be emitted subsequent to extraction. The precise precise
-fraction of this in situ CH,,4,, which is released differs depending on
+fraction of this in situ CH<sub>4</sub> which is released differs depending on
 whether pre-drainage of mines is practised.
 
 **Methane recovery:** Where methane recovery/capture is practised, this
 is deducted from the emissions calculation.
 
 All emissions quantities are calculated on a volumetric basis and
-converted to mass quantities using the standard value for CH,,4,,
+converted to mass quantities using the standard value for CH<sub>4</sub>
 density provided by the IPCC guidelines.
 
 ### Model data
 
-The extent to which CH,,4,, is released depends on the depth of the
+The extent to which CH<sub>4</sub> is released depends on the depth of the
 mine. Emissions factors are provided for three depth ranges (*\<200 m*,
 *200-400 m*, *\>400 m*). Each depth range is represented by:
 
@@ -100,16 +100,16 @@ emissions calculations
 
 <!-- end list -->
 
-  - A standard value for the *density of CH,,4,,* (0.67 tonnes per
+  - A standard value for the *density of CH<sub>4</sub>* (0.67 tonnes per
     m^^3^^) which enables the conversion of volumetric to mass-based
     emissions
 
 <!-- end list -->
 
-  - The *global warming potential of CH,,4,,* which enables the
-    conversion of absolute CH,,4,, emissions into a
-    [CO,,2,,e](Greenhouse_gases_Global_warming_potentials) quantity -
-    i.e. the quantity of CO,,2,, which would exert the same atmospheric
+  - The *global warming potential of CH<sub>4</sub>* which enables the
+    conversion of absolute CH<sub>4</sub> emissions into a
+    [CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials) quantity -
+    i.e. the quantity of CO<sub>2</sub> which would exert the same atmospheric
     warming effect
 
 ### Activity data required
@@ -126,13 +126,13 @@ Also optional is the specification of a **volume of recovered methane**
 
 ### Calculation and results
 
-Both mining and post-mining CH,,4,, emissions are calculated and
-aggregated. Any recovered CH,,4,, is then subtracted from this total.
+Both mining and post-mining CH<sub>4</sub> emissions are calculated and
+aggregated. Any recovered CH<sub>4</sub> is then subtracted from this total.
 
 Two emissions quantities are ultimately provided, representing:
-**CH,,4,,** and **CO,,2,,e** emissions. All emissions calculated by this
+**CH<sub>4</sub>** and **CO<sub>2</sub>e** emissions. All emissions calculated by this
 methodology represent those attributable to the specified annual
-quantity of coal production, minus any CH,,4,, which is recovered.
+quantity of coal production, minus any CH<sub>4</sub> which is recovered.
 
 -----
 

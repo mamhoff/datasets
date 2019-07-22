@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - home
 - business
 - energy
@@ -13,13 +13,13 @@ tags:
 - emission_factor
 - direct
 provenance: http://www.eia.doe.gov
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   currencyUSDPerMonth: Amount ($) spent on energy per month
   currencyUSD: Amount ($) spent on energy
   type: Type of energy used
-  source: 
-  kgCO2PerUSD: Per dollar CO,,2,, emissions factor
+  source:
+  kgCO2PerUSD: Per dollar CO<sub>2</sub> emissions factor
 wikiname: US_energy_by_price

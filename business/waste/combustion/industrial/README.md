@@ -6,13 +6,13 @@ for calculating greenhouse gas emissions associated with the burning of
 industrial waste.
 
 Users can choose between several industrial sectors including the paper,
-textiles, food, and construction industries. AMEE calculates CO,,2,,
+textiles, food, and construction industries. AMEE calculates CO<sub>2</sub>
 emissions based on the typical carbon content of each waste type
 (sourced from
 [Chapter 2](http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_2_Ch2_Waste_Data.pdf)
-of the same volume) and assuming 100% combustion. CO,,2,, which derives
+of the same volume) and assuming 100% combustion. CO<sub>2</sub> which derives
 from recently sequestered carbon sources and fossil sources are
-differentiated, since their net impact on atmospheric CO,,2,,
+differentiated, since their net impact on atmospheric CO<sub>2</sub>
 concentrations in distinct.
 
 -----
@@ -35,11 +35,11 @@ each sector.
 
 ### Results and calculation
 
-The values returned represent CO,,2,, emissions associated with the
+The values returned represent CO<sub>2</sub> emissions associated with the
 waste quantity specified. The following discrete values are returned:
 
-  - ***fossilCO2***: CO,,2,, emissions which derived from fossil carbon
-  - ***biogenicCO2***: CO,,2,, emissions which derived from recently
+  - ***fossilCO2***: CO<sub>2</sub> emissions which derived from fossil carbon
+  - ***biogenicCO2***: CO<sub>2</sub> emissions which derived from recently
     sequestered, biogenic carbon
   - ***totalCO2***: fossil *and* biogenic carbon
 
@@ -49,7 +49,7 @@ waste quantity specified. The following discrete values are returned:
 
 ### Methane emissions
 
-The IPCC methodology does not provide CH,,4,, emissions factors for
+The IPCC methodology does not provide CH<sub>4</sub> emissions factors for
 waste combustion disaggregated into individual industry sectors. Rather,
 the IPCC documentation refers users to the methodology for stationary
 fuel combustion. The stationary combustion methodology only specifies
@@ -58,6 +58,6 @@ industrial) on an *energetic* basis and so calculations made on the
 basis of a specific *mass* of waste are not possible ('typical'
 calorific values for these generic wastes are not available given the
 large variability in industrial wastes). As such, this category
-considers only CO,,2,, emissions. For generic waste combustion emissions
-calculations which include CH,,4,, as well as N,,2,,O, users are
+considers only CO<sub>2</sub> emissions. For generic waste combustion emissions
+calculations which include CH<sub>4</sub> as well as N<sub>2</sub>O, users are
 referred to [this](Stationary_Combustion) methodology.

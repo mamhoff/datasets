@@ -1,11 +1,11 @@
 **Metal industry methodology, direct reduced iron. Calculates carbon
-dioxide (CO,,2,,), methane (CH,,4,,) and CO,,2,,e emissions based on the
+dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>) and CO<sub>2</sub>e emissions based on the
 quantities of materials consumed and produced. Globally applicable.**
 
 ## Summary
 
-This methodology represents **carbon dioxide** (CO,,2,,) and **methane**
-(CH,,4,,) emissions associated with the production of **direct reduced
+This methodology represents **carbon dioxide** (CO<sub>2</sub>) and **methane**
+(CH<sub>4</sub>) emissions associated with the production of **direct reduced
 iron**. The data and calculation methodology is sourced from the
 [Greenhouse Gas Protocol](Greenhouse_Gas_Protocol) (GHGP) worksheet tool
 *[CO2 emissions from the production of iron and steel,
@@ -25,18 +25,18 @@ Inventories](http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html)*.
 Direct reduced iron (DRI) is produced from the direct reduction of iron
 ores in solid form (at temperatures of \<1000 °C) by reducing gases
 typically produced from natural gas or coal. The eventual oxidation of
-the carbon-bearing feedstocks (gas, coal) produces CO,,2,, and CH,,4,,.
+the carbon-bearing feedstocks (gas, coal) produces CO<sub>2</sub> and CH<sub>4</sub>.
 
-This methodology enables the calculation of DRI-associated CO,,2,,
+This methodology enables the calculation of DRI-associated CO<sub>2</sub>
 emissions based upon a mass balance approach that accounts for the
 carbon inputs and outputs to the reduction process. All carbon which
 enters the process is assumed to be completely oxidised, adn therefore
 by considering the quantities and carbon contents of natural gas, coke
-breeze and metallurgical coke consumed, the quantity of CO,,2,, emitted
+breeze and metallurgical coke consumed, the quantity of CO<sub>2</sub> emitted
 can be estimated.
 
-CH,,4,, emissions are based on an emissions factor which describes the
-rate at which CH,,4,, is emitted per unit quantity of DRI produced.
+CH<sub>4</sub> emissions are based on an emissions factor which describes the
+rate at which CH<sub>4</sub> is emitted per unit quantity of DRI produced.
 
 This methodology represents the IPCC *Tier 2* approach where default
 carbon content data is used for carbon-bearing feedstocks and products,
@@ -47,24 +47,24 @@ but *Tier 3* where these are based on facility-specfic data.
 This methodology is based on a mass-balance of process inputs and
 outputs, and depends upon quantities and carbon concentrations for each.
 Default carbon content data is provided for natural gas for cases where
-facility-specific data is not available. CH,,4,, emissions also require
+facility-specific data is not available. CH<sub>4</sub> emissions also require
 the quantity of DRI produced to be specified. A default emissions factor
-for CH,,4,, is available but can be specified if facility- or
+for CH<sub>4</sub> is available but can be specified if facility- or
 country-specific data is available.
 
 ### Activity data required
 
-CO,,2,, emissions require quantities and carbon concentrations of
-feedstock in order to calculate. CH,,4,, emissions require the quantity
+CO<sub>2</sub> emissions require quantities and carbon concentrations of
+feedstock in order to calculate. CH<sub>4</sub> emissions require the quantity
 of DRI produced to be specified, and a facility- or country-specific
-emissions factor for CH,,4,, can be provided if available.
+emissions factor for CH<sub>4</sub> can be provided if available.
 
 ### Calculation and results
 
-**CO,,2,,** emissions are calculated by the mass-balance of the
-specified input/output activity data. **CH,,4,,** emissions are
+**CO<sub>2</sub>** emissions are calculated by the mass-balance of the
+specified input/output activity data. **CH<sub>4</sub>** emissions are
 calculated by multiplying the quantity of DRI specified by the specified
-emissions factor. **CO,,2,,e** emissions are also calculated by
+emissions factor. **CO<sub>2</sub>e** emissions are also calculated by
 converting absolute emissions using the appropriate [global warming
 potentials](Greenhouse_gases_Global_warming_potentials).
 

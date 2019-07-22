@@ -1,5 +1,5 @@
 The AMEE category /business/agriculture/soil/inputs contains a
-methodology for calculating the N,,2,,O emissions associated with the
+methodology for calculating the N<sub>2</sub>O emissions associated with the
 application of nitrogen to managed soils, sourced from the IPCC
 [Guidelines for National Greenhouse Gas
 Inventories](http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_11_Ch11_N2O&CO2.pdf).

@@ -33,6 +33,6 @@ follows:
 
   - ***HFC23***: absolute quantity of HFC-23 emissions for the quantity
     specified
-  - ***CO2e***: CO,,2,,e emissions (absolute emissions converted using
+  - ***CO2e***: CO<sub>2</sub>e emissions (absolute emissions converted using
     the appropriate [global warming
     potential](Greenhouse_gases_Global_warming_potentials))

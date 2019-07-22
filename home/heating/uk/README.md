@@ -31,11 +31,11 @@ determine the energy used for water heating, otherwise water heating
 will be determined the ***numberOfBedrooms*** value.
 
 Also in the case of calculations stored using profiles, in addition to
-the returned kgCO,,2,, value, the algorithm sets
-***spaceHeatingCO,,2,,*** and ***waterHeatingCO,,2,,*** parameters in
-units of kgCO,,2,, per year. In some cases (e.g. coal open fires), the
+the returned kgCO<sub>2</sub> value, the algorithm sets
+***spaceHeatingCO<sub>2</sub>*** and ***waterHeatingCO<sub>2</sub>*** parameters in
+units of kgCO<sub>2</sub> per year. In some cases (e.g. coal open fires), the
 algorithm will assume that the water heating is electric and it will set
 ***isWaterHeatingElectric*** to true. The algorithm will set
 ***solarHotWaterEnergySaved*** and
-***renewableElectricitySavedCO,,2,,*** in units of kWh per year if the
+***renewableElectricitySavedCO<sub>2</sub>*** in units of kWh per year if the
 relevant parameters are set to true.

@@ -1,8 +1,8 @@
---- 
+---
 data_items: []
 
 provenance: Act on CO2
-tags: 
+tags:
 - UK
 - typical
 - aggregate
@@ -15,13 +15,13 @@ tags:
 - actonco2
 authority: recommended
 show: "1"
-gallery: 
-ivds: 
-  heatingCO2: Typical CO,,2,, emissions associated with heating
-  numberOfBedrooms: 
+gallery:
+ivds:
+  heatingCO2: Typical CO<sub>2</sub> emissions associated with heating
+  numberOfBedrooms:
   fuel: Heating fuel used
-  lightingCO2: Typical CO,,2,, emissions associated with lighting
+  lightingCO2: Typical CO<sub>2</sub> emissions associated with lighting
   homeType: Type of home
   age: Home age
-  source: 
+  source:
 wikiname: People_Like_Me_Home

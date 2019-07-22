@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - home
 - business
 - energy
@@ -12,13 +12,13 @@ tags:
 - direct
 - emission_factor
 provenance: "[[http://www.epa.gov/cleanenergy/energy-resources/egrid/index.html|E-grid]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
-  kgCO2PerkWh: CO,,2,, emissions factor
+ivds:
+  kgCO2PerkWh: CO<sub>2</sub> emissions factor
   energyConsumption: Energy consumed
-  source: 
+  source:
   kWhPerMonth: Energy consumption per month
   state: US state
 wikiname: US_Energy_by_state

@@ -58,10 +58,10 @@ vary depending on how the user attributes the various portions of the
 life cycle emissions to the various agents involved (e.g. supplier,
 producer, consumer). It is most common to use *direct* emissions only
 when considering electricity consumption. Direct emissions are
-additionally differentiated by the specific greenhouse gases CO,,2,,,
-CH,,4,, and N,,2,,O, the latter two quantities being expressed in terms
-of [CO,,2,,e](Greenhouse_gases_Global_warming_potentials). Indirect and
-life cycle emissions are expressed in terms of CO,,2,,e.
+additionally differentiated by the specific greenhouse gases CO<sub>2</sub>,
+CH<sub>4</sub> and N<sub>2</sub>O, the latter two quantities being expressed in terms
+of [CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials). Indirect and
+life cycle emissions are expressed in terms of CO<sub>2</sub>e.
 
 **Historical values**: The greenhouse gas emissions produced *per unit*
 of electricity generated/consumed varies through time as the mix of
@@ -120,18 +120,18 @@ recent (i.e. 2008) data are used.
 In the case of *direct* emissions, four quantities are returned, as
 follows:
 
-  - ***CO2***: CO,,2,, emissions
-  - ***methaneCO2e***: CH,,4,, emissions
-  - ***nitrousOxideCO2e***: N,,2,,O emissions
-  - ***totalCO2e***: total direct CO,,2,,e emissions (all gases
+  - ***CO2***: CO<sub>2</sub> emissions
+  - ***methaneCO2e***: CH<sub>4</sub> emissions
+  - ***nitrousOxideCO2e***: N<sub>2</sub>O emissions
+  - ***totalCO2e***: total direct CO<sub>2</sub>e emissions (all gases
     combined)
 
-Note that each of these values - including the separated CH,,4,, and
-N,,2,,O emissions - are expressed in terms of carbon-dioxide-equivalent
-(CO,,2,,e) emissions.
+Note that each of these values - including the separated CH<sub>4</sub> and
+N<sub>2</sub>O emissions - are expressed in terms of carbon-dioxide-equivalent
+(CO<sub>2</sub>e) emissions.
 
 For *indirect* and *life cycle* emissions, just the ***totalCO2e***
-quantity is returned which represents total CO,,2,,e emissions for the
+quantity is returned which represents total CO<sub>2</sub>e emissions for the
 indirect and life-cycle perspectives respectively. All quantities
-represent greenhouse gas (CO,,2,,e) emissions associated with the energy
+represent greenhouse gas (CO<sub>2</sub>e) emissions associated with the energy
 quantity (and dates) specified.

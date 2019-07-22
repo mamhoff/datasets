@@ -17,5 +17,5 @@ item values listed below.
 
 ## Algorithm
 
-CO,,2,, emissions = (EF \* carbonateQuantity \* calcinationFrac) -
+CO<sub>2</sub> emissions = (EF \* carbonateQuantity \* calcinationFrac) -
 (lkdQuantity \* weightLkd \* (1 - lkdCalcFrac) \* emFact)

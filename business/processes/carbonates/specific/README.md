@@ -1,11 +1,11 @@
 **Mineral industry methodology, general carbonate calcination.
-Calculates carbon dioxide (CO,,2,,) emissions based on the quantities
+Calculates carbon dioxide (CO<sub>2</sub>) emissions based on the quantities
 and calcination fractions of calcite, magnesite, dolomite, siderite,
 ankerite, rhodochrosite and soda ash. Globally applicable.**
 
 ## Summary
 
-This methodology represents **carbon dioxide** (CO,,2,,) emissions
+This methodology represents **carbon dioxide** (CO<sub>2</sub>) emissions
 associated with the **calcination of carbonate minerals**. The data and
 calculation methodology is sourced from the [IPCC](IPCC), as published
 in *[Volume 3, Chapter 2 - Mineral Industry
@@ -20,25 +20,25 @@ This methodology represents the IPCC ***tier 3*** approach.
 
 ### Emissions model
 
-Limestone (CaCO,,3,,) and dolomite (CaMg(CO,,3,,),,2,,) are basic raw
+Limestone (CaCO<sub>3</sub>) and dolomite (CaMg(CO<sub>3</sub>)<sub>2</sub>) are basic raw
 materials having commercial applications in a number of industries. The
 heating of carbonate minerals to high temperatures ('calcining')
-produces metallic oxides as well as CO,,2,, emissions. This methodology
-calculates CO,,2,, emissions from the general consumption (through
+produces metallic oxides as well as CO<sub>2</sub> emissions. This methodology
+calculates CO<sub>2</sub> emissions from the general consumption (through
 calcination) of carbonate minerals.
 
 The methodology represents a *mass-balance* approach which considers the
 quantities of carbon (C) which enter the calcination process from *all*
 carbonate inputs and attributes any C which is unaccounted for on
-completion of the calcination process to CO,,2,, emissions. The total
+completion of the calcination process to CO<sub>2</sub> emissions. The total
 quantity of each carbonate input fully calcined (and therefore emitted
-as CO,,2,,) is determined on the basis of the **input quantity** (i.e.
+as CO<sub>2</sub>) is determined on the basis of the **input quantity** (i.e.
 mass) and the **fraction calcination achieved** (i.e. a decimal
 fraction, 0-1). This calcined quantity in then converted into it's
-corresponding CO,,2,, quantity on the basis of conversion factors which
+corresponding CO<sub>2</sub> quantity on the basis of conversion factors which
 represent the *stoichiometry* of the chemical processes, i.e. the known
 molecular mass ratio of the reactant carbonate material and the product
-CO,,2,,.
+CO<sub>2</sub>.
 
 Carbonate inputs of **calcite** (or it's polymorph, **aragonite**),
 **magnesite**, **dolomite**, **siderite**, **ankerite**,
@@ -47,7 +47,7 @@ calculation.
 
 ### Model data
 
-CO,,2,, conversion factors (**stoichiometric ratios**) for all carbonate
+CO<sub>2</sub> conversion factors (**stoichiometric ratios**) for all carbonate
 types are sourced from the IPCC and can be found
 [here](Stoichiometries_ratios).
 
@@ -60,8 +60,8 @@ specified (100% calcination is assumed otherwise).
 
 ### Calculation and results
 
-**CO,,2,,** emissions are calculated by multiplying each carbonate input
-by it's respective calcination fraction and CO,,2,, conversion factor
+**CO<sub>2</sub>** emissions are calculated by multiplying each carbonate input
+by it's respective calcination fraction and CO<sub>2</sub> conversion factor
 (stoichiometric ratio).
 
 This emissions calculated by this methodology represent those

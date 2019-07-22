@@ -27,7 +27,7 @@ industry and clinker production:
     the two determination methods when audits are performed
 5.  The CaO content of clinker from a given plant tends not to change
     significantly over the years
-6.  The main source of the CaO for most plants is CaCO,,3,, and, at
+6.  The main source of the CaO for most plants is CaCO<sub>3</sub> and, at
     least at the plant level, any major non-carbonate sources of CaO are
     readily quantified (see Section 2.2.1.2 below)
 7.  A 100 percent (or very close to it) calcination factor is achieved
@@ -42,7 +42,7 @@ choices.
 
 Next, specify the quantity of clinker produced using the
 ***massClinker*** profile item value. The quantity returned represents
-the CO,,2,, emissions associated with the specified production, assuming
+the CO<sub>2</sub> emissions associated with the specified production, assuming
 default values for a number of clinker properties and no production of
 cement kiln dust.
 
@@ -52,11 +52,11 @@ Users can override the default values for clinker calcium oxide (CaO)
 content and the proportion of this CaO which is sourced from carbonates,
 which are used to derive the emissions per unit of clinker produced.
 
-The calcining of 1 tonne of limestone (CaCO,,3,,) produces 0.5603 tonnes
-of CaO and 0.4397 tonnes of CO,,2,,. It follows that the quantity of
-CO,,2,, emitted per tonne of CaO produced is 0.7848 tonnes. By
+The calcining of 1 tonne of limestone (CaCO<sub>3</sub>) produces 0.5603 tonnes
+of CaO and 0.4397 tonnes of CO<sub>2</sub>. It follows that the quantity of
+CO<sub>2</sub> emitted per tonne of CaO produced is 0.7848 tonnes. By
 specifying the proportion of CaO within the clinker, and the proportion
-of this CaO which was originally sourced from CaCO,,3,,, the CO,,2,,
+of this CaO which was originally sourced from CaCO<sub>3</sub>, the CO<sub>2</sub>
 emissions per unit mass of clinker can be derived.
 
 To set the clinker CaO content, specify a decimal fraction (i.e. 0-1)

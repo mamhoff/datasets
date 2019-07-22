@@ -8,7 +8,7 @@ sourced from the World Resources Institute
 [GHG\_Protocol](http://www.ghgprotocol.org/calculation-tools/all-tools)
 for calculating emissions associated with light goods biofuel trucks in
 non-US or UK contexts. This allows users to calculate their biofuel
-CO,,2,, emissions separately from the fossil fuel CO,,2,, emissions
+CO<sub>2</sub> emissions separately from the fossil fuel CO<sub>2</sub> emissions
 calculated in the [Other regional light goods
 truck](Other_regional_light_goods_truck) category.
 
@@ -18,5 +18,5 @@ category is 'ethanol'.
 
 The ***distance*** is then set as a profile item value by the user.
 
-The algorithm returns the kg CO,,2,, for the distance and biofuel type
+The algorithm returns the kg CO<sub>2</sub> for the distance and biofuel type
 specified.

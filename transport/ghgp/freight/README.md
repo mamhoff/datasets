@@ -1,6 +1,6 @@
 **Freight transport emissions methodology. Calculates direct carbon
-dioxide (CO,,2,,), methane (CH,,4,,), nitrous oxide (N,,2,,O) and
-CO,,2,,e emissions associated with freighting. Choices include vehicle
+dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O) and
+CO<sub>2</sub>e emissions associated with freighting. Choices include vehicle
 type, size and region. Global.**
 
 ## Summary
@@ -49,17 +49,17 @@ represented and are differentiated by transport type (i.e. air, heavy
 goods vehicle, plane, rail, ship), vehicle size (e.g. gross vehicle
 weight) and region (UK, US, other regions).
 
-Aside from air freighting, which is represented by a CO,,2,, emissions
+Aside from air freighting, which is represented by a CO<sub>2</sub> emissions
 factor only, each freight transport type is represented by three
 distinct emissions factors which differentiate greenhouse gas emissions
 into the following types:
 
-  - *CO,,2,, emissions*
-  - *CH,,4,, emissions*
-  - *N,,2,,O emissions*
+  - *CO<sub>2</sub> emissions*
+  - *CH<sub>4</sub> emissions*
+  - *N<sub>2</sub>O emissions*
 
-CH,,4,, and N,,2,,O emissions are converted into kg CO,,2,,e - a
-standardized unit representing the effect of a unit kg of CO,,2,, on
+CH<sub>4</sub> and N<sub>2</sub>O emissions are converted into kg CO<sub>2</sub>e - a
+standardized unit representing the effect of a unit kg of CO<sub>2</sub> on
 atmospheric warming - using the appropriate [global warming
 potential](Greenhouse_gases_Global_warming_potentials) for each
 respective gas.
@@ -73,16 +73,16 @@ an emissions calculation.
 
 ### Calculation and result
 
-The returned quantities for this methodology represent CO,,2,,, CH,,4,,,
-N,,2,,O and CO,,2,,e emissions associated with the activity data
-(distance/fuel) specified. CO,,2,,e emissions represent all three gases,
+The returned quantities for this methodology represent CO<sub>2</sub>, CH<sub>4</sub>,
+N<sub>2</sub>O and CO<sub>2</sub>e emissions associated with the activity data
+(distance/fuel) specified. CO<sub>2</sub>e emissions represent all three gases,
 converted using [these](Greenhouse_gases_Global_warming_potentials)
-global warming potential). The individual quantities for CH,,4,, and
-N,,2,,O represent *absolute quantities* rather than CO,,2,,e quantities.
+global warming potential). The individual quantities for CH<sub>4</sub> and
+N<sub>2</sub>O represent *absolute quantities* rather than CO<sub>2</sub>e quantities.
 For some scenarios within this methodology, emissions factors for
-CH,,4,, and N,,2,,O are not available. In these cases values of zero are
+CH<sub>4</sub> and N<sub>2</sub>O are not available. In these cases values of zero are
 returned for the respective gases together with a notification comment.
-CO,,2,, and CO,,2,,e values are returned as normal.
+CO<sub>2</sub> and CO<sub>2</sub>e values are returned as normal.
 
 -----
 
@@ -107,12 +107,12 @@ regions](Other_regional_road_transport_by_Greenhouse_Gas_Protocol).
 
 ### Default units
 
-The CO,,2,, emissions factors contained within this methodology are
+The CO<sub>2</sub> emissions factors contained within this methodology are
 presented in a mixture of units (i.e. kg \[emissions\] per *short ton
 mile*; kg \[emissions\] per *tonne kilometer*) in the original
 Greenhouse Gas Protocol source documentation.
 
-For consistency, all CO,,2,, factors are presented within the AMEE
+For consistency, all CO<sub>2</sub> factors are presented within the AMEE
 platform in a common default unit: kg \[emissions\] per *short ton
 mile*. Emissions factors were converted using the
 tonne-kilometer-to-short-ton-mile conversion factor provided in the

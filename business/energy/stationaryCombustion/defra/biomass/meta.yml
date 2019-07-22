@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - fuel
 - defra
 - stationary
@@ -16,15 +16,15 @@ tags:
 - defra_annex9
 - UK
 provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   fuel: Type of fuel
   massBiogenicCO2ePerMass: Quantity of biogenic CO2 emissions per mass unit of fuel consumed
-  massIndirectCO2ePerMass: Quantity of indirect emissions per mass unit of fuel consumed (as CO,,2,,e)
+  massIndirectCO2ePerMass: Quantity of indirect emissions per mass unit of fuel consumed (as CO<sub>2</sub>e)
   massBiogenicCO2ePerEnergy: Quantity of biogenic CO2 emissions per energy unit of fuel consumed
-  massIndirectCO2ePerEnergy: Quantity of indirect emissions per energy unit of fuel consumed (as CO,,2,,e)
+  massIndirectCO2ePerEnergy: Quantity of indirect emissions per energy unit of fuel consumed (as CO<sub>2</sub>e)
   mass: Mass of fuel consumed
   energy: Energy consumed
 wikiname: DEFRA_Biomass_fuel_methodology

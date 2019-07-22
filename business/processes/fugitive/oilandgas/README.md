@@ -1,13 +1,13 @@
 **Fugitive emissions methodology, underground mining. Calculates carbon
-dioxide (CO,,2,,), methane (CH,,4,,) and nitrous oxide (N,,2,,O)
+dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>) and nitrous oxide (N<sub>2</sub>O)
 emissions based on the quantity of oil or gas processed. Scenarios
 include drilling, production, transport, storage, refining, flaring and
 venting. Globally applicable.**
 
 ## Summary
 
-This methodology represents **carbon dioxide** (CO,,2,,), **methane**
-(CH,,4,,) and **nitrous oxide** (N,,2,,O) emissions associated with the
+This methodology represents **carbon dioxide** (CO<sub>2</sub>), **methane**
+(CH<sub>4</sub>) and **nitrous oxide** (N<sub>2</sub>O) emissions associated with the
 **production, processing and transport of oil and gas**. The data and
 calculation methodology are sourced from the [IPCC](IPCC), as published
 in *[Volume 2, Chapter 4 - Fugitive
@@ -34,7 +34,7 @@ an estimate of the fugitive emissions associated with that quantity and
 process.
 
 This methodology represents the IPCC *tier 1* approach and assumes that,
-in the case of CO,,2,, emissions, hydrocarbons are fully oxidised.
+in the case of CO<sub>2</sub> emissions, hydrocarbons are fully oxidised.
 
 ### Model data
 
@@ -52,14 +52,14 @@ values and, as such, these can be differentiated between *upper*,
 the upper and lower estimates.
 
 Each processing scenario is represented by up to three emissions factors
-representing the emissions of **CO,,2,,**, **CH,,4,,** and **N,,2,,O**
+representing the emissions of **CO<sub>2</sub>**, **CH<sub>4</sub>** and **N<sub>2</sub>O**
 associated with unit volumes processed.
 
 In addition to the process-specific emissions factors, the *global
-warming potentials* of CH,,4,, and N,,2,,O are also used in order to
+warming potentials* of CH<sub>4</sub> and N<sub>2</sub>O are also used in order to
 convert absolute emissions quantities into
-[CO,,2,,e](Greenhouse_gases_Global_warming_potentials) quantities - i.e.
-the quantities of CO,,2,, which would exert the same atmospheric warming
+[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials) quantities - i.e.
+the quantities of CO<sub>2</sub> which would exert the same atmospheric warming
 effect.
 
 ### Activity data required
@@ -75,7 +75,7 @@ specified volumes by the appropriate emissions factors for the process
 under consideration.
 
 Up to four emissions quantities are ultimately provided, representing:
-**CO,,2,,**, **CH,,4,,**, **N,,2,,O** and **total CO,,2,,e** emissions.
+**CO<sub>2</sub>**, **CH<sub>4</sub>**, **N<sub>2</sub>O** and **total CO<sub>2</sub>e** emissions.
 For some processes, only a subset of these gases is appropriate and
 therefore calculated accordingly.
 

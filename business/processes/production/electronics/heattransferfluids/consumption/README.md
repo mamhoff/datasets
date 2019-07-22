@@ -10,7 +10,7 @@ described by the IPCC Guidelines for National Greenhouse Gas Inventories
 The methodology is based on a mass-balance accounting of heat transfer
 fluid usage over a specified period. Users have the option of returning
 absolute quantity of emissions, or, by specifying the particular type of
-FC fluid used, returning the emissions expressed as CO,,2,,e.
+FC fluid used, returning the emissions expressed as CO<sub>2</sub>e.
 
 -----
 
@@ -43,16 +43,16 @@ Since fluids are expressed as liquid volumes, users must also specify
 the density using the ***density*** profile item value, in order to
 express emissions as a mass (e.g. kg).
 
-Users can also convert their emissions into CO,,2,,e - i.e. the quantity
-of CO,,2,, which would produce the same global warming effect as the
-absolute FC emissions. To convert emissions into CO,,2,,e, users must
+Users can also convert their emissions into CO<sub>2</sub>e - i.e. the quantity
+of CO<sub>2</sub> which would produce the same global warming effect as the
+absolute FC emissions. To convert emissions into CO<sub>2</sub>e, users must
 specify which type of fluid is used, as each has a different ['global
 warming potential'](Greenhouse_gases_Global_warming_potentials). Users
 can set the fluid type using the ***fluid*** profile item item value.
 The type of fluid must match one of the options found
 [here](Greenhouse_gases_Global_warming_potentials) - AMEE uses this
 dataset as a lookup resource for converting absolute emissions into the
-appropriate quantity of CO,,2,,e for the respective fluid.
+appropriate quantity of CO<sub>2</sub>e for the respective fluid.
 
 ### Results and calculation
 
@@ -62,7 +62,7 @@ specified. Three quantities are returned, as follows:
 
   - ***rawEmissions***: absolute quantity of emissions for the quantity
     specified
-  - ***CO2e***: CO,,2,,e emissions (absolute emissions converted using
+  - ***CO2e***: CO<sub>2</sub>e emissions (absolute emissions converted using
     the appropriate [global warming
     potential](Greenhouse_gases_Global_warming_potentials))
   - ***default***: this value returns *either* raw emissions or CO2e

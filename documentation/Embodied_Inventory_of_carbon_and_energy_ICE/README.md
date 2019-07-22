@@ -18,14 +18,14 @@ distinct representations of *virgin* versus *recycled* variants of
 materials are available.
 
 For each type of material, the database provides measures of the
-embodied **energy** (i.e. MJ) and **CO,,2,,** emissions (i.e. kg) which
+embodied **energy** (i.e. MJ) and **CO<sub>2</sub>** emissions (i.e. kg) which
 are related to specific unit quantities of the material. The bulk of the
 materials in the dataset are represented as **mass** quantities - that
-is, the embodied energy and CO,,2,, emissions are represented on a *per
+is, the embodied energy and CO<sub>2</sub> emissions are represented on a *per
 kg* basis. Calculations are made, in these cases, by multiplying a mass
 quantity for the material by the appropriate factors. In some cases,
 materials are represented on an **area** basis (i.e. m^2), for example,
-carpets, roads and paint (kg \[CO,,2,,\] per m^2). In these cases,
+carpets, roads and paint (kg \[CO<sub>2</sub>\] per m^2). In these cases,
 calculations are made by providing area quantities.
 
 A number of materials are represented by slightly extended
@@ -33,23 +33,23 @@ methodologies. For example, the methodology for concrete enables the
 specification of an additional quantity of reinforcing steel, while
 double-glazed windows can be specified as having their air spaces filled
 with insulating gases. The several types of timber that are represented
-additionally support the **biogenic CO,,2,,** which is embodied in the
+additionally support the **biogenic CO<sub>2</sub>** which is embodied in the
 production life cycle (i.e. the combustion of off-cuts for energy or
 waste disposal purposes). Users of the dataset can choose whether to
-consider these biogenic emissions together with fossil-derived CO,,2,,
+consider these biogenic emissions together with fossil-derived CO<sub>2</sub>
 emissions.
 
-### CO,,2,,e factors
+### CO<sub>2</sub>e factors
 
-For many materials, unit embodied emissions of CO,,2,,e are also
+For many materials, unit embodied emissions of CO<sub>2</sub>e are also
 available. This value represents all greenhouse gases associated with
 the production cycle, represented in terms of the equivalent quantity of
-CO,,2,, which would exert the same atmospheric warming effect.
+CO<sub>2</sub> which would exert the same atmospheric warming effect.
 
-In cases where no unit CO,,2,, estimate is available in the dataset, the
+In cases where no unit CO<sub>2</sub> estimate is available in the dataset, the
 authors advise that an approximate 'rule of thumb' for calculating
-CO,,2,,e is to increase CO,,2,, emissions by 6%. This value represents
-on the embodied CO,,2,,e associated with fuel use (not process related
+CO<sub>2</sub>e is to increase CO<sub>2</sub> emissions by 6%. This value represents
+on the embodied CO<sub>2</sub>e associated with fuel use (not process related
 emissions) and is based on the average fuel mix of UK industry.
 
 ## Life cycle analysis boundaries
@@ -131,11 +131,11 @@ are summarised below:
 <tbody>
 <tr class="odd">
 <td><strong>1</strong></td>
-<td>The majority of data has been converted to CO,,2,,e which captures more than just CO,,2,, (e.g. CH,,4,,, PFC's)</td>
+<td>The majority of data has been converted to CO<sub>2</sub>e which captures more than just CO<sub>2</sub> (e.g. CH<sub>4</sub>, PFC's)</td>
 </tr>
 <tr class="even">
 <td><strong>2</strong></td>
-<td>The CO,,2,, embodied in timber materials are now separated into <em>fossil</em>- and <em>biogenic</em>- CO,,2,,</td>
+<td>The CO<sub>2</sub> embodied in timber materials are now separated into <em>fossil</em>- and <em>biogenic</em>- CO<sub>2</sub></td>
 </tr>
 <tr class="odd">
 <td><strong>3</strong></td>

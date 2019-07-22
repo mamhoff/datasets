@@ -138,7 +138,7 @@ below.
 <tbody>
 <tr class="odd">
 <td>Characterisation factor</td>
-<td>The importance of single flows relative to a specific basic flow is characterised by a factor, e.g. global warming potential of greenhouse gases relative to CO,,2,,.</td>
+<td>The importance of single flows relative to a specific basic flow is characterised by a factor, e.g. global warming potential of greenhouse gases relative to CO<sub>2</sub>.</td>
 </tr>
 <tr class="even">
 <td>Normalized factor</td>

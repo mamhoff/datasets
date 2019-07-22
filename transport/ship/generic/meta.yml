@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - passenger
 - ship
@@ -11,10 +11,10 @@ tags:
 - emission_factor
 - direct
 provenance: "[[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   country: Country in which travel taken
   numberOfPassengers: Number of passengers under consideration
   distancePerJourney: Distance travelled per journey
@@ -22,12 +22,12 @@ ivds:
   type: Travel type
   distanceKmPerMonth: Distance travelled per month
   typicalJourneyDistance: Typical distance
-  kgCO2PerPassengerKmIE: CO,,2,, emissions factor in Ireland
-  kgCO2PerKmPassenger: CO,,2,, emissions factor
+  kgCO2PerPassengerKmIE: CO<sub>2</sub> emissions factor in Ireland
+  kgCO2PerKmPassenger: CO<sub>2</sub> emissions factor
   useTypicalDistance: Set "true" to use typical distance
   journeyFrequency: Journey frequency
   numberOfJourneys: Number of journeys
-  source: 
+  source:
   distance: Distance travelled
 wikiname: Generic_ship_transport
 usages:

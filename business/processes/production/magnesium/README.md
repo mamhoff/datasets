@@ -18,7 +18,7 @@ National Greenhouse Gas Inventories
 
 The AMEE category
 [business/processes/production/magnesium/castingprocess](Magnesium_casting_process)
-contains a methodology for calculating SF,,6,, emissions from the
+contains a methodology for calculating SF<sub>6</sub> emissions from the
 magnesium casting process segment. The methodology provided by this
 category represents the *Tier 1* (default values) and *Tier 2*
 (facility- or country-specific values) approaches described by the IPCC

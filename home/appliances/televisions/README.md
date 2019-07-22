@@ -1,2 +1,2 @@
-This category contains energy consumption and CO,,2,, emissions data
+This category contains energy consumption and CO<sub>2</sub> emissions data
 associated with television use

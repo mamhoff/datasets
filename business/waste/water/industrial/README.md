@@ -84,8 +84,8 @@ The quantities returned represent the methane emissions associated with
 waste water discharge into the treatment system specified. The following
 quantities are returned:
 
-  - ***CH4***: absolute quantity of CH,,4,, emitted
-  - ***CO2e***: emitted CH,,4,, to CO,,2,,e converted using the
+  - ***CH4***: absolute quantity of CH<sub>4</sub> emitted
+  - ***CO2e***: emitted CH<sub>4</sub> to CO<sub>2</sub>e converted using the
     appropriate [global warming
     potential](Greenhouse_gases_Global_warming_potentials))
 

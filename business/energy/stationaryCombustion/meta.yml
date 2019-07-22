@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - fuel
 - GHGP
 - stationary
@@ -31,22 +31,22 @@ tags:
 - EPA_mandatory
 - EPA_mandatory_fuel
 provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html|IPCC]] - [[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
-gallery: 
+gallery:
 show: "1"
 authority: enterprise
-ivds: 
-  EFLHVNRGN2O: N,,2,,O emissions per unit of energy yielded. This value is based upon the net energy content of the fuel ('net calorific value' or 'lower heating value')
+ivds:
+  EFLHVNRGN2O: N<sub>2</sub>O emissions per unit of energy yielded. This value is based upon the net energy content of the fuel ('net calorific value' or 'lower heating value')
   mass: Mass of fuel used
   NRG: Energy produced in combustion
   useHHV: Set true to indicate that specified of energy represents consumption based on the 'higher heating value' (or gross calorific value). Otherwise, the lower heating value (or net calorific value) is assumed by default. This is only valid if consumption is specified in terms of energy. If fuel quantity is specified as a mass or a volume, this will have no effect.
   LHV: Lower heating value (net calorific value) of the fuel. This is a measure of the energy content of the fuel
   fuel: Type of fuel
-  EFLHVNRGCH4: CH,,4,, emissions per unit of energy yielded. This value is based upon the net energy content of the fuel ('net calorific value' or 'lower heating value')
+  EFLHVNRGCH4: CH<sub>4</sub> emissions per unit of energy yielded. This value is based upon the net energy content of the fuel ('net calorific value' or 'lower heating value')
   volume: Volume of fuel used
-  EFLHVNRGCO2: CO,,2,, emissions per unit of energy yielded. This value is based upon the net energy content of the fuel ('net calorific value' or 'lower heating value')
+  EFLHVNRGCO2: CO<sub>2</sub> emissions per unit of energy yielded. This value is based upon the net energy content of the fuel ('net calorific value' or 'lower heating value')
   HHVConversion: Conversion factor to adjust emissions for use on a higher heating value basis. This is only relevant if consumption is specified in terms of energy
   context: Industrial context or specific technology type
-  source: 
+  source:
   density: Density of liquid and gaseous fuels at standard pressure and temperature
 wikiname: Stationary_Combustion
 usages:

@@ -25,7 +25,7 @@ Denmark both publish their Residual Mixes on a national approach.
 
 ### Emissions model
 
-This methodology represents CO,,2,, emissions associated with grid
+This methodology represents CO<sub>2</sub> emissions associated with grid
 electricity use after taking into consideration the trading of GOs and
 similar products, as well as national and international statistics for
 electricity generation. This is known as the *Residual Mix* and the
@@ -40,11 +40,11 @@ recommendations based on the Energy Trading & Environment 2020 project
 
 ### Model data
 
-CO,,2,, emissions associated with the National domain Electricity
+CO<sub>2</sub> emissions associated with the National domain Electricity
 Disclosure are based upon the *country* and *year*. Currently only data
 for 2010 is available.
 
-CO,,2,, emissions intensities are provided for the following electricity
+CO<sub>2</sub> emissions intensities are provided for the following electricity
 generation types (in g/kWh)
 
   - Renewable
@@ -73,8 +73,8 @@ therefore this must be specified in order to calculate.
 ### Calculation and results
 
 The emissions calculated represent those attributable to the specified
-quantity of electricity used. **CO,,2,,** emissions are calculated for
-each type of electricity generation along with a total **CO,,2,,**
+quantity of electricity used. **CO<sub>2</sub>** emissions are calculated for
+each type of electricity generation along with a total **CO<sub>2</sub>**
 emissions value.
 
 -----

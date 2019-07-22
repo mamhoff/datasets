@@ -21,7 +21,7 @@ grown biomass, the emissions they produce on combustion are almost
 entirely benign from the point of view of atmospheric warming: the
 carbon released from the biomass tissues has only recently been
 sequestered from the atmosphere (during plant growth) and therefore does
-not represent a net contributor to atmospheric CO,,2,, concentrations.
+not represent a net contributor to atmospheric CO<sub>2</sub> concentrations.
 As such, emissions according to this methodology are arealso
 differentiated into two types:
 
@@ -33,7 +33,7 @@ differentiated into two types:
 <!-- end list -->
 
   - **Emissions which are 'outside of scopes'** are equivalent to the
-    CO,,2,, absorbed from the atmosphere during growth of the biomass
+    CO<sub>2</sub> absorbed from the atmosphere during growth of the biomass
 
 ### Model data
 
@@ -78,13 +78,13 @@ AMEE returns the quantity of greenhouse gas emissions associated with
 the quantity of fuel specified. The following discrete **amounts** are
 returned:
 
-  - ***indirectCO2e***: indirect CO,,2,,e emissions
-  - ***bioCO2***: biogenic CO,,2,, emissions
+  - ***indirectCO2e***: indirect CO<sub>2</sub>e emissions
+  - ***bioCO2***: biogenic CO<sub>2</sub> emissions
 
 Users should note that **all quantities** (including the separated
-CH,,4,, and N,,2,,O emissions) are expressed in terms of
-**[CO,,2,,e](Greenhouse_gases_Global_warming_potentials)** - the
-quantity of CO,,2,, which would exert the same atmospheric warming
+CH<sub>4</sub> and N<sub>2</sub>O emissions) are expressed in terms of
+**[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials)** - the
+quantity of CO<sub>2</sub> which would exert the same atmospheric warming
 effect and the emissions quantity.
 
 -----

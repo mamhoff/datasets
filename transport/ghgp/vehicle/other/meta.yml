@@ -1,7 +1,7 @@
---- 
+---
 data_items: []
 
-tags: 
+tags:
 - transport
 - GHGP
 - car
@@ -30,13 +30,13 @@ gallery: |-
         <%= chart :dependent => 'massCO2PerDistance' %>
 show: "1"
 authority: enterprise
-ivds: 
+ivds:
   type: Type of road vehicle
   fuel: Type of fuel used
   emissionStandard: Emissions standard (year of production or technology type)
   distancePerVolume: Fuel efficiency of vehicle
-  massCO2PerDistance: Quantity of fossil CO,,2,, per unit distance
-  massBiogenicCO2PerDistance: Quantity of biogenic CO,,2,, per unit distance
+  massCO2PerDistance: Quantity of fossil CO<sub>2</sub> per unit distance
+  massBiogenicCO2PerDistance: Quantity of biogenic CO<sub>2</sub> per unit distance
   distance: Distance travelled
   occupancy: Occupancy of vehicle
 wikiname: Other_regional_road_transport_by_Greenhouse_Gas_Protocol

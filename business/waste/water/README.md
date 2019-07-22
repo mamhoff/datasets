@@ -27,6 +27,6 @@ further details.
 
 <!-- end list -->
 
-  - [Nitrous oxide (N,,2,,O)](Waste_water_treatment_N2O): this category
-    provides a methodology for calculating the N,,2,,O emissions from
+  - [Nitrous oxide (N<sub>2</sub>O)](Waste_water_treatment_N2O): this category
+    provides a methodology for calculating the N<sub>2</sub>O emissions from
     water treatment plants based on details of the service population.

@@ -53,9 +53,9 @@ institutes, government agencies and peer-reviewed research publications.
 The greenhouse effect is determined by the Global Warming Potential
 (GWP-100) of the three major greenhouse gasses as published by the IPCC:
 
-  - Carbon dioxide (CO,,2,,) = 1 CO,,2,,e
-  - Methane (CH,,4,,) = 25 CO,,2,,e
-  - Nitrous oxide (N,,2,,O) = 296 CO,,2,,e
+  - Carbon dioxide (CO<sub>2</sub>) = 1 CO<sub>2</sub>e
+  - Methane (CH<sub>4</sub>) = 25 CO<sub>2</sub>e
+  - Nitrous oxide (N<sub>2</sub>O) = 296 CO<sub>2</sub>e
 
 Carbon dioxide is created from the use of fossil fuels and electricity.
 Carbon dioxide that results from peat oxidation or forest burning is not
@@ -71,7 +71,7 @@ currently incorporated in the data.
 
 ### Functional unit
 
-The Global Warming Potential (GWP-100) is expressed in kg CO,,2,,e/kg of
+The Global Warming Potential (GWP-100) is expressed in kg CO<sub>2</sub>e/kg of
 product.
 
 ### System boundaries

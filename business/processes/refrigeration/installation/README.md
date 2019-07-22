@@ -20,13 +20,13 @@ i.e. by the manufacturer, are not the user's responsibility.
 Refrigerants differ in their specific physical (particularly thermal)
 properties and therefore exert a variable effect on atmospheric warming.
 As such, the absolute quantity of emissions for a given refrigerant type
-is converted into a standard measure of environmental impact - CO,,2,,e:
-the equivalent quantity of carbon dioxide (CO,,2,,) which would produce
+is converted into a standard measure of environmental impact - CO<sub>2</sub>e:
+the equivalent quantity of carbon dioxide (CO<sub>2</sub>) which would produce
 the same atmospheric warming effect. This conversion is made by
 multiplying the absolute emissions quantity by the ['global warming
 potential'](Greenhouse_gases_Global_warming_potentials) (GWP) of the
 respective refrigerant - a value unique to the gas which represents its
-warming effect relative to CO,,2,,.
+warming effect relative to CO<sub>2</sub>.
 
 -----
 
@@ -262,7 +262,7 @@ associated with the quantities and refrigerant type specified. The
 following quantities are returned:
 
   - ***absoluteEmissions***: absolute quantity of refrigerant emissions
-  - ***CO2e***: CO,,2,,e emissions (absolute emissions converted using
+  - ***CO2e***: CO<sub>2</sub>e emissions (absolute emissions converted using
     the appropriate [global warming
     potential](Greenhouse_gases_Global_warming_potentials))
 

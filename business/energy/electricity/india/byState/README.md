@@ -1,9 +1,9 @@
-**Grid electricity methodology. Calculates carbon dioxide (CO,,2,,)
+**Grid electricity methodology. Calculates carbon dioxide (CO<sub>2</sub>)
 emissions associated with the generation of grid electricity. India.**
 
 ## Summary
 
-This methodology represents CO,,2,, emissions associated with the
+This methodology represents CO<sub>2</sub> emissions associated with the
 production of grid electricity in India. The data is based upon the
 Greenhouse Gas Protocol [customized
 tool](http://www.ghgprotocol.org/files/ghgp/tools/India_Cement%20Tool-final.xls)
@@ -30,7 +30,7 @@ This methodology contains a mapping from Indian states to sub-regions of
 the Indian grid network, thereby enabling the calculation of electricity
 associated emissions on the basis of state. 28 Indian states are
 represented, each mapped to one of 5 grid sub-regions which is, in-turn,
-represented by a characteristic CO,,2,, emissions intensity.
+represented by a characteristic CO<sub>2</sub> emissions intensity.
 
 ### Activity data required
 
@@ -44,7 +44,7 @@ case the 'responsible' and 'total' areas should also be provided.
 
 ### Calculation and result
 
-By default, the quantity returned represents the CO,,2,, emissions
+By default, the quantity returned represents the CO<sub>2</sub> emissions
 associated with the state and the total quantity of energy specified. If
 values for the 'responsible' and 'total' areas are provided the returned
 value represents just the emissions attributable to the area under

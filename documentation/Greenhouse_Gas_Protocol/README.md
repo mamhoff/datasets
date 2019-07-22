@@ -10,9 +10,9 @@ International Standards Organization to the Climate Registry.
 Corporate Standard provides standards and guidance for companies and
 other organizations preparing a GHG emissions inventory. The reporting
 guidelines cover the six greenhouse gases covered by the Kyoto Protocol
-- carbon dioxide (CO,,2,,), methane (CH,,4,,), nitrous oxide (N,,2,,O),
+- carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O),
 hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulphur hexafluoride
-(SF,,6,,). The standard has been adopted by the International
+(SF<sub>6</sub>). The standard has been adopted by the International
 Standardization Organization (ISO) and has become one of the leading
 international standards enabling businesses to understand what is
 required of them and create comparable reports.

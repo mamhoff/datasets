@@ -13,5 +13,5 @@ down option.
 
 Next, specify the distance and mass of the freight transported by
 setting the ***distance*** and ***mass*** profile item values. The
-returned value represents the mass of CO,,2,, emitted in association
+returned value represents the mass of CO<sub>2</sub> emitted in association
 with the specified freighting.

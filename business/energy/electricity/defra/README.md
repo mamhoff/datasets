@@ -44,8 +44,8 @@ life cycle emissions to the various agents involved (e.g. supplier,
 producer, consumer). It is most common to use *direct* emissions only
 when considering electricity consumption. In the UK-specifc dataset,
 direct emissions are additionally differentiated by the specific
-greenhouse gases CO,,2,,, CH,,4,, and N,,2,,O. Indirect and life cycle
-emissions are expressed in terms of CO,,2,,e.
+greenhouse gases CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O. Indirect and life cycle
+emissions are expressed in terms of CO<sub>2</sub>e.
 
 ### Historical values
 

@@ -1,11 +1,11 @@
 **Non energy products emissions methodology, lubricants. Calculates
-carbon dioxide (CO,,2,,) emissions based on the quantity of lubricant
+carbon dioxide (CO<sub>2</sub>) emissions based on the quantity of lubricant
 used. Scenarios include lubricating oil and grease. Globally
 applicable.**
 
 ## Summary
 
-This methodology represents **carbon dioxide** (CO,,2,,) emissions
+This methodology represents **carbon dioxide** (CO<sub>2</sub>) emissions
 associated with the use of **industrial lubricants**. The data and
 calculation methodology are sourced from the [IPCC](IPCC), as published
 in *[Volume 3, Chapter 5 - Non-Energy Products from Fuels and Solvent
@@ -23,7 +23,7 @@ In addition to their uses as fuels (for heat and energy), and industrial
 feedstocks and reducing agents, fossil fuels can also form the basis of
 lubricant products which are used in industrial and transportation
 applications. The use of fossil fuels as lubricants can result in the
-emission of CO,,2,, as some or all of the fossil carbon (C) is oxidised
+emission of CO<sub>2</sub> as some or all of the fossil carbon (C) is oxidised
 unintentionally, e.g. co-combustion of a fraction of lubricants that
 slips into the combustion chamber of an engine.
 
@@ -61,12 +61,12 @@ appropriate emissions factor:
     which is oxidised during use
 
 Also used in the deriviation of emissions factors is the ratio of the
-molecular mass of CO,,2,, (44) and the atomic mass of C (12).
+molecular mass of CO<sub>2</sub> (44) and the atomic mass of C (12).
 
 These values are combined into an emissions factor in the follwing ways:
 
 1.  energy-based emissions factor = mass of carbon per energy x ODU x
-    molecular/atomic mass ratio  
+    molecular/atomic mass ratio
 2.  mass-based emissions factor = energy-based emissions factor x net
     calorific value
 
@@ -78,7 +78,7 @@ or **energy**, as indicated by equations 1 and 2 above.
 
 ### Calculation and results
 
-**CO,,2,,** emissions are calculated by simply multiplying the specified
+**CO<sub>2</sub>** emissions are calculated by simply multiplying the specified
 quantity by the appropriate emissions factor. These emissions represent
 those attributable to the specified quantity used.
 

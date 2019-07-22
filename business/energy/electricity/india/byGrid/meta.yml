@@ -1,8 +1,8 @@
---- 
+---
 data_items: []
 
 provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|GHG Protocol worksheet]]"
-tags: 
+tags:
 - GHGP
 - india
 - electricity
@@ -12,17 +12,17 @@ tags:
 - GHGP_custom
 authority: enterprise
 show: "1"
-gallery: 
-ivds: 
+gallery:
+ivds:
   energyPerTime: The quantity of energy consumed per unit time
   totalArea: Total area of facility
   responsibleArea: Area under consideration
-  source: 
+  source:
   gridName: The grid region in which the electricity was consumed
-  massCO2PerEnergy: "CO,,2,, emissions intensity"
+  massCO2PerEnergy: "CO<sub>2</sub> emissions intensity"
 wikiname: Electricity_India_By_Grid
 name: "Greenhouse Gas Protocol methodology for electricity by Indian grid-region"
 usages:
   totalEmissions : { totalArea : forbidden, responsibleArea : forbidden }
   byResponsibleArea : { totalArea : compulsory, responsibleArea : compulsory }
-  order : [ totalEmissions, byResponsibleArea ] 
+  order : [ totalEmissions, byResponsibleArea ]

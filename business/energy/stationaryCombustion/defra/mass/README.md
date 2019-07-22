@@ -1,6 +1,6 @@
 **Mass based stationary combustion of fuels. Calculates direct, indirect
-and life cycle carbon dioxide (CO,,2,,), methane (CH,,4,,), nitrous
-oxide (N,,2,,O) and carbon dioxide equivalent (CO,,2,,e) emissions
+and life cycle carbon dioxide (CO<sub>2</sub>), methane (CH<sub>4</sub>), nitrous
+oxide (N<sub>2</sub>O) and carbon dioxide equivalent (CO<sub>2</sub>e) emissions
 associated with fuel combustion on the basis of mass combusted.**
 
 ## Summary
@@ -27,14 +27,14 @@ such as the concentration of carbon and moisture within each fuel type.
 Each fuel type is represented by six distinct emissions factors, which
 differentiate greenhouse gas emissions into the following types:
 
-  - '*direct CO,,2,, emissions*': carbon dioxide emissions produced
+  - '*direct CO<sub>2</sub> emissions*': carbon dioxide emissions produced
     *during* fuel combustion
-  - '*direct CH,,4,, emissions*': methane emissions produced *during*
+  - '*direct CH<sub>4</sub> emissions*': methane emissions produced *during*
     fuel combustion
-  - '*direct N,,2,,O emissions*': nitrous oxide emissions produced
+  - '*direct N<sub>2</sub>O emissions*': nitrous oxide emissions produced
     *during* fuel combustion
   - '*total direct emissions*': sum of all direct emissions, i.e.
-    CO,,2,, + CH,,4,, + N,,2,,O
+    CO<sub>2</sub> + CH<sub>4</sub> + N<sub>2</sub>O
   - '*indirect emissions*': emissions associated with stages in the fuel
     production chain such as raw material extraction and fuel delivery
   - '*life cycle emissions*': the total of direct and indirect emissions
@@ -47,14 +47,14 @@ of the chosen type of **fuel**.
 ## Calculation and result
 
 The following quantities are calculated on the basis of the amount of
-mass combusted and associated emission factors: **CO,,2,,**,
-**CH,,4,,**, **N,,2,,O**, **total direct CO,,2,,e**, **full life cycle
-CO,,2,,e**.
+mass combusted and associated emission factors: **CO<sub>2</sub>**,
+**CH<sub>4</sub>**, **N<sub>2</sub>O**, **total direct CO<sub>2</sub>e**, **full life cycle
+CO<sub>2</sub>e**.
 
 Users should note that **all quantities** (including the separated
-CH,,4,, and N,,2,,O emissions) are expressed in terms of
-**[CO,,2,,e](Greenhouse_gases_Global_warming_potentials)** - the
-quantity of CO,,2,, that would exert the same atmospheric warming effect
+CH<sub>4</sub> and N<sub>2</sub>O emissions) are expressed in terms of
+**[CO<sub>2</sub>e](Greenhouse_gases_Global_warming_potentials)** - the
+quantity of CO<sub>2</sub> that would exert the same atmospheric warming effect
 and the emissions quantity.
 
 -----

@@ -41,7 +41,7 @@ choices.
 The minimum requirement in order that a calculation be made is the
 specification of the quantity of green coke feedstock used during
 calcination. This should be specified using the ***massGreenCoke***
-profile item value. The returned value represents CO,,2,, emissions
+profile item value. The returned value represents CO<sub>2</sub> emissions
 associated with the calcination of that quantity.
 
 Users can also set values for other process attributes, using the

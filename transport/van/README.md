@@ -10,7 +10,7 @@ representative van types. The data and methodology is sourced from
 [DEFRA](http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm)
 with emissions calculations made on on the basis of distance travelled,
 with the option of specifying vehicle fuel consumption for the most
-accurate results. This category measures CO,,2,, emissions only and
+accurate results. This category measures CO<sub>2</sub> emissions only and
 should be considered to represent a useful first point of entry to
 van-related emissions.
 
@@ -22,7 +22,7 @@ contains the most recently published
 data on greenhouse gas emissions associated with representative van
 types in UK. The methodology uses distance-based, *per vehicle*
 emissions factors, requiring the user to specify the distance travelled.
-This category includes CO,,2,,, CH,,4,, and N,,2,,O emissions as part of
+This category includes CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O emissions as part of
 each calculation.
 
 ## Generic van transport - GHG Protocol

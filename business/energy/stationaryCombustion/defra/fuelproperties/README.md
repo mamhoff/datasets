@@ -19,7 +19,7 @@ which the associated greenhouse gas emissions are calculated.
 
 27 distinct fuel types are represented (including methane, which can be
 both a fuel and a combustion by-product), while density values are also
-provided for carbon dioxide (CO,,2,,).
+provided for carbon dioxide (CO<sub>2</sub>).
 
 ### Energy content
 

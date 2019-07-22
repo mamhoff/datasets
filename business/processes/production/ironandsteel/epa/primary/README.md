@@ -2,7 +2,7 @@ The AMEE category at
 business/processes/production/ironandsteel/epa/primary provides a
 methodology for calculating greenhouse gas emissions associated with the
 production of primary iron and steel. This methodology accounts for the
-CO,,2,, emissions due to carbonate calcination and adjusts [stationary
+CO<sub>2</sub> emissions due to carbonate calcination and adjusts [stationary
 combustion](EPA_stationary_combustion) emissions by accounting for
 carbon which remains contained within process products or by-products.
 The methodology is sourced from the guidelines published by the [Climate
@@ -15,9 +15,9 @@ choices.
 
 Next, set the quantity of the carbonate flux used by setting the
 ***fluxQuantity*** profile item value. The returned amount represents
-CO,,2,, emissions associated with this quantity of flux, assuming that
+CO<sub>2</sub> emissions associated with this quantity of flux, assuming that
 the quantity specified represents 100% calcium carbonate (limestone).
-The calculation uses a default value for CO,,2,, emissions per unit of
+The calculation uses a default value for CO<sub>2</sub> emissions per unit of
 calcium carbonate, based on the known stoichiometric relationship
 between the two.
 

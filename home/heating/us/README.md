@@ -1,6 +1,6 @@
 This category contains data items for describing home heating and air
 conditioning in the US based on survey data for 2001. Profile items
-return kgCO,,2,, emission figures for various combinations of the
+return kgCO<sub>2</sub> emission figures for various combinations of the
 following:
 
   - state or region in the US

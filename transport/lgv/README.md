@@ -11,7 +11,7 @@ methodologies available within this category.
 
 Some methodologies estimate emissions on the basis of distance travelled
 *only*. In this case, calculations are made on the basis of
-distance-based emissions factors (e.g. kg CO,,2,, per km), and users are
+distance-based emissions factors (e.g. kg CO<sub>2</sub> per km), and users are
 therefore only required to specify a distance value. The returned value
 implicitly represents emissions for an entire vehicle journey(s), i.e.
 on a *per vehicle* basis. In these cases, large goods vehicles are
@@ -23,8 +23,8 @@ Other methodologies use data relating to the fuel consumption of
 freighting vehicles together with assumptions regarding their typical
 freight loading to establish emissions factors which describe emissions
 according to a *specific unit of freight transported*. These emissions
-factors are of the form *mass CO,,2,, per distance per mass* (e.g. kg
-CO,,2,, per km per tonne) and therefore require both a distance and a
+factors are of the form *mass CO<sub>2</sub> per distance per mass* (e.g. kg
+CO<sub>2</sub> per km per tonne) and therefore require both a distance and a
 value for the mass of the freight transported to be specified in order
 for a calculation to be made. In these cases, the value returned
 represents only the emissions attributable to the quantity of freight
@@ -40,7 +40,7 @@ contains the most recently published
 data on greenhouse gas emissions associated with representative lorry
 types in UK. The methodology uses distance-based, *per vehicle*
 emissions factors, requiring the user to specify the distance travelled.
-This category includes CO,,2,,, CH,,4,, and N,,2,,O emissions as part of
+This category includes CO<sub>2</sub>, CH<sub>4</sub> and N<sub>2</sub>O emissions as part of
 each calculation users may also specify the percentage loading of
 lorries for a more accurate emissions calculation.
 

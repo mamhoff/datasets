@@ -60,6 +60,6 @@ CO2eEmissionFactor = CO2EF + CO2eEFForN2O + CO2eEFForCH4
 CO2e = CO2eEmissionFactor \* distancePerJourney \* numberOfJourneys \*
 numberOfPassengers
 
-The algorithm returns a value of kgCO,,2,,e for the selected journey.
+The algorithm returns a value of kgCO<sub>2</sub>e for the selected journey.
 This value includes contributions from carbon dioxide, nitrous oxide and
 methane.
