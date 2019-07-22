@@ -1,5 +1,3 @@
-name,Heating
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Home Dwelling Type,homeDwellingType,TEXT,true,true,,,,
 Number Of Bedrooms,homeNoOfBedrooms,TEXT,true,true,,,,

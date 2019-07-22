@@ -1,5 +1,3 @@
-name,Manure methane other
-algFile,default.js
 name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Livestock type,livestockType,TEXT,true,true,,,,
 Geographic context,geographicContext,TEXT,true,true,,,,

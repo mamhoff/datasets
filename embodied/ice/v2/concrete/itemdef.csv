@@ -1,5 +1,3 @@
-name,ICE v2 concrete
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Concrete type,type,TEXT,true,true,,,,
 Concrete subtype,subtype,TEXT,true,true,,,,

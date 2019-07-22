@@ -1,5 +1,3 @@
-name,Transport By Fuel GHGP US
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Fuel Type,fuelType,TEXT,true,true,,,,
 CO2 or CO2e,CO2eOrCO2,TEXT,true,true,,,,

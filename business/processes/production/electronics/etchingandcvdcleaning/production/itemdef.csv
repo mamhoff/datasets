@@ -1,5 +1,3 @@
-name,Electronics etching and cvd cleaning by production
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Industry sector,sector,TEXT,true,true,,,,
 CF4 emissions per area substrate produced,massCF4PerArea,DECIMAL,true,false,kg,m^2,,

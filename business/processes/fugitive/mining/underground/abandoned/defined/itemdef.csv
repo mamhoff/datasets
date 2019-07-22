@@ -1,5 +1,3 @@
-name,fugitive abandoned mine user defined
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Coal rank,coalRank,TEXT,true,true,,,,
 CH4 emissions rate prior to abandonment,emissionsRate,DECIMAL,false,false,m^3,year,,

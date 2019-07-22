@@ -1,5 +1,3 @@
-name,Water treatment anaerobic digestion
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of process,type,TEXT,true,true,,,,
 Total volumetric flow,volumetricFlow,DECIMAL,false,false,ft^3,min,,

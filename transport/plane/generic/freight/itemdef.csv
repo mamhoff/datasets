@@ -1,5 +1,3 @@
-name,Plane Freight
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 CO2,CO2,DECIMAL,true,false,kg,km*kg,,
 Distance,distance,DECIMAL,false,false,km,,,

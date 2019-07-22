@@ -1,5 +1,3 @@
-name,ICE v2 references
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Reference number,reference,TEXT,true,true,,,,
 Reference title,title,TEXT,true,false,,,,

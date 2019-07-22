@@ -1,5 +1,3 @@
-name,Ferroalloy production generic methodology
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of Ferroalloy,typeOfFerroalloy,TEXT,true,true,,,,
 Mass CO2 Produced Per Mass Product,massCO2PerMassProduct,DECIMAL,both,false,t,t,,

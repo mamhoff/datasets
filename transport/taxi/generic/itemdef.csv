@@ -1,5 +1,3 @@
-name,Taxi Generic
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 kgCO2 Per Km,kgCO2PerKm,DECIMAL,true,false,,,,

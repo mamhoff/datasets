@@ -1,5 +1,3 @@
-name,IPCC US Motorcycle conventional fuel
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Fuel type,fuel,TEXT,true,true,,,,
 Emissions control technology,technology,TEXT,true,true,,,,

@@ -1,5 +1,3 @@
-name,Adipic Acid N2O emissions
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Abatement Technology employed,abatementTechnology,TEXT,true,true,,,,
 Quantity of Adipic Acid produced,adipicQuantity,DECIMAL,false,false,kg,,,

@@ -1,5 +1,3 @@
-name,Energy Star Digital Duplicators
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Brand Name,brandName,TEXT,true,true,,,,
 Model Name,modelName,TEXT,true,true,,,,

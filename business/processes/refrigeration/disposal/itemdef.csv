@@ -1,5 +1,3 @@
-name,Refrigeration Disposal
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of Equipment,type,TEXT,true,true,,,,
 Percentage Capacity Remaining at Disposal,capacityRemainingAtDisposal,DECIMAL,true,false,,,,

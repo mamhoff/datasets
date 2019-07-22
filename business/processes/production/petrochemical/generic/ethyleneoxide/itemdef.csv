@@ -1,5 +1,3 @@
-name,Ethylene oxide production
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of process,process,TEXT,true,true,,,,
 Catalyst selectivity,catalystSelectivity,DECIMAL,true,true,,,,

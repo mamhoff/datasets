@@ -1,5 +1,3 @@
-name,GHGFreight
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 CO2 per freight-distance,massCO2perDistanceMassFreight,DECIMAL,true,false,kg,t*km,,
 Distance travelled,distance,DECIMAL,false,false,km,,,

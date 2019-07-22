@@ -1,5 +1,3 @@
-name,Energy UK Suppliers
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Supplier,supplier,TEXT,true,true,,,,
 Source,source,TEXT,true,false,,,,

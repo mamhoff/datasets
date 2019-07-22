@@ -1,5 +1,3 @@
-name,Electronics emissions control
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Gas,gas,TEXT,true,true,,,,
 Emissions control efficiency for destructive technologies,destructionEfficiency,DECIMAL,true,false,,,,

@@ -1,5 +1,3 @@
-name,Municipal waste combustion
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of waste,type,TEXT,true,true,,,,
 Method of burning,method,TEXT,true,true,,,,

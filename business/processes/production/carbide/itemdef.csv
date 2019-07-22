@@ -1,5 +1,3 @@
-name,Carbide production
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of carbide,type,TEXT,true,true,,,,
 Basis for calculation,basis,TEXT,true,true,,,,

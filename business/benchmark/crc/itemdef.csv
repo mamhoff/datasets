@@ -1,5 +1,3 @@
-name,Carbon Reduction Commitment League Table
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Organization name,organizationName,TEXT,true,true,,,,
 Registration number,registrationNumber,TEXT,true,false,,,,

@@ -1,5 +1,3 @@
-name,Iron and Steel: DRI
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Natural Gas Consumption,gasQuantity,DECIMAL,false,false,kg,,,
 Natural Gas Carbon Content,gasCarbon,DECIMAL,false,false,kg,kg,0.73,

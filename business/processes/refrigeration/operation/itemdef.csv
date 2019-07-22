@@ -1,5 +1,3 @@
-name,Refrigeration Operation
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of Equipment,type,TEXT,true,true,,,,
 Annual Percentage Leak Rate,annualLeakRate,DECIMAL,true,false,,year,,

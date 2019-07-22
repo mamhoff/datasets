@@ -1,5 +1,3 @@
-name,Flaring
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of flaring,type,TEXT,true,true,,,,
 Volume of gas flared,volume,DECIMAL,false,false,ft^3,,,

@@ -1,5 +1,3 @@
-name,mobileCombustion,,,,,,,
-algFile,default.js,,,,,,,
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 EF (Energy),EFNRGCO2,DECIMAL,true,false,kg,GJ,,
 Energy used,NRG,DECIMAL,false,false,,,,

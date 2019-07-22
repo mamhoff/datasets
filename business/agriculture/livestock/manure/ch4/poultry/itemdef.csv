@@ -1,5 +1,3 @@
-name,Manure methane poultry
-algFile,default.js
 name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Geographic context,geographicContext,TEXT,true,true,,,,
 Poultry type,poultryType,TEXT,true,true,,,,

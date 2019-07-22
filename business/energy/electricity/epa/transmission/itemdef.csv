@@ -1,5 +1,3 @@
-name,EPA eGrid transmission losses
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Grid region,region,TEXT,true,true,,,,
 Grid region name,name,TEXT,true,false,,,,

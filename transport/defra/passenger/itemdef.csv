@@ -1,5 +1,3 @@
-name,DEFRA passenger transport
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of transport,type,TEXT,true,true,,,,
 Subtype of transport,subtype,TEXT,true,true,,,,

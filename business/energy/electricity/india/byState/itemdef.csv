@@ -1,5 +1,3 @@
-name,GHGP Electricity India by province
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 State Name,stateName,TEXT,true,true,,,,
 Grid Name,gridName,TEXT,true,false,,,,

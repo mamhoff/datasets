@@ -1,5 +1,3 @@
-name,Taxi DEFRA
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 Assumed Occupancy,assumedOccupancy,DECIMAL,true,false,,,,

@@ -1,5 +1,3 @@
-name,Manure N2O poultry
-algFile,default.js
 name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Region,region,TEXT,true,true,,,,
 Poultry subtype,poultrySubtype,TEXT,true,true,,,,

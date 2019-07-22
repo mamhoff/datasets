@@ -1,5 +1,3 @@
-name,Plane Freight DEFRA
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 kgCO2 Per Tonne Km,kgCO2PerTonneKm,DECIMAL,true,false,,,,

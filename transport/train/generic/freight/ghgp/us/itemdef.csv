@@ -1,5 +1,3 @@
-name,GHGP train freight US
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of train,type,TEXT,true,true,,,,
 Train sub-type,subtype,TEXT,true,true,,,,

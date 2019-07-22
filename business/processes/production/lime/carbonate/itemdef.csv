@@ -1,5 +1,3 @@
-name,Lime Manufacture - Carbonate Data
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Carbonate Type,carbonateType,TEXT,true,true,,,,
 Quantity of Carbonate,carbonateQuantity,DECIMAL,false,false,kg,,,

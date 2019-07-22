@@ -1,5 +1,3 @@
-name,Cooktop US
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Cooker Type,cookerType,TEXT,true,true,,,,
 Fuel Type,fuelType,TEXT,true,true,,,,

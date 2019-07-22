@@ -1,5 +1,3 @@
-name,Nitric Acid N2O emissions
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Quantity of Nitric Acid,acidQuantity,DECIMAL,false,false,kg,,,
 Emissions Factor,specEmFact,DECIMAL,false,false,kg,kg,,

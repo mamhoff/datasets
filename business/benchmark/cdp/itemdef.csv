@@ -1,5 +1,3 @@
-name,CDP emissions and financial metrics
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Company,company,TEXT,true,true,,,,
 Country,country,TEXT,true,true,,,,

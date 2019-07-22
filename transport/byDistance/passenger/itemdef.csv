@@ -1,5 +1,3 @@
-name,GHGPassenger
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Distance,distance,DECIMAL,false,false,km,,,
 Mass CO2 per Passenger Distance,massCO2perPassengerDistance,DECIMAL,true,false,kg,km,,

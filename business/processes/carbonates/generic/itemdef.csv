@@ -1,5 +1,3 @@
-name,Generic carbonates
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of carbonate,type,TEXT,true,true,,,,
 Form of carbonate,form,TEXT,true,true,,,,

@@ -1,5 +1,3 @@
-name,Car Bands
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Band,band,TEXT,true,true,,,,
 Source,source,TEXT,true,false,,,,

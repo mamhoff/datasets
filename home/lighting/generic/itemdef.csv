@@ -1,5 +1,3 @@
-name,Lighting generic
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Location (country/region),location,TEXT,true,true,,,,
 Type of light bulb,type,TEXT,true,true,,,,

@@ -1,5 +1,3 @@
-name,Cement Production - Cement-Based Method
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 Cement Production,cementQuantity,DECIMAL,false,false,kg,year,,

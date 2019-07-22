@@ -1,5 +1,3 @@
-name,DEFRA heavy goods vehicles
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of vehicle,type,TEXT,true,true,,,,
 Vehicle size,size,TEXT,true,true,,,,

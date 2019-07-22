@@ -1,5 +1,3 @@
-name,Clinker production (IPCC)
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 Quantity clinker produced,massClinker,DECIMAL,false,false,t,,,

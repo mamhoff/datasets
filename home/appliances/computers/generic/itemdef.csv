@@ -1,5 +1,3 @@
-name,Computers Generic
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Device,device,TEXT,true,true,,,,
 Rating,rating,TEXT,true,true,,,,

@@ -1,5 +1,3 @@
-name,Hydrogen production by feedstock
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of process,type,TEXT,true,true,,,,
 Quantity of feedstock consumed,massFeedstock,DECIMAL,false,false,t,year,,

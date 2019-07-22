@@ -1,5 +1,3 @@
-name,Hydrogen production
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Hydrogen production process,process,TEXT,true,true,,,,
 Quantity of CO2 emitted per quantity of hydrogen,massCO2PerMass,DECIMAL,true,false,g,kg,,

@@ -1,5 +1,3 @@
-name,Bus Generic
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 kgCO2 Per Passenger Km,kgCO2PerKmPassenger,DECIMAL,true,false,,,,

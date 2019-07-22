@@ -1,5 +1,3 @@
-name,GHGP transport fuel by context
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Fuel type,fuel,TEXT,true,true,,,,
 Context of fuel use,useContext,TEXT,true,true,,,,

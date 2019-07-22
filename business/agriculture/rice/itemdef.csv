@@ -1,5 +1,3 @@
-name,Rice cultivation
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Rice cultivation system,system,TEXT,true,true,,,,
 Drainage regime,drainage,TEXT,true,true,,,,

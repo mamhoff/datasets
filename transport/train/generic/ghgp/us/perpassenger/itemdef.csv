@@ -1,5 +1,3 @@
-name,Train GHGP per passenger US
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of vehicle,type,TEXT,true,true,,,,
 CO2 per passenger distance,kgCO2PerPassengerMile,DECIMAL,true,false,kg,mi,,

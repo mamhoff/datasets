@@ -1,5 +1,3 @@
-name,IPCC military aircraft
-algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Aircraft type,type,TEXT,true,true,,,,
 Fuel flow,volumeFuelPerTime,DECIMAL,true,false,L,min,,
