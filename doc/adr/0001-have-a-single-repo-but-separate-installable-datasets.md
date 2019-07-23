@@ -17,11 +17,15 @@ Right now, the datasets from AMEE, exist largely as combinations of:
 
 This has a few problems:
 
-The `item_definitions.csv` isn't a real csv file, meaning it's a pain to see what's in it
+The `item_definitions.csv` isn't a real csv file, meaning it's a pain to see what's in it, using a number of lightweight CSV viewing tools
 The `creole` format is supported by github, but it's otherwise not very well known, and we assume would be a barrier to contributions
-The `data.csv` file, as a csv file, which requires a library that can handle csv files to get data out easily.
+The `data.csv` file, as a csv file requires a library that can handle csv files to get information out easily - most languages have this, but some runtimes don't, like javascript in the browser and on the server.
 
-Moroever, they need to be run in the AMEE platform. We want to be able require models individually, and re-use the package.json package management infrastructure for tracking dependencies, between datasets, so you only need to `npm install` the model you care about, then make the code as much like working with javascript, and convenient js datastructures as possible, liks JSON.
+Moroever, they need to be run in the AMEE platform, which while open source, requires you to understand a whole separate code base, just to run some relatively simple calculations.
+
+We want to be able require models individually, and re-use the `package.json` package management infrastructure for tracking dependencies between datasets, so you only need to `npm install` the model you care about.
+
+The goal is to make the code as much like working with common javascript objects, with the minimum number of API methods to learn.
 
 ## Decision
 
@@ -34,4 +38,6 @@ The plan is to take to:
 
 ## Consequences
 
-We no longer need CSV parsing files. Code relying on the current `item_definitions.csv` format will not be able to consume new datasets.
+We no longer need CSV parsing code for look up data in the datasets (although, we keep the original csv files in the datasets, do they can be easily consumed if can _can_ read csv easily)
+
+Code relying on the current `item_definitions.csv` format will not be able to consume new datasets.
