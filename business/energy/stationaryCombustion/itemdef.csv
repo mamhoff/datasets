@@ -10,5 +10,5 @@ Lower heating value,LHV,DECIMAL,true,false,TJ,Gg,,
 Mass of fuel used,mass,DECIMAL,false,false,Gg,,,
 Volume of fuel used,volume,DECIMAL,false,false,m^3,,,
 Energy of fuel used,NRG,DECIMAL,false,false,TJ,,,
-Use higher heating value?,useHHV,TEXT,false,false,,,false,true,false
+Use higher heating value?,useHHV,TEXT,false,false,,,false,true|false
 Source,source,TEXT,true,false,,,,

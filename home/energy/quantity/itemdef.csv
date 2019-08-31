@@ -8,7 +8,7 @@ Current Reading,currentReading,DECIMAL,false,false,kWh,year,0,
 Number of deliveries,deliveries,DECIMAL,false,false,,year,,
 Energy Consumption,energyConsumption,DECIMAL,false,false,kWh,year,0,
 Green tariff,greenTariff,TEXT,false,false,,,,
-Includes Heating,includesHeating,TEXT,false,false,,,false,true=true,false=false
+Includes Heating,includesHeating,TEXT,false,false,,,false,true=true|false=false
 kWh Per Month,kWhPerMonth,DECIMAL,false,false,kWh,month,0,
 kWh reading current,kWhReadingCurrent,DECIMAL,false,false,kWh,month,0,
 kWh reading last,kWhReadingLast,DECIMAL,false,false,kWh,month,0,
