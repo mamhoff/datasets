@@ -9,6 +9,8 @@ export async function getItemDefinitions(path) {
         return null;
       } else if (header.startsWith('is')) {
         return value == "true"
+      } else if (header === "choices") {
+        return value.split('|')
       } else {
         return value
       }

@@ -18,3 +18,20 @@ test('works on planet/greenhousegases/gwp', async () => {
     }
   )
 })
+
+test('works on business/waste/combustion/industrial', async () => {
+  const data = await convertData.getItemDefinitions('business/waste/combustion/industrial');
+  expect(data['includeAllCarbon']).toMatchObject(
+    {
+      "name": "Include all carbon",
+      "path": "includeAllCarbon",
+      "type": "TEXT",
+      "isDataItemValue": false,
+      "isDrillDown": false,
+      "unit": null,
+      "perUnit": null,
+      "default": 'false',
+      "choices": ['true', 'false']
+    }
+  )
+})
