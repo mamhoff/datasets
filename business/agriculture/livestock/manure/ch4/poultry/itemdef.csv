@@ -1,4 +1,4 @@
-name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Geographic context,geographicContext,TEXT,true,true,,,,
 Poultry type,poultryType,TEXT,true,true,,,,
 Mean annual temperature,temperature,TEXT,true,true,,,,

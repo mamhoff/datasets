@@ -1,4 +1,4 @@
-name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Region,region,TEXT,true,true,,,,
 Poultry subtype,poultrySubtype,TEXT,true,true,,,,
 Management type,managementType,TEXT,true,true,,,,

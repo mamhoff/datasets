@@ -1,4 +1,4 @@
-name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Fuel,fuel,TEXT,true,true,,,,
 Mass CO2 per energy,massCO2PerEnergy,DECIMAL,true,false,kg,kWh,,
 Mass CO2 per mass,massCO2PerMass,DECIMAL,true,false,kg,t,,
