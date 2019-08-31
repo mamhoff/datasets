@@ -12,5 +12,5 @@ km per litre,kmPerLitre,DECIMAL,false,false,km,L,0,
 km per litre own,kmPerLitreOwn,DECIMAL,false,false,km,L,0,
 Occupants,occupants,DECIMAL,false,false,,,-1,
 Own Fuel Consumption,ownFuelConsumption,DECIMAL,false,false,km,L,0,
-Use typical distance,useTypicalDistance,BOOLEAN,false,false,,,false,false,true
+Use typical distance,useTypicalDistance,BOOLEAN,false,false,,,false,false|true
 Total fuel consumed,fuelConsumed,DECIMAL,false,false,L,,,

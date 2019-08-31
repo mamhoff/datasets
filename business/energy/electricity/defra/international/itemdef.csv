@@ -10,6 +10,6 @@ Percentage heat,percentHeat,DECIMAL,true,false,,,,
 Percentage electricity losses,percentLossesElectricity,DECIMAL,true,false,,,,
 Percentage heat losses,percentLossesHeat,DECIMAL,true,false,,,,
 Energy consumed,energyConsumed,DECIMAL,false,false,kWh,,,
-Calculation basis,calculationBasis,TEXT,false,false,,,annual,annual,average
-Emission type,emissionType,TEXT,false,false,,,direct,direct,indirect,life cycle
+Calculation basis,calculationBasis,TEXT,false,false,,,annual,annual|average
+Emission type,emissionType,TEXT,false,false,,,direct,direct|indirect|life cycle
 Source,source,TEXT,true,false,,,,

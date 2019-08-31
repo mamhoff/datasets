@@ -13,5 +13,5 @@ Embodied CO2 per unit mass for reinforcing steel,massPerMassPerSteelDensity,DECI
 Embodied energy per unit mass for precasting,energyPerMassPrecast,DECIMAL,false,false,MJ,kg,0.45,
 Embodied CO2 per unit mass for precasting,massPerMassPrecast,DECIMAL,false,false,kg,kg,0.029,
 Density of reinforcing steel,steelDensity,DECIMAL,false,false,kg,m^3,,
-Is precast concrete?,isPrecast,BOOLEAN,false,false,,,false,true,false
+Is precast concrete?,isPrecast,BOOLEAN,false,false,,,false,true|false
 Source,source,TEXT,true,false,,,,

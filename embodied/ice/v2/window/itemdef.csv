@@ -7,5 +7,5 @@ Embodied CO2 per window,massCO2PerWindow,DECIMAL,true,false,kg,,,
 Life cycle analysis boundary,boundary,TEXT,true,false,,,,
 Publication notes,note,TEXT,true,false,,,,
 Number of windows,number,DECIMAL,false,false,,,,
-Air space fill,fill,TEXT,false,false,,,Air,Air,Argon,Krypton,Xenon
+Air space fill,fill,TEXT,false,false,,,Air,Air|Argon|Krypton|Xenon
 Source,source,TEXT,true,false,,,,

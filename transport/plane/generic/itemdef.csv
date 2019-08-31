@@ -17,5 +17,5 @@ Long2,long2,DECIMAL,false,false,,,-999,
 Number of passengers,numberOfPassengers,DECIMAL,false,false,,,,
 Passenger Class,passengerClass,TEXT,false,false,,,,
 Radiative Forcing Index (RFI),radiativeForcingIndex,DECIMAL,false,false,,,1.9,
-Use RFI,useRFI,TEXT,false,false,,,false,true,false
+Use RFI,useRFI,TEXT,false,false,,,false,true|false
 Great Circle calculated distance,calculatedDistance,DECIMAL,false,false,,,,

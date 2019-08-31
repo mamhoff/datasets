@@ -4,10 +4,10 @@ Treatment subtype,subtype,TEXT,true,true,,,,
 Direct fertilizer-N to N2O-N conversion factor,massPerMass,DECIMAL,true,false,kg,kg,,
 Direct fertilizer-N to N2O-N conversion factor (flooded rice fields),massPerMassIfRice,DECIMAL,true,false,kg,kg,,
 Quantity of N applied to soil,massNAdded,DECIMAL,false,false,kg,,,
-Is rice field?,isRice,TEXT,false,false,,,false,true,false
+Is rice field?,isRice,TEXT,false,false,,,false,true|false
 Volatilised fraction,fractionVolatilised,DECIMAL,true,false,,,,
 Volatilised N to N2O-N conversion factor,massPerMassVolatilised,DECIMAL,true,false,kg,kg,,
 Fraction leached,fractionLeached,DECIMAL,true,false,,,,
 Leached N to N2O-N conversion factor,massPerMassLeached,DECIMAL,true,false,kg,kg,,
-Soil is leached?,isLeached,TEXT,false,false,,,false,true,false
+Soil is leached?,isLeached,TEXT,false,false,,,false,true|false
 Source,source,TEXT,true,false,,,,

@@ -15,5 +15,5 @@ Long1,long1,DECIMAL,false,false,,,-999,
 Long2,long2,DECIMAL,false,false,,,-999,
 Number of passengers,numberOfPassengers,DECIMAL,false,false,,,,
 Radiative Forcing Index (RFI),radiativeForcingIndex,DECIMAL,false,false,,,1.9,
-Use RFI,useRFI,TEXT,false,false,,,false,true,false
-Is return flight,isReturn,TEXT,false,false,,,false,true,false
+Use RFI,useRFI,TEXT,false,false,,,false,true|false
+Is return flight,isReturn,TEXT,false,false,,,false,true|false

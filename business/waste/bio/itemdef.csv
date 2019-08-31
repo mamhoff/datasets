@@ -6,5 +6,5 @@ N2O emissions factor (dry weight basis),massN2OPerDryMass,DECIMAL,true,false,g,k
 N2O emissions factor (wet weight basis),massN2OPerWetMass,DECIMAL,true,false,g,kg,,
 Quantity treated,mass,DECIMAL,false,false,Gg,,,
 Quantity of recovered methane,recoveredMethane,DECIMAL,false,false,Gg,,,
-Is wet weight basis,isWetWeight,TEXT,false,false,,,false,true,false
+Is wet weight basis,isWetWeight,TEXT,false,false,,,false,true|false
 Source,source,TEXT,true,false,,,,

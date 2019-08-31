@@ -5,6 +5,6 @@ Total carbon content,totalCarbonContent,DECIMAL,true,false,,,,
 Fossil carbon content,fossilCarbonContent,DECIMAL,true,false,,,,
 Oxidation factor,oxidationFactor,DECIMAL,true,false,,,,
 Quantity waste burned,mass,DECIMAL,false,false,t,,,
-Is wet weight basis,isWetWeight,TEXT,false,false,,,false,true,false
-Include all carbon,includeAllCarbon,TEXT,false,false,,,false,true,false
+Is wet weight basis,isWetWeight,TEXT,false,false,,,false,true|false
+Include all carbon,includeAllCarbon,TEXT,false,false,,,false,true|false
 Source,source,TEXT,true,false,,,,

@@ -4,4 +4,4 @@ Rating,rating,TEXT,true,true,,,,
 KWh Per Year,kWhPerYear,DECIMAL,true,false,,,,
 Source,source,TEXT,true,false,,,,
 Number Owned,numberOwned,INTEGER,false,false,,,1,
-On standby,onStandby,TEXT,false,false,,,,always=always,mostly=mostly,sometimes=sometimes,never=never
+On standby,onStandby,TEXT,false,false,,,,always=always|mostly=mostly|sometimes=sometimes|never=never

@@ -5,5 +5,5 @@ Post-mining phase emissions per tonne,volumeCH4PerMassPostMining,DECIMAL,true,fa
 Coal production rate,coalProduction,DECIMAL,false,false,t,year,,
 Rate of methane recovery,recoveredMethane,DECIMAL,false,false,m^3,year,0,
 In situ gas content,inSituGasContent,DECIMAL,false,false,m^3,t,,
-Is mine pre-drained?,isPreDrained,TEXT,false,false,,,false,true,false
+Is mine pre-drained?,isPreDrained,TEXT,false,false,,,false,true|false
 Source,source,TEXT,true,false,,,,

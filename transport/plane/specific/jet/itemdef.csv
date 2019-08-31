@@ -35,6 +35,6 @@ Duration of take off,takeOffDuration,DECIMAL,false,false,min,,0.7,
 Duration of climb out,climbOutDuration,DECIMAL,false,false,min,,2.2,
 Duration of approach,approachDuration,DECIMAL,false,false,min,,4,
 Duration taxiing,taxiDuration,DECIMAL,false,false,min,,26,
-Use RFI,useRFI,TEXT,false,false,,,false,true,false
+Use RFI,useRFI,TEXT,false,false,,,false,true|false
 Radiative Forcing Index (RFI),radiativeForcingIndex,DECIMAL,false,false,,,1.9,
 Source,source,TEXT,true,false,,,,

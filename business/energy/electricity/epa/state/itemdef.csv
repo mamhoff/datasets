@@ -12,5 +12,5 @@ Hg quantity per unit electricity,massHgPerEnergy,DECIMAL,true,false,lb,GWh,,
 Name of state,stateName,TEXT,true,false,,,,
 Parent grid of state,gridRegion,TEXT,true,false,,,,
 Electricity consumed,energy,DECIMAL,false,false,kWh,,,
-Include transmission losses?,includeTransmissionLosses,TEXT,false,false,,,true,true,false
+Include transmission losses?,includeTransmissionLosses,TEXT,false,false,,,true,true|false
 Source,source,TEXT,true,false,,,,

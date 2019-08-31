@@ -15,5 +15,5 @@ Amount of Waste Treated by Power Only Moving Grate,quantityMovingGrate,DECIMAL,f
 Amount of Waste Treated by Anaerobic Digestion,quantityAnaerobicDigestion,DECIMAL,false,false,t,,0,
 Amount of Waste Disposed of by Composting,quantityComposted,DECIMAL,false,false,t,,0,
 Amount of Waste Disposed of by Landfill,quantityLandfill,DECIMAL,false,false,t,,0,
-Return disposal emissions only,disposalEmissionsOnly,TEXT,false,false,,,false,true,false
+Return disposal emissions only,disposalEmissionsOnly,TEXT,false,false,,,false,true|false
 Source,source,TEXT,true,false,,,,

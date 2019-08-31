@@ -56,6 +56,6 @@ Lat1,lat1,DECIMAL,false,false,,,-999,
 Lat2,lat2,DECIMAL,false,false,,,-999,
 Long1,long1,DECIMAL,false,false,,,-999,
 Long2,long2,DECIMAL,false,false,,,-999,
-Use RFI,useRFI,TEXT,false,false,,,false,true,false
+Use RFI,useRFI,TEXT,false,false,,,false,true|false
 Radiative Forcing Index (RFI),radiativeForcingIndex,DECIMAL,false,false,,,1.9,
 Source,source,TEXT,true,false,,,,

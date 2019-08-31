@@ -9,6 +9,6 @@ Oxidation factor,oxidationFactor,DECIMAL,true,false,,,,
 CH4 emissions factor,massCH4PerMass,DECIMAL,true,false,g,t,,
 N2O emissions factor,massN2OPerMass,DECIMAL,true,false,g,t,,
 Quantity waste burned,mass,DECIMAL,false,false,t,,,
-Is wet weight basis,isWetWeight,TEXT,false,false,,,false,true,false
-Include all carbon,includeAllCarbon,TEXT,false,false,,,false,true,false
+Is wet weight basis,isWetWeight,TEXT,false,false,,,false,true|false
+Include all carbon,includeAllCarbon,TEXT,false,false,,,false,true|false
 Source,source,TEXT,true,false,,,,
