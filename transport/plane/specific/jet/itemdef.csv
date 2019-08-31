@@ -1,4 +1,4 @@
-name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Aircraft name,aircraft,TEXT,true,true,,,,
 Take off fuel consumption,massFuelTakeOff,DECIMAL,true,false,kg,,,
 Climb out fuel consumption,massFuelClimbOut,DECIMAL,true,false,kg,,,

@@ -1,4 +1,4 @@
-name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Aircraft name,aircraft,TEXT,true,true,,,,
 232 km taxi out fuel consumption,massFuelTaxiOut232km,DECIMAL,true,false,kg,,,
 463 km taxi out fuel consumption,massFuelTaxiOut463km,DECIMAL,true,false,kg,,,
