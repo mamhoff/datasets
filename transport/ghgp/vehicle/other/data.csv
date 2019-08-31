@@ -1,5 +1,5 @@
 "type","fuel","emissionStandard","distancePerVolume","massCO2PerDistance","massBiogenicCO2PerDistance","units","source"
-"bus","ethanol"<sub>5</sub>1.112,,"http://www.ghgprotocol.org/calculation-tools/all-tools"
+"bus","ethanol",,5,,1.112,,"http://www.ghgprotocol.org/calculation-tools/all-tools"
 "bus","diesel",,3.7,2.73810810810811,,,"http://www.ghgprotocol.org/calculation-tools/all-tools"
 "bus","gasoline",,5,1.7197469982,,,"http://www.ghgprotocol.org/calculation-tools/all-tools"
 "passenger car","gasoline","1984-1993",22.5,0.3821659996,,,"http://www.ghgprotocol.org/calculation-tools/all-tools"
