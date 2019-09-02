@@ -20,7 +20,9 @@
     "Martin Meyerhoff <mamhoff@gmail.com>"
   ],
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "glob": "^7.1.4"
+  },
   "devDependencies": {
     "@babel/cli": "^7.5.0",
     "@babel/core": "^7.5.4",
