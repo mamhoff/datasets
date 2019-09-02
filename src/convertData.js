@@ -1,7 +1,7 @@
 const fs = require('fs');
 const neatCsv = require('neat-csv');
 
-export async function getItemDefinitions(path) {
+async function getItemDefinitions(path) {
   const csvData = fs.readFileSync(path + "/itemdef.csv", "utf8");
   const parsedCsv = await neatCsv(csvData, {
     mapValues: ({ header, index, value }) => {
@@ -23,7 +23,7 @@ export async function getItemDefinitions(path) {
   return returnValue;
 }
 
-export async function getData(path) {
+async function getData(path) {
   const itemDefinitions = await getItemDefinitions(path)
   const csvData = fs.readFileSync(path + "/data.csv", "utf8");
   const parsedCsv = await neatCsv(csvData, {
@@ -41,3 +41,5 @@ export async function getData(path) {
   })
   return parsedCsv;
 }
+
+module.exports = { getData, getItemDefinitions }
