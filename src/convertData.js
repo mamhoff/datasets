@@ -32,7 +32,7 @@ async function getData(path) {
         return null;
       } else if (header.startsWith('is')) {
         return value == "true"
-      } else if (itemDefinitions[header].type === "DECIMAL") {
+      } else if (itemDefinitions[header] && itemDefinitions[header].type === "DECIMAL") {
         return parseFloat(value)
       } else {
         return value.trim()
